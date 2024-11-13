@@ -1,0 +1,238 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DTEND:20251006T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20251006T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:6ff10671-a789-4969-9d24-2ca9a89e4a89@6ff1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt trifft sich einmal monatlich zur Mitgliederversammlung\, um über aktuelle Themen zu diskutieren. Zumeist steht jede Sitzung unter einem Schwerpunktthema\, das wir zusammen mit fachkundigen Gästen diskutieren. Interessierte sind gerne gesehen!
+DTEND:20241118T200000Z
+LOCATION:Weltclub Dresden - Ein Projekt von Afropa e.V.\, Königsbrücker Str. 13\, 01099 Dresden\, Deutschland
+DTSTART:20241118T180000Z
+SUMMARY:OV Neustadt Mitgliederversammlung: Rasha Nasr (MdB) & Stephan Schumann zur aktuellen Lage im Bund
+UID:1c2d0510-b674-48af-859c-10318fae7b2f@1c2d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241216T200000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20241216T180000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:51b0f18c-cbde-4eca-ae57-2af7f0867946@51b0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250915T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250915T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:ff3ca7a4-6a72-4ec6-9882-9324761a3691@ff3c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250616T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250616T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:8b0e2c92-7750-4663-8110-dcd3cc620ac6@8b0e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241216T193000Z
+LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
+DTSTART:20241216T173000Z
+SUMMARY:OV Plauen: mitgliederöffentliche Ortsvereinsvorstandssitzung
+UID:ea9e3c86-d7da-4fdd-ad2f-78eb37df090e@ea9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250307T180000Z
+DTSTART:20250307T150000Z
+SUMMARY:MV ASF
+UID:740dba90-5230-4d12-aeb5-41aacf64db5b@740d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der Unterbezirksvorstand ist zwischen den Parteitagen das politische Leitgremium der Dresdner SPD. Er trifft sich mindestens monatlich zu Sitzungen\, die für Dresdner SPD-Mitglieder stets öffentlich sind.
+DTEND:20241211T193000Z
+LOCATION:Herbert-Wehner-Haus (Devrientstr. 7)
+DTSTART:20241211T173000Z
+SUMMARY:SPD-Unterbezirksvorstand
+UID:19beaf6c-e54c-492c-a855-d756b8093abd@19be.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T200000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20241118T180000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:f1b5187b-33ad-4b47-81c1-6404d39bbcd7@f1b5.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250721T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250721T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:eb7925fa-0a41-47f7-a5f5-f395be3a1be8@eb79.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250317T200000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250317T180000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:9086141b-60df-44b4-a9df-4081a1303ac2@9086.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250804T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250804T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:41616bc4-5468-4c0f-8f3c-2218b3d3b718@4161.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250818T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250818T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:1d5b0d5f-e3ef-46e9-9cd0-f3396fe36172@1d5b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250519T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250519T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:c0756ce4-ac2b-46d2-a63b-50d6aa21c02d@c075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt lädt traditionell mit einem eigenen Programm im Rahmen des Kurzfilmtages ein.
+DTEND:20241216T200000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
+DTSTART:20241216T180000Z
+SUMMARY:OV Neustadt Kurzfilmtag
+UID:5c86211e-e763-44a6-abf4-a4bdfb5a9f46@5c86.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241209T210000Z
+LOCATION:Gasthof Weißig\nBautzner Landstraße 280\, 01328 Dresden\, Deutschland
+DTSTART:20241209T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: WEIHNACHTSFEIER
+UID:f8937193-b51c-4c7d-b33f-efd895d405e3@f893.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251020T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20251020T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:2e9963d1-a0d2-459b-aeae-1b5eb6a4b98b@2e99.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250120T200000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250120T180000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:898f9d64-095f-4320-bfd9-e40a39f5d4c3@898f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250203T210000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250203T180000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:ebd02b45-a08a-43de-8445-322486bcc258@ebd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250303T210000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250303T180000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:968d03d8-ac51-47bb-85e2-a22f381de7d0@968d.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250217T200000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250217T180000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:553e28dd-5209-4fdc-91bf-0ab0b439ee91@553e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der Unterbezirksvorstand ist zwischen den Parteitagen das politische Leitgremium der Dresdner SPD. Er trifft sich mindestens monatlich zu Sitzungen\, die für Dresdner SPD-Mitglieder stets öffentlich sind.
+DTEND:20241119T193000Z
+LOCATION:Herbert-Wehner-Haus (Devrientstr. 7)
+DTSTART:20241119T173000Z
+SUMMARY:SPD-Unterbezirksvorstand
+UID:d40a9998-42eb-430f-b26b-73cd64937cbf@d40a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Einmal im Monat trifft sich der Vorstand des Ortsvereins mitgliederöffentlich\, um die Arbeit der SPD in der Dresdner Neustadt zu planen.
+DTEND:20241202T193000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
+DTSTART:20241202T173000Z
+SUMMARY:OV Neustadt Vorstand
+UID:cf0fa918-eeaa-4cf2-b3ef-ed446f8482c5@cf0f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250602T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250602T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:2e4f7fb5-7312-43bf-ac12-d24a05e0da41@2e4f.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250421T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250421T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:f3da7859-7a12-4218-9566-86c1a3853ec8@f3da.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250106T210000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250106T180000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:480b2491-0791-4c8c-b109-2b5a3eb5acee@480b.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250901T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250901T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:8f9cc9f7-c14d-4fc0-9bf3-17c997be6d6c@8f9c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251103T210000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20251103T180000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:3208c270-c348-46a6-80f1-0032e246314e@3208.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241118T193000Z
+LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
+DTSTART:20241118T173000Z
+SUMMARY:OV Plauen: mitgliederöffentliche Ortsvereinsvorstandssitzung
+UID:1722db42-5c23-43cb-818a-b0b098bb2923@1722.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250307T183000Z
+DTSTART:20250307T170000Z
+SUMMARY:ASF Vollversammlung
+UID:6afe902b-8cc2-4d3f-833c-8c30f31abe21@6afe.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250407T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250407T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:9b2a763d-4fe6-42fa-9a4b-40f526e1605e@9b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250707T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250707T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:399cbfb0-a845-4a20-90cd-281b22e01f28@399c.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250505T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250505T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:a45fbb24-9257-402a-ab3c-c4e6e95f91f0@a45f.org
+END:VEVENT
+END:VCALENDAR
