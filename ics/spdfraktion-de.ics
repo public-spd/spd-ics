@@ -1,6 +1,16 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+CALSCALE:GEORGIAN
+BEGIN:VEVENT
+DESCRIPTION:Mit: Bengt Bergt\, Dr. Johannes Fechner
+DTEND:20241118T210000Z
+LOCATION:  Nur Online
+DTSTART:20241118T193000Z
+SUMMARY:Demokratie im Stresstest
+UID:674952d5-9b04-4928-a477-bcd58e0f4b4f@6749.org
+URL:https://spdfraktion.de/termine/2024-11-18-demokratie-stresstest
+END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Carsten Träger\, Sabine Dittmar
 DTEND:20241122T203000Z
@@ -108,15 +118,6 @@ DTSTART:20241123T150000Z
 SUMMARY:Politischer Martini
 UID:0e961661-61cb-4ccf-8684-2bf5a3641c55@0e96.org
 URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Bengt Bergt\, Dr. Johannes Fechner
-DTEND:20241118T210000Z
-LOCATION:  Nur Online
-DTSTART:20241118T193000Z
-SUMMARY:Demokratie im Stresstest
-UID:674952d5-9b04-4928-a477-bcd58e0f4b4f@6749.org
-URL:https://spdfraktion.de/termine/2024-11-18-demokratie-stresstest
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Heike Heubach\, Christoph Schmid
