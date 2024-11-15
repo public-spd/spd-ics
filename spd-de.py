@@ -25,9 +25,13 @@ def split_date(date, region=REGION, languages=[REGION.lower()]):
 def parse_time(time, region=REGION, languages=[REGION.lower()]):
     if not time:
         return None
-    if "Uhr" in time:
+    if 'Uhr' in time:
         tzinfo = datetime.datetime.now(datetime.timezone.utc).astimezone().tzinfo
-        return datetime.time(hour=int(time.split("Uhr")[0]), tzinfo=tzinfo)
+        time = time.split("Uhr")[0]
+        if ':' in time:
+            hour_minute = time.split(':')
+            return datetime.time(hour=int(hour_minute[0]), minute=int(hour_minute[1]))
+        return datetime.time(hour=int(time), tzinfo=tzinfo)
     try:
         return dateparser.parse(time, languages=languages, region=region, settings={
                             'RETURN_AS_TIMEZONE_AWARE': True,
