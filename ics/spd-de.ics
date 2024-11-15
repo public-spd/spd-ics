@@ -17,17 +17,17 @@ UID:0091f34e-f21b-4ac1-a9a5-6a478a0ee36f@0091.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-beim-spd-landesparteitag-in-offenburg/14/11/2024
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20161102
-DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
-SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:d4a1795b-c1b6-4722-a3bb-8e745126eb2a@d4a1.org
-URL:https://www.spd.de/mitreden/
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241116
 DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
 SUMMARY: Jetzt reden. Zukunft bewegen. 
 UID:c3088595-f708-469a-aac1-7a30bd00b3fc@c308.org
+URL:https://www.spd.de/mitreden/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161102
+DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
+SUMMARY: Jetzt reden. Zukunft bewegen. 
+UID:d4a1795b-c1b6-4722-a3bb-8e745126eb2a@d4a1.org
 URL:https://www.spd.de/mitreden/
 END:VEVENT
 BEGIN:VEVENT
