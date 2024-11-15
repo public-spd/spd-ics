@@ -300,15 +300,6 @@ UID:4636887d-1a06-4348-a186-5ca51883e734@4636.org
 URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
-DTEND:20241121T204500Z
-LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
-DTSTART:20241121T190000Z
-SUMMARY:Demokratie retten. Jetzt erst recht!
-UID:5aeec2e8-3626-4e45-8e83-b1e5429c5eba@5aee.org
-URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Bärbel Kofler\, Dr. Matthias Miersch
 DTEND:20241120T190000Z
 LOCATION:  Nur Online
@@ -316,6 +307,15 @@ DTSTART:20241120T180000Z
 SUMMARY:Turbo für erneuerbare Energien 
 UID:2631b58b-fcd0-4e0d-a3c4-9fc1683ca81f@2631.org
 URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
+DTEND:20241121T204500Z
+LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
+DTSTART:20241121T190000Z
+SUMMARY:Demokratie retten. Jetzt erst recht!
+UID:5aeec2e8-3626-4e45-8e83-b1e5429c5eba@5aee.org
+URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
