@@ -8,10 +8,12 @@ from bs4 import BeautifulSoup
 from ics import Calendar, Event
 
 OUTFILE = 'ics/spdfraktion-de.ics'
-TIMEZONE = 'DE'
-REGION = 'DE'
 URL = 'https://www.spdfraktion.de/termine?s=&field_date_span_value%5Bdate%5D=&sort_by=created&sort_order=&items_per_page=100'
-
+SETTINGS = {
+        'DEFAULT_LANGUAGES': ['de'],
+        'PREFER_DATES_FROM': 'future',
+        'TIMEZONE': 'de',
+        'RETURN_AS_TIMEZONE_AWARE': True}
 
 def generate_events(url):
     response = requests.get(url)
@@ -28,8 +30,8 @@ def generate_events(url):
         url = name.find('a').get('href')
 
         yield Event(name=name.get_text(),
-                    begin=dateparser.parse(begin).isoformat(),
-                    end=dateparser.parse(end).isoformat(),
+                    begin=dateparser.parse(begin, settigns=SETTINGS).isoformat(),
+                    end=dateparser.parse(end, settings=SETTINGS).isoformat(),
                     description=node_termin.find_all('span', class_='participants')[0].get_text(),
                     location=node_termin.find_all('span', class_='location')[0].get_text(),
                     url=("" if url.startswith("https://") else "https://spdfraktion.de") + url)
