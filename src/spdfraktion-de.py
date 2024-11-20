@@ -12,7 +12,7 @@ URL = 'https://www.spdfraktion.de/termine?s=&field_date_span_value%5Bdate%5D=&so
 SETTINGS = {
         'DEFAULT_LANGUAGES': ['de'],
         'PREFER_DATES_FROM': 'future',
-        'TIMEZONE': 'de',
+        'TIMEZONE': 'Europe/Berlin',
         'RETURN_AS_TIMEZONE_AWARE': True}
 
 def generate_events(url):
@@ -30,7 +30,7 @@ def generate_events(url):
         url = name.find('a').get('href')
 
         yield Event(name=name.get_text(),
-                    begin=dateparser.parse(begin, settigns=SETTINGS).isoformat(),
+                    begin=dateparser.parse(begin, settings=SETTINGS).isoformat(),
                     end=dateparser.parse(end, settings=SETTINGS).isoformat(),
                     description=node_termin.find_all('span', class_='participants')[0].get_text(),
                     location=node_termin.find_all('span', class_='location')[0].get_text(),
