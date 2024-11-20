@@ -11,6 +11,10 @@ OUTFILE = 'ics/spd-dresden-de.ics'
 TIMEZONE = 'DE'
 REGION = 'DE'
 URL = 'https://www.spd-dresden.de/termine/'
+SETTINGS = {
+        'RETURN_AS_TIMEZONE_AWARE': True,
+        'PREFER_DAY_OF_MONTH': 'current',
+        'PREFER_DATES_FROM': 'current_period' }
 
 
 def generate_events(url, region=REGION, languages=[REGION.lower()]):
@@ -37,23 +41,17 @@ def generate_events(url, region=REGION, languages=[REGION.lower()]):
                     begin = dateparser.parse(" ".join(date.split(" ")[1:]) + ", " + time.split("–")[0].strip(),
                                              languages=languages,
                                              region=region,
-                                             settings={
-                                                 'RETURN_AS_TIMEZONE_AWARE': True,
-                                                 'PREFER_DAY_OF_MONTH': 'current',
-                                                 'PREFER_DATES_FROM': 'current_period' })
+                                             settings=SETTINGS)
                     now = datetime.datetime.now(datetime.timezone.utc)
                     if begin < now:
                         begin = begin.replace(year=begin.year + 1)
                     end = dateparser.parse(" ".join(date.split(" ")[1:]) + ", " + time.split("–")[1].strip(),
                                            languages=languages,
                                            region=region,
-                                           settings={
-                                               'RETURN_AS_TIMEZONE_AWARE': True,
-                                               'PREFER_DAY_OF_MONTH': 'current',
-                                               'PREFER_DATES_FROM': 'current_period' })
+                                           settings=SETTINGS)
                     if end < now:
                         end = end.replace(year=end.year + 1)
-                    yield Event(name=title, description=desc, location=loc, begin=begin.isoformat(), end=end.isoformat())
+                    yield Event(name=title, description="\n".join([desc, url]), location=loc, begin=begin.isoformat(), end=end.isoformat())
 
 
 if __name__ == "__main__":
