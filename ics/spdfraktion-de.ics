@@ -300,10 +300,28 @@ UID:4636887d-1a06-4348-a186-5ca51883e734@4636.org
 URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal
-DTEND:20241209T201500Z
-LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
-DTSTART:20241209T190000Z
+DESCRIPTION:Mit: Dr. Bärbel Kofler\, Dr. Matthias Miersch
+DTEND:20241120T190000Z
+LOCATION:  Nur Online
+DTSTART:20241120T180000Z
+SUMMARY:Turbo für erneuerbare Energien 
+UID:2631b58b-fcd0-4e0d-a3c4-9fc1683ca81f@2631.org
+URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
+DTEND:20241120T184500Z
+LOCATION:  Vor-Ort | Halle4\, Halbergstraße 4\, 66121 Saarbrücken
+DTSTART:20241120T170000Z
+SUMMARY:Familien nach vorne bringen
+UID:015a1ac1-231b-44bb-bc6d-c69876ff8879@015a.org
+URL:https://spdfraktion.de/termine/2024-11-20-familien-vorne-bringen
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Johannes Schätzl\, Sebastian Roloff
+DTEND:20241121T193000Z
+LOCATION:  Vor-Ort | Gasthof Auer\, Heininger Str. 26\, 94036 Passau
+DTSTART:20241121T183000Z
 SUMMARY:Wie sichern wir Jobs und Wachstum?
 UID:60a1a49a-5150-499a-964e-719383ea534f@60a1.org
 URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
