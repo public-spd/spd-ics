@@ -51,7 +51,7 @@ def generate_events(url, region=REGION, languages=[REGION.lower()]):
                                            settings=SETTINGS)
                     if end < now:
                         end = end.replace(year=end.year + 1)
-                    yield Event(name=title, description="\n".join([desc, url]), location=loc, begin=begin.isoformat(), end=end.isoformat())
+                    yield Event(name=title, description="\n".join([desc if desc else "", url if url else ""]), location=loc, begin=begin.isoformat(), end=end.isoformat())
 
 
 if __name__ == "__main__":
