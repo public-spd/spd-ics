@@ -34,7 +34,8 @@ def parse_time(time, region=REGION, languages=[REGION.lower()]):
         time = time.split("Uhr")[0]
         if ':' in time:
             hour_minute = time.split(':')
-            return datetime.time(hour=int(hour_minute[0]), minute=int(hour_minute[1]))
+            return datetime.time(hour=int(hour_minute[0].replace("ab ", "")),
+                                 minute=int(hour_minute[1]))
         return datetime.time(hour=int(time), tzinfo=tzinfo)
     try:
         return dateparser.parse(time, languages=languages, region=region, settings=SETTINGS).time()
@@ -85,8 +86,8 @@ if __name__ == "__main__":
         event = Event(name=event_dict['name'],
                       begin=begin.isoformat(),
                       duration=datetime.timedelta(hours=1),
-                      description="\n".join([event_dict['description'] if 'description' in event_dict else None,
-                                             event_dict['url']])
+                      description="\n".join([event_dict['description'] if 'description' in event_dict else "",
+                                             event_dict['url']]),
                       url=event_dict['url'])
         if not event_dict['time']:
             event.make_all_day()
