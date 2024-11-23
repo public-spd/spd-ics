@@ -18,19 +18,11 @@ SUMMARY:OV Neustadt Rasha Nasr (MdB) & Stephan Schumann zur Lage im Bund und zur
 UID:db12430f-6f7f-4d0c-ae2b-a2cc7d0a65b1@db12.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt trifft sich einmal monatlich zur Mitgliederversammlung\, um über aktuelle Themen zu diskutieren. Zumeist steht jede Sitzung unter einem Schwerpunktthema\, das wir zusammen mit fachkundigen Gästen diskutieren. Interessierte sind gerne gesehen!
-DTEND:20241118T200000Z
-LOCATION:Weltclub Dresden - Ein Projekt von Afropa e.V.\, Königsbrücker Str. 13\, 01099 Dresden\, Deutschland
-DTSTART:20241118T180000Z
-SUMMARY:OV Neustadt Mitgliederversammlung: Rasha Nasr (MdB) & Stephan Schumann zur aktuellen Lage im Bund
-UID:1c2d0510-b674-48af-859c-10318fae7b2f@1c2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20250915T190000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20250915T170000Z
-SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
-UID:ff3ca7a4-6a72-4ec6-9882-9324761a3691@ff3c.org
+DTEND:20241121T200000Z
+LOCATION:Mama's Pälzer Stubb\, Leipziger Str. 109\, 01127 Dresden\, Deutschland
+DTSTART:20241121T174500Z
+SUMMARY:OV Pieschen: Mitgliederversammlung mit Rasha Nasr\, MdB
+UID:87b08f0f-9289-4bcf-8270-c4606541c1b7@87b0.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20241216T200000Z
@@ -40,11 +32,19 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:51b0f18c-cbde-4eca-ae57-2af7f0867946@51b0.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20241121T200000Z
-LOCATION:Mama's Pälzer Stubb\, Leipziger Str. 109\, 01127 Dresden\, Deutschland
-DTSTART:20241121T174500Z
-SUMMARY:OV Pieschen: Mitgliederversammlung mit Rasha Nasr\, MdB
-UID:87b08f0f-9289-4bcf-8270-c4606541c1b7@87b0.org
+DTEND:20250915T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250915T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:ff3ca7a4-6a72-4ec6-9882-9324761a3691@ff3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt trifft sich einmal monatlich zur Mitgliederversammlung\, um über aktuelle Themen zu diskutieren. Zumeist steht jede Sitzung unter einem Schwerpunktthema\, das wir zusammen mit fachkundigen Gästen diskutieren. Interessierte sind gerne gesehen!
+DTEND:20241118T200000Z
+LOCATION:Weltclub Dresden - Ein Projekt von Afropa e.V.\, Königsbrücker Str. 13\, 01099 Dresden\, Deutschland
+DTSTART:20241118T180000Z
+SUMMARY:OV Neustadt Mitgliederversammlung: Rasha Nasr (MdB) & Stephan Schumann zur aktuellen Lage im Bund
+UID:1c2d0510-b674-48af-859c-10318fae7b2f@1c2d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250616T190000Z
@@ -54,17 +54,17 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:8b0e2c92-7750-4663-8110-dcd3cc620ac6@8b0e.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250307T180000Z
-DTSTART:20250307T150000Z
-SUMMARY:MV ASF
-UID:740dba90-5230-4d12-aeb5-41aacf64db5b@740d.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20241216T193000Z
 LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
 DTSTART:20241216T173000Z
 SUMMARY:OV Plauen: mitgliederöffentliche Ortsvereinsvorstandssitzung
 UID:ea9e3c86-d7da-4fdd-ad2f-78eb37df090e@ea9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250307T180000Z
+DTSTART:20250307T150000Z
+SUMMARY:MV ASF
+UID:740dba90-5230-4d12-aeb5-41aacf64db5b@740d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Der Unterbezirksvorstand ist zwischen den Parteitagen das politische Leitgremium der Dresdner SPD. Er trifft sich mindestens monatlich zu Sitzungen\, die für Dresdner SPD-Mitglieder stets öffentlich sind.
@@ -97,11 +97,11 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:eb7925fa-0a41-47f7-a5f5-f395be3a1be8@eb79.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250818T190000Z
+DTEND:20250317T200000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20250818T170000Z
+DTSTART:20250317T180000Z
 SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
-UID:1d5b0d5f-e3ef-46e9-9cd0-f3396fe36172@1d5b.org
+UID:9086141b-60df-44b4-a9df-4081a1303ac2@9086.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250804T200000Z
@@ -111,11 +111,11 @@ SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
 UID:41616bc4-5468-4c0f-8f3c-2218b3d3b718@4161.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250317T200000Z
+DTEND:20250818T190000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20250317T180000Z
+DTSTART:20250818T170000Z
 SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
-UID:9086141b-60df-44b4-a9df-4081a1303ac2@9086.org
+UID:1d5b0d5f-e3ef-46e9-9cd0-f3396fe36172@1d5b.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250519T190000Z
@@ -133,18 +133,18 @@ SUMMARY:OV Neustadt Kurzfilmtag
 UID:5c86211e-e763-44a6-abf4-a4bdfb5a9f46@5c86.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20241209T210000Z
-LOCATION:Gasthof Weißig\nBautzner Landstraße 280\, 01328 Dresden\, Deutschland
-DTSTART:20241209T170000Z
-SUMMARY:OV ELBHANG/HOCHLAND: WEIHNACHTSFEIER
-UID:f8937193-b51c-4c7d-b33f-efd895d405e3@f893.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20251020T190000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
 DTSTART:20251020T170000Z
 SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:2e9963d1-a0d2-459b-aeae-1b5eb6a4b98b@2e99.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20241209T210000Z
+LOCATION:Gasthof Weißig\nBautzner Landstraße 280\, 01328 Dresden\, Deutschland
+DTSTART:20241209T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: WEIHNACHTSFEIER
+UID:f8937193-b51c-4c7d-b33f-efd895d405e3@f893.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Zusammen mit Politikwissenschaftler Dr. Christian Demuth wollen wir darauf schauen\, was die deutsche Gesellschaft beschäftigt\, und diskutieren\, was das alles für die Bundestagswahl bedeutet.
@@ -162,18 +162,18 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:898f9d64-095f-4320-bfd9-e40a39f5d4c3@898f.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250303T210000Z
-LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
-DTSTART:20250303T180000Z
-SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
-UID:968d03d8-ac51-47bb-85e2-a22f381de7d0@968d.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250203T210000Z
 LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
 DTSTART:20250203T180000Z
 SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
 UID:ebd02b45-a08a-43de-8445-322486bcc258@ebd0.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250303T210000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250303T180000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:968d03d8-ac51-47bb-85e2-a22f381de7d0@968d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250217T200000Z
