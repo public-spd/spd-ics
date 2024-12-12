@@ -10,11 +10,27 @@ UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-schwaebisch-gmuend/11/12/2024
+DURATION:PT1H
+DTSTART:20241215T103000Z
+SUMMARY: Saskia Esken in Schwäbisch Gmünd 
+UID:e398eec9-0e2c-40cf-874b-aff8e4867a5a@e398.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-schwaebisch-gmuend/11/12/2024
+END:VEVENT
+BEGIN:VEVENT
 DURATION:PT1H
 DTSTART:20241116T103000Z
 SUMMARY: Saskia Esken beim SPD-Landesparteitag in Offenburg 
 UID:0091f34e-f21b-4ac1-a9a5-6a478a0ee36f@0091.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-beim-spd-landesparteitag-in-offenburg/14/11/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
+DURATION:PT1H
+DTSTART:20241214T183000Z
+SUMMARY: Lars Klingbeil in Köln 
+UID:c68be5df-216c-4ea3-a31f-f1faa69ebe8d@c68b.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161102
@@ -47,6 +63,13 @@ UID:a5288b43-9521-4236-8e2a-f53c8287c71c@a528.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161110
+DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
+SUMMARY: Jetzt reden. Zukunft bewegen. 
+UID:b6a9818d-a196-4119-9903-c5102c62bc6c@b6a9.org
+URL:https://www.spd.de/mitreden/
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
 DURATION:PT1H
 DTSTART:20241130T103000Z
@@ -55,11 +78,16 @@ UID:79de3d1b-841d-42aa-acb5-131b4310b912@79de.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20161110
-DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
-SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:b6a9818d-a196-4119-9903-c5102c62bc6c@b6a9.org
-URL:https://www.spd.de/mitreden/
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:eedc7c64-a543-4d31-abf5-671140acb5e7@eedc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:5054044c-0506-461b-a3b5-2a54150141e5@5054.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -67,5 +95,28 @@ DTSTART:20241116T150000Z
 SUMMARY: Dialogkonferenz in Essen 
 UID:21bc66b2-809e-41aa-9a73-94e6bbede230@21bc.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/dialogveranstaltung-der-spd-in-essen/08/11/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-in-erfurt-und-nuernberg/11/12/2024
+DURATION:PT1H
+DTSTART:20241214T100000Z
+SUMMARY: Matthias Miersch in Erfurt und Nürnberg 
+UID:de98d469-771f-4009-a202-b96299165474@de98.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-in-erfurt-und-nuernberg/11/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240111
+DESCRIPTION:\nhttps://www.spd.de/service/online-anmeldung
+SUMMARY: Außerordentlicher SPD-Bundesparteitag 
+UID:3a52e679-6e57-4b3b-9fba-1eb7a5bf2486@3a52.org
+URL:https://www.spd.de/service/online-anmeldung
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+DURATION:PT1H
+DTSTART:20241214T110000Z
+SUMMARY: Hubertus Heil in Köthen 
+UID:4ed95b04-21b8-4ddd-bfa2-d56680c38e04@4ed9.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
 END:VEVENT
 END:VCALENDAR

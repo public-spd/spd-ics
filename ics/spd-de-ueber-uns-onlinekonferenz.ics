@@ -1,0 +1,12 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Einladung zur Onlinekonferenz am Mittwoch\, den 27.11.2024 um 19:30 Uhr\nhttps://www.spd.de/ueber-uns/onlinekonferenz
+DURATION:PT1H
+DTSTART:20241127T183000Z
+SUMMARY:Einladung zur Onlinekonferenz am Mittwoch\, den 27.11.2024 um 19:30 Uhr
+UID:a401209b-f902-443f-8222-d50a0de6c4d8@a401.org
+URL:https://www.spd.de/ueber-uns/onlinekonferenz
+END:VEVENT
+END:VCALENDAR
