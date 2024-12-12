@@ -10,6 +10,13 @@ UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+DTSTART:20241116T103000Z
+SUMMARY: Saskia Esken beim SPD-Landesparteitag in Offenburg 
+UID:0091f34e-f21b-4ac1-a9a5-6a478a0ee36f@0091.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-beim-spd-landesparteitag-in-offenburg/14/11/2024
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-schwaebisch-gmuend/11/12/2024
 DURATION:PT1H
 DTSTART:20241215T103000Z
@@ -18,25 +25,10 @@ UID:e398eec9-0e2c-40cf-874b-aff8e4867a5a@e398.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-schwaebisch-gmuend/11/12/2024
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-DTSTART:20241116T103000Z
-SUMMARY: Saskia Esken beim SPD-Landesparteitag in Offenburg 
-UID:0091f34e-f21b-4ac1-a9a5-6a478a0ee36f@0091.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-beim-spd-landesparteitag-in-offenburg/14/11/2024
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
-DURATION:PT1H
-DTSTART:20241214T183000Z
-SUMMARY: Lars Klingbeil in Köln 
-UID:c68be5df-216c-4ea3-a31f-f1faa69ebe8d@c68b.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20161102
+DTSTART;VALUE=DATE:20241116
 DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
 SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:d4a1795b-c1b6-4722-a3bb-8e745126eb2a@d4a1.org
+UID:c3088595-f708-469a-aac1-7a30bd00b3fc@c308.org
 URL:https://www.spd.de/mitreden/
 END:VEVENT
 BEGIN:VEVENT
@@ -48,11 +40,19 @@ UID:acaae29e-9cc4-48f6-924c-99729ad59ec5@acaa.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241116
+DTSTART;VALUE=DATE:20161102
 DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
 SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:c3088595-f708-469a-aac1-7a30bd00b3fc@c308.org
+UID:d4a1795b-c1b6-4722-a3bb-8e745126eb2a@d4a1.org
 URL:https://www.spd.de/mitreden/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
+DURATION:PT1H
+DTSTART:20241214T183000Z
+SUMMARY: Lars Klingbeil in Köln 
+UID:c68be5df-216c-4ea3-a31f-f1faa69ebe8d@c68b.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
@@ -63,13 +63,6 @@ UID:a5288b43-9521-4236-8e2a-f53c8287c71c@a528.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20161110
-DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
-SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:b6a9818d-a196-4119-9903-c5102c62bc6c@b6a9.org
-URL:https://www.spd.de/mitreden/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
 DURATION:PT1H
 DTSTART:20241130T103000Z
@@ -78,10 +71,23 @@ UID:79de3d1b-841d-42aa-acb5-131b4310b912@79de.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161110
+DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
+SUMMARY: Jetzt reden. Zukunft bewegen. 
+UID:b6a9818d-a196-4119-9903-c5102c62bc6c@b6a9.org
+URL:https://www.spd.de/mitreden/
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
 UID:eedc7c64-a543-4d31-abf5-671140acb5e7@eedc.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:0e31c173-963e-4c5a-b4de-7f775e16cd87@0e31.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
