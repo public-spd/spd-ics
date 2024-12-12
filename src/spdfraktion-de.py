@@ -28,13 +28,15 @@ def generate_events(url):
         end = begin[:-5] + end
         name = node_termin.find_all('h4')[0]
         url = name.find('a').get('href')
+        if not url.startswith("https://"):
+            url = "https://spdfraktion.de" + url
 
         yield Event(name=name.get_text(),
                     begin=dateparser.parse(begin, settings=SETTINGS).isoformat(),
                     end=dateparser.parse(end, settings=SETTINGS).isoformat(),
                     description="\n".join([node_termin.find_all('span', class_='participants')[0].get_text(), url]),
                     location=node_termin.find_all('span', class_='location')[0].get_text(),
-                    url=("" if url.startswith("https://") else "https://spdfraktion.de") + url)
+                    url=url)
 
 def serialize(event):
     return "\t".join([str(event.name), str(event.begin), str(event.url)])
