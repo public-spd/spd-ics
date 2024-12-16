@@ -25,6 +25,12 @@ UID:acaae29e-9cc4-48f6-924c-99729ad59ec5@acaa.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:6f56ddf3-ad6e-4e6e-bf05-8f4f836c8dc8@6f56.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
 DURATION:PT1H
 DTSTART:20241130T103000Z
