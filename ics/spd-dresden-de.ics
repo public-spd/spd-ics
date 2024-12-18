@@ -43,13 +43,6 @@ SUMMARY:Juso-Dienstag
 UID:dfc13536-40ae-41d9-9b54-3a957e43ed57@dfc1.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250818T190000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20250818T170000Z
-SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
-UID:1d5b0d5f-e3ef-46e9-9cd0-f3396fe36172@1d5b.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250804T200000Z
 LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
 DTSTART:20250804T170000Z
@@ -63,6 +56,13 @@ LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent
 DTSTART:20250610T183000Z
 SUMMARY:Juso-Dienstag
 UID:99c69e5e-5115-4273-8cf4-5e945a65f2d9@99c6.org
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20250818T190000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250818T170000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:1d5b0d5f-e3ef-46e9-9cd0-f3396fe36172@1d5b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
@@ -143,6 +143,14 @@ SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
 UID:3208c270-c348-46a6-80f1-0032e246314e@3208.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250125T140000Z
+LOCATION:Herbert-Wehner-Haus\, Devrientstraße 7\, 01067 Dresden\, Deutschland
+DTSTART:20250125T110000Z
+SUMMARY:Neujahrsempfang der SPD Dresden und ihrer Abgeordneten
+UID:f281c172-f5cf-4e54-94e7-6c97cc306322@f281.org
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250307T183000Z
 DTSTART:20250307T170000Z
 SUMMARY:ASF Vollversammlung
@@ -194,17 +202,24 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:8b0e2c92-7750-4663-8110-dcd3cc620ac6@8b0e.org
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20241216T193000Z
+LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
+DTSTART:20241216T173000Z
+SUMMARY:OV Plauen: mitgliederöffentliche Ortsvereinsvorstandssitzung
+UID:ea9e3c86-d7da-4fdd-ad2f-78eb37df090e@ea9e.org
+END:VEVENT
+BEGIN:VEVENT
 DTEND:20250307T180000Z
 DTSTART:20250307T150000Z
 SUMMARY:MV ASF
 UID:740dba90-5230-4d12-aeb5-41aacf64db5b@740d.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20241216T193000Z
-LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
-DTSTART:20241216T173000Z
-SUMMARY:OV Plauen: mitgliederöffentliche Ortsvereinsvorstandssitzung
-UID:ea9e3c86-d7da-4fdd-ad2f-78eb37df090e@ea9e.org
+DTEND:20241118T200000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20241118T180000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:f1b5187b-33ad-4b47-81c1-6404d39bbcd7@f1b5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
@@ -361,13 +376,6 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:eb7925fa-0a41-47f7-a5f5-f395be3a1be8@eb79.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250407T200000Z
-LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
-DTSTART:20250407T170000Z
-SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
-UID:9b2a763d-4fe6-42fa-9a4b-40f526e1605e@9b2a.org
-END:VEVENT
-BEGIN:VEVENT
 DTEND:20250317T200000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
 DTSTART:20250317T180000Z
@@ -451,19 +459,12 @@ SUMMARY:Juso-Dienstag
 UID:11a09401-1eb7-46b8-a209-cbe0f9a30cb4@11a0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt trifft sich einmal monatlich zur Mitgliederversammlung\, um über aktuelle Themen zu diskutieren. Zumeist steht jede Sitzung unter einem Schwerpunktthema\, das wir zusammen mit fachkundigen Gästen diskutieren. Interessierte sind gerne gesehen!
-DTEND:20241118T200000Z
-LOCATION:Weltclub Dresden - Ein Projekt von Afropa e.V.\, Königsbrücker Str. 13\, 01099 Dresden\, Deutschland
-DTSTART:20241118T180000Z
-SUMMARY:OV Neustadt Mitgliederversammlung: Rasha Nasr (MdB) & Stephan Schumann zur aktuellen Lage im Bund
-UID:1c2d0510-b674-48af-859c-10318fae7b2f@1c2d.org
-END:VEVENT
-BEGIN:VEVENT
-DTEND:20241216T200000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20241216T180000Z
-SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
-UID:51b0f18c-cbde-4eca-ae57-2af7f0867946@51b0.org
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250722T210000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
+DTSTART:20250722T183000Z
+SUMMARY:Juso-Dienstag
+UID:31d35ea2-2fa2-4425-a9d7-f84dda05930b@31d3.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20241121T200000Z
@@ -481,12 +482,19 @@ SUMMARY:Juso-Dienstag
 UID:1e23d945-0f55-4f05-80ad-746c67531fe4@1e23.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250722T210000Z
-LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
-DTSTART:20250722T183000Z
-SUMMARY:Juso-Dienstag
-UID:31d35ea2-2fa2-4425-a9d7-f84dda05930b@31d3.org
+DTEND:20241216T200000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20241216T180000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
+UID:51b0f18c-cbde-4eca-ae57-2af7f0867946@51b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt trifft sich einmal monatlich zur Mitgliederversammlung\, um über aktuelle Themen zu diskutieren. Zumeist steht jede Sitzung unter einem Schwerpunktthema\, das wir zusammen mit fachkundigen Gästen diskutieren. Interessierte sind gerne gesehen!
+DTEND:20241118T200000Z
+LOCATION:Weltclub Dresden - Ein Projekt von Afropa e.V.\, Königsbrücker Str. 13\, 01099 Dresden\, Deutschland
+DTSTART:20241118T180000Z
+SUMMARY:OV Neustadt Mitgliederversammlung: Rasha Nasr (MdB) & Stephan Schumann zur aktuellen Lage im Bund
+UID:1c2d0510-b674-48af-859c-10318fae7b2f@1c2d.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250519T190000Z
@@ -558,11 +566,11 @@ SUMMARY:Juso-Dienstag
 UID:4c8ab1b6-7940-45ee-bb0d-1cb1aa728ec7@4c8a.org
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20241118T200000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20241118T180000Z
-SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
-UID:f1b5187b-33ad-4b47-81c1-6404d39bbcd7@f1b5.org
+DTEND:20250407T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250407T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:9b2a763d-4fe6-42fa-9a4b-40f526e1605e@9b2a.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250505T200000Z
