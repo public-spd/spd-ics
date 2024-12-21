@@ -86,6 +86,12 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:5a50798e-7285-4ae5-86ad-e13b2431f504@5a50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
 UID:699bf5d6-ac41-413b-a4e8-3723c9262313@699b.org
 END:VEVENT
 BEGIN:VEVENT
@@ -96,20 +102,20 @@ UID:3a52e679-6e57-4b3b-9fba-1eb7a5bf2486@3a52.org
 URL:https://www.spd.de/service/online-anmeldung
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
-DURATION:PT1H
-DTSTART:20241217T140000Z
-SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
-UID:ae8cab6b-cf99-48ad-b9ac-ac8baf7399be@ae8c.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
 DURATION:PT1H
 DTSTART:20241218T170000Z
 SUMMARY: Matthias Miersch bei der Landesvertreter:innenversammlung der SPD Berlin 
 UID:a36ee87f-48bc-47d1-8c06-1b434d0b2f29@a36e.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+DURATION:PT1H
+DTSTART:20241217T140000Z
+SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
+UID:ae8cab6b-cf99-48ad-b9ac-ac8baf7399be@ae8c.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
