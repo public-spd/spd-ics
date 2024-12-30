@@ -76,6 +76,14 @@ UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/einladung-zum-jahresauftakt-des-spd-praesidiums/30/12/2024
+DURATION:PT1H
+DTSTART:20250105T100000Z
+SUMMARY: Einladung zum Jahresauftakt des SPD-Präsidiums 
+UID:83cac93a-39bb-4e72-ba9f-61d339dbb8b9@83ca.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/einladung-zum-jahresauftakt-des-spd-praesidiums/30/12/2024
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161102
 DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
 SUMMARY: Jetzt reden. Zukunft bewegen. 
@@ -140,20 +148,20 @@ UID:6e3e8df7-8e92-4391-a79e-146410e5c152@6e3e.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-hubertus-heil-und-matthias-miersch-bei-der-lvv-niedersachsen/27/12/2024
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
-DURATION:PT1H
-DTSTART:20241218T170000Z
-SUMMARY: Matthias Miersch bei der Landesvertreter:innenversammlung der SPD Berlin 
-UID:a36ee87f-48bc-47d1-8c06-1b434d0b2f29@a36e.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
 DURATION:PT1H
 DTSTART:20241217T140000Z
 SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
 UID:ae8cab6b-cf99-48ad-b9ac-ac8baf7399be@ae8c.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
+DURATION:PT1H
+DTSTART:20241218T170000Z
+SUMMARY: Matthias Miersch bei der Landesvertreter:innenversammlung der SPD Berlin 
+UID:a36ee87f-48bc-47d1-8c06-1b434d0b2f29@a36e.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
@@ -230,6 +238,12 @@ DTSTART:20241214T183000Z
 SUMMARY: Lars Klingbeil in Köln 
 UID:c68be5df-216c-4ea3-a31f-f1faa69ebe8d@c68b.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:ca5e16e6-a3d3-4ef6-82de-58a1f6c8b6db@ca5e.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
