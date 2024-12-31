@@ -23,18 +23,26 @@ UID:c3088595-f708-469a-aac1-7a30bd00b3fc@c308.org
 URL:https://www.spd.de/mitreden/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
 DURATION:PT1H
-DTSTART:20241126T180000Z
-SUMMARY: Verleihung Regine-Hildebrandt-Preis 2024 
-UID:acaae29e-9cc4-48f6-924c-99729ad59ec5@acaa.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
+DTSTART:20241214T110000Z
+SUMMARY: Hubertus Heil in Köthen 
+UID:4ed95b04-21b8-4ddd-bfa2-d56680c38e04@4ed9.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
 UID:6f56ddf3-ad6e-4e6e-bf05-8f4f836c8dc8@6f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
+DURATION:PT1H
+DTSTART:20241126T180000Z
+SUMMARY: Verleihung Regine-Hildebrandt-Preis 2024 
+UID:acaae29e-9cc4-48f6-924c-99729ad59ec5@acaa.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
@@ -61,6 +69,12 @@ DTSTART;VALUE=DATE:20240302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
 UID:dfa984ba-4822-4c1f-b9d1-96bb137400ed@dfa9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:01bd03f2-df87-4d3b-8cf5-ecb5cd046177@01bd.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
@@ -148,20 +162,20 @@ UID:6e3e8df7-8e92-4391-a79e-146410e5c152@6e3e.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-hubertus-heil-und-matthias-miersch-bei-der-lvv-niedersachsen/27/12/2024
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
-DURATION:PT1H
-DTSTART:20241217T140000Z
-SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
-UID:ae8cab6b-cf99-48ad-b9ac-ac8baf7399be@ae8c.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
 DURATION:PT1H
 DTSTART:20241218T170000Z
 SUMMARY: Matthias Miersch bei der Landesvertreter:innenversammlung der SPD Berlin 
 UID:a36ee87f-48bc-47d1-8c06-1b434d0b2f29@a36e.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+DURATION:PT1H
+DTSTART:20241217T140000Z
+SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
+UID:ae8cab6b-cf99-48ad-b9ac-ac8baf7399be@ae8c.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
@@ -232,14 +246,6 @@ SUMMARY: Bürgerschaftswahl in Hamburg
 UID:e495901d-7e6c-47cd-90a5-46b6e1d78556@e495.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
-DURATION:PT1H
-DTSTART:20241214T183000Z
-SUMMARY: Lars Klingbeil in Köln 
-UID:c68be5df-216c-4ea3-a31f-f1faa69ebe8d@c68b.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
@@ -266,11 +272,11 @@ UID:de98d469-771f-4009-a202-b96299165474@de98.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-in-erfurt-und-nuernberg/11/12/2024
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
 DURATION:PT1H
-DTSTART:20241214T110000Z
-SUMMARY: Hubertus Heil in Köthen 
-UID:4ed95b04-21b8-4ddd-bfa2-d56680c38e04@4ed9.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+DTSTART:20241214T183000Z
+SUMMARY: Lars Klingbeil in Köln 
+UID:c68be5df-216c-4ea3-a31f-f1faa69ebe8d@c68b.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
 END:VEVENT
 END:VCALENDAR
