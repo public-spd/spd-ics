@@ -82,10 +82,15 @@ if __name__ == "__main__":
                 contained.add("\t".join([str(event.name), str(event.url)]))
 
     for event_dict in generate_events(URL):
+        if 'date' not in event_dict \
+                or not event_dict['date'] \
+                or 'time' not in event_dict \
+                or not event_dict['time']:
+            continue
         begin = datetime.datetime.combine(event_dict['date'],
                                           event_dict['time']) if ('time' in event_dict and event_dict['time']) else event_dict['date']
         event = Event(name=event_dict['name'],
-                      begin=begin.isoformat(),
+                      begin=begin,
                       duration=datetime.timedelta(hours=1),
                       description="\n".join([event_dict['description'] if 'description' in event_dict else "",
                                              event_dict['url'] if ('url' in event_dict and event_dict['url']) else ""]),
