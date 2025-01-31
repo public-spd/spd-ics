@@ -4,40 +4,43 @@ PRODID:ics.py - http://git.io/lLljaA
 CALSCALE:GEORGIAN
 BEGIN:VEVENT
 DURATION:PT1H
-DTSTART:20161115T190000Z
-SUMMARY: Lars Klingbeil in Schleswig-Holstein und Niedersachsen 
-UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-schwaebisch-gmuend/11/12/2024
-DURATION:PT1H
-DTSTART:20241215T103000Z
-SUMMARY: Saskia Esken in Schwäbisch Gmünd 
-UID:e398eec9-0e2c-40cf-874b-aff8e4867a5a@e398.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-schwaebisch-gmuend/11/12/2024
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
 DTSTART:20241116T103000Z
 SUMMARY: Saskia Esken beim SPD-Landesparteitag in Offenburg 
 UID:0091f34e-f21b-4ac1-a9a5-6a478a0ee36f@0091.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-beim-spd-landesparteitag-in-offenburg/14/11/2024
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
-DURATION:PT1H
-DTSTART:20241214T183000Z
-SUMMARY: Lars Klingbeil in Köln 
-UID:c68be5df-216c-4ea3-a31f-f1faa69ebe8d@c68b.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:5f06dc0e-eca3-4c7d-869b-008927beb599@5f06.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20161102
+DTSTART;VALUE=DATE:20241116
 DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
 SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:d4a1795b-c1b6-4722-a3bb-8e745126eb2a@d4a1.org
+UID:c3088595-f708-469a-aac1-7a30bd00b3fc@c308.org
 URL:https://www.spd.de/mitreden/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+DURATION:PT1H
+DTSTART:20241214T110000Z
+SUMMARY: Hubertus Heil in Köthen 
+UID:4ed95b04-21b8-4ddd-bfa2-d56680c38e04@4ed9.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:6f56ddf3-ad6e-4e6e-bf05-8f4f836c8dc8@6f56.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:7f2ed75b-1811-47ea-9aee-27d3edfc847a@7f2e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
@@ -48,26 +51,10 @@ UID:acaae29e-9cc4-48f6-924c-99729ad59ec5@acaa.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241116
-DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
-SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:c3088595-f708-469a-aac1-7a30bd00b3fc@c308.org
-URL:https://www.spd.de/mitreden/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
-DURATION:PT1H
-DTSTART:20241125T133000Z
-SUMMARY: Termine des SPD-Parteivorstands am 25. November 2024 
-UID:a5288b43-9521-4236-8e2a-f53c8287c71c@a528.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20161110
-DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
-SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:b6a9818d-a196-4119-9903-c5102c62bc6c@b6a9.org
-URL:https://www.spd.de/mitreden/
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:f1309c1c-b3fb-4c88-b852-1ec1884a4384@f130.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
@@ -81,13 +68,167 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
-UID:eedc7c64-a543-4d31-abf5-671140acb5e7@eedc.org
+UID:5f4aa3a6-2b4d-4acc-a7a4-8d34fba2d74e@5f4a.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
-UID:5054044c-0506-461b-a3b5-2a54150141e5@5054.org
+UID:dfa984ba-4822-4c1f-b9d1-96bb137400ed@dfa9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:bb9ec891-db48-400b-8247-c5fb4ee9c2b7@bb9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:01bd03f2-df87-4d3b-8cf5-ecb5cd046177@01bd.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:24024f90-c062-4f44-ae55-f99173427409@2402.org
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+DTSTART:20161115T190000Z
+SUMMARY: Lars Klingbeil in Schleswig-Holstein und Niedersachsen 
+UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/einladung-zum-jahresauftakt-des-spd-praesidiums/30/12/2024
+DURATION:PT1H
+DTSTART:20250105T100000Z
+SUMMARY: Einladung zum Jahresauftakt des SPD-Präsidiums 
+UID:83cac93a-39bb-4e72-ba9f-61d339dbb8b9@83ca.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/einladung-zum-jahresauftakt-des-spd-praesidiums/30/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161102
+DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
+SUMMARY: Jetzt reden. Zukunft bewegen. 
+UID:d4a1795b-c1b6-4722-a3bb-8e745126eb2a@d4a1.org
+URL:https://www.spd.de/mitreden/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:cffa4262-be5c-4d7a-a762-c43ff18ac014@cffa.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:9b777ebb-8338-4182-8fc1-206bef2b4874@9b77.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:14caec72-4355-4a70-84eb-efe6c3ebc7ff@14ca.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:5a50798e-7285-4ae5-86ad-e13b2431f504@5a50.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:699bf5d6-ac41-413b-a4e8-3723c9262313@699b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:857d7e06-930e-46dd-a08f-4749082157f5@857d.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240111
+DESCRIPTION:\nhttps://www.spd.de/service/online-anmeldung
+SUMMARY: Außerordentlicher SPD-Bundesparteitag 
+UID:3a52e679-6e57-4b3b-9fba-1eb7a5bf2486@3a52.org
+URL:https://www.spd.de/service/online-anmeldung
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:5878941e-581f-47ba-8a39-8a6d1ee4cf94@5878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-hubertus-heil-und-matthias-miersch-bei-der-lvv-niedersachsen/27/12/2024
+DURATION:PT1H
+DTSTART:20240104T110000Z
+SUMMARY: Lars Klingbeil\, Hubertus Heil und Matthias Miersch bei der Landesvertreter:innenversammlung der SPD Niedersachsen 
+UID:6e3e8df7-8e92-4391-a79e-146410e5c152@6e3e.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-hubertus-heil-und-matthias-miersch-bei-der-lvv-niedersachsen/27/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
+DURATION:PT1H
+DTSTART:20241218T170000Z
+SUMMARY: Matthias Miersch bei der Landesvertreter:innenversammlung der SPD Berlin 
+UID:a36ee87f-48bc-47d1-8c06-1b434d0b2f29@a36e.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+DURATION:PT1H
+DTSTART:20241217T140000Z
+SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
+UID:ae8cab6b-cf99-48ad-b9ac-ac8baf7399be@ae8c.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
+DURATION:PT1H
+DTSTART:20241125T133000Z
+SUMMARY: Termine des SPD-Parteivorstands am 25. November 2024 
+UID:a5288b43-9521-4236-8e2a-f53c8287c71c@a528.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:d652ac3f-5a7d-4c1f-b3cc-7313184180e7@d652.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161110
+DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
+SUMMARY: Jetzt reden. Zukunft bewegen. 
+UID:b6a9818d-a196-4119-9903-c5102c62bc6c@b6a9.org
+URL:https://www.spd.de/mitreden/
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:1e9f3adf-e513-4fb2-a178-74f1e7f6e735@1e9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+DURATION:PT1H
+DTSTART:20241217T140000Z
+SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
+UID:fab53bbd-6821-4c49-87cc-73c5534d0290@fab5.org
+URL:://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:eedc7c64-a543-4d31-abf5-671140acb5e7@eedc.org
 END:VEVENT
 BEGIN:VEVENT
 DURATION:PT1H
@@ -95,6 +236,44 @@ DTSTART:20241116T150000Z
 SUMMARY: Dialogkonferenz in Essen 
 UID:21bc66b2-809e-41aa-9a73-94e6bbede230@21bc.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/dialogveranstaltung-der-spd-in-essen/08/11/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-schwaebisch-gmuend/11/12/2024
+DURATION:PT1H
+DTSTART:20241215T103000Z
+SUMMARY: Saskia Esken in Schwäbisch Gmünd 
+UID:e398eec9-0e2c-40cf-874b-aff8e4867a5a@e398.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-schwaebisch-gmuend/11/12/2024
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:e51028a7-fe2e-425a-87f4-bcb2f5f71837@e510.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:e495901d-7e6c-47cd-90a5-46b6e1d78556@e495.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:ca5e16e6-a3d3-4ef6-82de-58a1f6c8b6db@ca5e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:0e31c173-963e-4c5a-b4de-7f775e16cd87@0e31.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:5054044c-0506-461b-a3b5-2a54150141e5@5054.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-in-erfurt-und-nuernberg/11/12/2024
@@ -105,18 +284,11 @@ UID:de98d469-771f-4009-a202-b96299165474@de98.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-in-erfurt-und-nuernberg/11/12/2024
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240111
-DESCRIPTION:\nhttps://www.spd.de/service/online-anmeldung
-SUMMARY: Außerordentlicher SPD-Bundesparteitag 
-UID:3a52e679-6e57-4b3b-9fba-1eb7a5bf2486@3a52.org
-URL:https://www.spd.de/service/online-anmeldung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
 DURATION:PT1H
-DTSTART:20241214T110000Z
-SUMMARY: Hubertus Heil in Köthen 
-UID:4ed95b04-21b8-4ddd-bfa2-d56680c38e04@4ed9.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+DTSTART:20241214T183000Z
+SUMMARY: Lars Klingbeil in Köln 
+UID:c68be5df-216c-4ea3-a31f-f1faa69ebe8d@c68b.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-koeln/12/12/2024
 END:VEVENT
 END:VCALENDAR
