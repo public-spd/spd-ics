@@ -32,77 +32,12 @@ SUMMARY: Bürgerschaftswahl in Hamburg
 UID:5f06dc0e-eca3-4c7d-869b-008927beb599@5f06.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241116
-DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
-SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:c3088595-f708-469a-aac1-7a30bd00b3fc@c308.org
-URL:https://www.spd.de/mitreden/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg-und-rheinland-pfalz/14/02/2025
 DURATION:PT1H
-DTSTART:20241214T110000Z
-SUMMARY: Hubertus Heil in Köthen 
-UID:4ed95b04-21b8-4ddd-bfa2-d56680c38e04@4ed9.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240302
-DESCRIPTION:\n
-SUMMARY: Bürgerschaftswahl in Hamburg 
-UID:6f56ddf3-ad6e-4e6e-bf05-8f4f836c8dc8@6f56.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
-DURATION:PT1H
-DTSTART:20250207T113000Z
-SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz in Baden-Württemberg 
-UID:1864bab9-72e3-4871-80c9-40f33764471d@1864.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-zum-dialog-mit-buergerinnen-und-buergern-in-hessen-/30/01/2025
-DURATION:PT1H
-DTSTART:20250204T113000Z
-SUMMARY: Lars Klingbeil zum Dialog mit Bürgerinnen und Bürgern in Hessen 
-UID:78163afc-0255-4cff-aa78-8143eb56e845@7816.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-zum-dialog-mit-buergerinnen-und-buergern-in-hessen-/30/01/2025
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250302
-DESCRIPTION:\n
-SUMMARY: Bürgerschaftswahl in Hamburg 
-UID:7f2ed75b-1811-47ea-9aee-27d3edfc847a@7f2e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240302
-DESCRIPTION:\n
-SUMMARY: Bürgerschaftswahl in Hamburg 
-UID:f1309c1c-b3fb-4c88-b852-1ec1884a4384@f130.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
-DURATION:PT1H
-DTSTART:20200217T090000Z
-SUMMARY: Klara Geywitz in Baden-Württemberg und Hessen 
-UID:b0e8ba74-579e-4e3a-8694-263c2ba88b35@b0e8.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-muenchen/07/02/2025
-DURATION:PT1H
-DTSTART:20250215T180000Z
-SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz im Gespräch in München 
-UID:39883cdf-ea61-4db9-9371-c1edf9dab349@3988.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-muenchen/07/02/2025
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
-DURATION:PT1H
-DTSTART:20241130T103000Z
-SUMMARY: SPD startet in den Bundestagswahlkampf: Wahlsiegkonferenz im Willy-Brandt-Haus 
-UID:79de3d1b-841d-42aa-acb5-131b4310b912@79de.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
+DTSTART:20170216T110000Z
+SUMMARY: Saskia Esken in Baden-Württemberg und Rheinland-Pfalz 
+UID:928527ee-502a-4abf-8433-b9d08f707e12@9285.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg-und-rheinland-pfalz/14/02/2025
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
@@ -113,12 +48,70 @@ UID:acaae29e-9cc4-48f6-924c-99729ad59ec5@acaa.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/verleihung-regine-hildebrandt-preis-2024/21/11/2024
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg-und-rheinland-pfalz/14/02/2025
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:6f56ddf3-ad6e-4e6e-bf05-8f4f836c8dc8@6f56.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
 DURATION:PT1H
-DTSTART:20170216T110000Z
-SUMMARY: Saskia Esken in Baden-Württemberg und Rheinland-Pfalz 
-UID:928527ee-502a-4abf-8433-b9d08f707e12@9285.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg-und-rheinland-pfalz/14/02/2025
+DTSTART:20200217T090000Z
+SUMMARY: Klara Geywitz in Baden-Württemberg und Hessen 
+UID:b0e8ba74-579e-4e3a-8694-263c2ba88b35@b0e8.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:7f2ed75b-1811-47ea-9aee-27d3edfc847a@7f2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-zum-dialog-mit-buergerinnen-und-buergern-in-hessen-/30/01/2025
+DURATION:PT1H
+DTSTART:20250204T113000Z
+SUMMARY: Lars Klingbeil zum Dialog mit Bürgerinnen und Bürgern in Hessen 
+UID:78163afc-0255-4cff-aa78-8143eb56e845@7816.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-zum-dialog-mit-buergerinnen-und-buergern-in-hessen-/30/01/2025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:f1309c1c-b3fb-4c88-b852-1ec1884a4384@f130.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
+DURATION:PT1H
+DTSTART:20250207T113000Z
+SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz in Baden-Württemberg 
+UID:1864bab9-72e3-4871-80c9-40f33764471d@1864.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
+DURATION:PT1H
+DTSTART:20241130T103000Z
+SUMMARY: SPD startet in den Bundestagswahlkampf: Wahlsiegkonferenz im Willy-Brandt-Haus 
+UID:79de3d1b-841d-42aa-acb5-131b4310b912@79de.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/spd-startet-in-den-bundestagswahlkampf-wahlsiegkonferenz-im-willy-brandt-haus/22/11/2024
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-muenchen/07/02/2025
+DURATION:PT1H
+DTSTART:20250215T180000Z
+SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz im Gespräch in München 
+UID:39883cdf-ea61-4db9-9371-c1edf9dab349@3988.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-muenchen/07/02/2025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
+DURATION:PT1H
+DTSTART:20241214T110000Z
+SUMMARY: Hubertus Heil in Köthen 
+UID:4ed95b04-21b8-4ddd-bfa2-d56680c38e04@4ed9.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/hubertus-heil-in-koethen/11/12/2024
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-bei-thyssenkrupp-und-zu-buergerdialogen-in-nrw/12/02/2025
@@ -135,16 +128,16 @@ SUMMARY: Bürgerschaftswahl in Hamburg
 UID:5f4aa3a6-2b4d-4acc-a7a4-8d34fba2d74e@5f4a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240302
-DESCRIPTION:\n
-SUMMARY: Bürgerschaftswahl in Hamburg 
-UID:dfa984ba-4822-4c1f-b9d1-96bb137400ed@dfa9.org
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
 UID:bb9ec891-db48-400b-8247-c5fb4ee9c2b7@bb9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:dfa984ba-4822-4c1f-b9d1-96bb137400ed@dfa9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-der-kanzler-kommt-olaf-scholz-in-leipzig/28/01/2025
@@ -167,19 +160,19 @@ SUMMARY: Bürgerschaftswahl in Hamburg
 UID:24024f90-c062-4f44-ae55-f99173427409@2402.org
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+DTSTART:20161115T190000Z
+SUMMARY: Lars Klingbeil in Schleswig-Holstein und Niedersachsen 
+UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg/10/02/2025
 DURATION:PT1H
 DTSTART:20250212T120000Z
 SUMMARY: Saskia Esken in Baden-Württemberg 
 UID:3a67f614-8e90-4688-937f-dfed3e8046eb@3a67.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg/10/02/2025
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-DTSTART:20161115T190000Z
-SUMMARY: Lars Klingbeil in Schleswig-Holstein und Niedersachsen 
-UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/bundestagswahlabend-der-spd-im-willy-brandt-haus/04/02/2025
@@ -198,12 +191,11 @@ UID:83cac93a-39bb-4e72-ba9f-61d339dbb8b9@83ca.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/einladung-zum-jahresauftakt-des-spd-praesidiums/30/12/2024
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-nordrhein-westfalen/13/02/2025
-DURATION:PT1H
-DTSTART:20250221T103000Z
-SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz im Gespräch in Nordrhein-Westfalen 
-UID:f853012d-af65-4596-b70c-09148caf0e8f@f853.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-nordrhein-westfalen/13/02/2025
+DTSTART;VALUE=DATE:20161102
+DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
+SUMMARY: Jetzt reden. Zukunft bewegen. 
+UID:d4a1795b-c1b6-4722-a3bb-8e745126eb2a@d4a1.org
+URL:https://www.spd.de/mitreden/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
@@ -212,11 +204,12 @@ SUMMARY: Bürgerschaftswahl in Hamburg
 UID:cffa4262-be5c-4d7a-a762-c43ff18ac014@cffa.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20161102
-DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
-SUMMARY: Jetzt reden. Zukunft bewegen. 
-UID:d4a1795b-c1b6-4722-a3bb-8e745126eb2a@d4a1.org
-URL:https://www.spd.de/mitreden/
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-nordrhein-westfalen/13/02/2025
+DURATION:PT1H
+DTSTART:20250221T103000Z
+SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz im Gespräch in Nordrhein-Westfalen 
+UID:f853012d-af65-4596-b70c-09148caf0e8f@f853.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-nordrhein-westfalen/13/02/2025
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-fuerth/04/02/2025
@@ -231,6 +224,13 @@ DTSTART;VALUE=DATE:20240302
 DESCRIPTION:\n
 SUMMARY: Bürgerschaftswahl in Hamburg 
 UID:9b777ebb-8338-4182-8fc1-206bef2b4874@9b77.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20241116
+DESCRIPTION: Wie stellst du dir Deutschlands Zukunft vor? Jetzt ist die Zeit\, es gemeinsam anzupacken! Bei unseren Dialogveranstaltungen kannst du mitbestimmen\, wie wir den Alltag der Menschen in Deutschland konkret verbessern. Welche Probleme müssen wir lösen? Welche Ideen hast du? Wir kämpfen für eine starke\, gerechte Gesellschaft – und brauchen dich dabei! Mach mit\, bring dich ein und gestalte Deutschlands Zukunft mit uns! 
+SUMMARY: Jetzt reden. Zukunft bewegen. 
+UID:c3088595-f708-469a-aac1-7a30bd00b3fc@c308.org
+URL:https://www.spd.de/mitreden/
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
@@ -273,19 +273,19 @@ UID:616944a4-1f17-4847-96ce-14bda06a39cc@6169.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-cottbus/31/01/2025
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240111
+DESCRIPTION:\nhttps://www.spd.de/service/online-anmeldung
+SUMMARY: Außerordentlicher SPD-Bundesparteitag 
+UID:3a52e679-6e57-4b3b-9fba-1eb7a5bf2486@3a52.org
+URL:https://www.spd.de/service/online-anmeldung
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-berlin-sachsen-thueringen-und-sachsen-anhalt/14/02/2025
 DURATION:PT1H
 DTSTART:20190218T140000Z
 SUMMARY: Saskia Esken in Berlin\, Sachsen\, Thüringen und Sachsen-Anhalt 
 UID:75f0463f-bf49-4bce-a5f8-b8afeabebf91@75f0.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-berlin-sachsen-thueringen-und-sachsen-anhalt/14/02/2025
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240111
-DESCRIPTION:\nhttps://www.spd.de/service/online-anmeldung
-SUMMARY: Außerordentlicher SPD-Bundesparteitag 
-UID:3a52e679-6e57-4b3b-9fba-1eb7a5bf2486@3a52.org
-URL:https://www.spd.de/service/online-anmeldung
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-zur-betriebsbesichtigung-in-bremen-und-im-gespraech-in-niedersachsen/11/02/2025
@@ -296,20 +296,20 @@ UID:7d5eb6d2-8e57-4909-9e2c-dcbe1ae6412f@7d5e.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-zur-betriebsbesichtigung-in-bremen-und-im-gespraech-in-niedersachsen/11/02/2025
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/gemeinsames-statement-von-olaf-scholz-und-tekin-nasikkol-vorsitzender-des-gesamtbetriebsrats-der-thyssenkrupp-steel-europe-ag-in-duisburg/28/01/2025
-DURATION:PT1H
-DTSTART:20250204T134500Z
-SUMMARY: Gemeinsames Statement von Olaf Scholz und Tekin Nasikkol\, Vorsitzender des Gesamtbetriebsrats der thyssenkrupp Steel Europe AG in Duisburg 
-UID:3be73849-6c9d-4525-946a-dbcd3093629c@3be7.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/gemeinsames-statement-von-olaf-scholz-und-tekin-nasikkol-vorsitzender-des-gesamtbetriebsrats-der-thyssenkrupp-steel-europe-ag-in-duisburg/28/01/2025
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-duisburg-und-beim-karneval-in-aachen/06/02/2025
 DURATION:PT1H
 DTSTART:20250208T130000Z
 SUMMARY: Lars Klingbeil in Duisburg und beim Karneval in Aachen 
 UID:cd9b7f42-3076-4eda-ac7c-55bc05a80564@cd9b.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-duisburg-und-beim-karneval-in-aachen/06/02/2025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/gemeinsames-statement-von-olaf-scholz-und-tekin-nasikkol-vorsitzender-des-gesamtbetriebsrats-der-thyssenkrupp-steel-europe-ag-in-duisburg/28/01/2025
+DURATION:PT1H
+DTSTART:20250204T134500Z
+SUMMARY: Gemeinsames Statement von Olaf Scholz und Tekin Nasikkol\, Vorsitzender des Gesamtbetriebsrats der thyssenkrupp Steel Europe AG in Duisburg 
+UID:3be73849-6c9d-4525-946a-dbcd3093629c@3be7.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/gemeinsames-statement-von-olaf-scholz-und-tekin-nasikkol-vorsitzender-des-gesamtbetriebsrats-der-thyssenkrupp-steel-europe-ag-in-duisburg/28/01/2025
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
@@ -334,12 +334,12 @@ UID:c4a702e7-b9f2-492b-b101-944bf81ab6dc@c4a7.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-potsdam-wahlkampfabschluss-im-wahlkreis/14/02/2025
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-nordrhein-westfalen/18/02/2025
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
 DURATION:PT1H
-DTSTART:20210220T150000Z
-SUMMARY: Saskia Esken in Nordrhein-Westfalen 
-UID:d5209ad4-a843-455b-a977-74b5e78ba1f8@d520.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-nordrhein-westfalen/18/02/2025
+DTSTART:20241217T140000Z
+SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
+UID:ae8cab6b-cf99-48ad-b9ac-ac8baf7399be@ae8c.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/matthias-miersch-bei-der-landesvertreterinnenversammlung-der-spd-berlin/13/12/2024
@@ -358,12 +358,12 @@ UID:a5288b43-9521-4236-8e2a-f53c8287c71c@a528.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-25-november-2024/22/11/2024
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-nordrhein-westfalen/18/02/2025
 DURATION:PT1H
-DTSTART:20241217T140000Z
-SUMMARY: Termine des SPD-Parteivorstands am 17. Dezember 2024 
-UID:ae8cab6b-cf99-48ad-b9ac-ac8baf7399be@ae8c.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/termine-des-spd-parteivorstands-am-17-dezember-2024/13/12/2024
+DTSTART:20210220T150000Z
+SUMMARY: Saskia Esken in Nordrhein-Westfalen 
+UID:d5209ad4-a843-455b-a977-74b5e78ba1f8@d520.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-nordrhein-westfalen/18/02/2025
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
@@ -488,18 +488,18 @@ UID:3424fbfb-813c-4a39-b7d2-efc8cedb323d@3424.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-im-gespraech-in-kassel/07/02/2025
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240302
-DESCRIPTION:\n
-SUMMARY: Bürgerschaftswahl in Hamburg 
-UID:0e31c173-963e-4c5a-b4de-7f775e16cd87@0e31.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/einladung-zur-pressekonferenz/07/02/2025
 DURATION:PT1H
 DTSTART:20250210T120000Z
 SUMMARY: Einladung zur Pressekonferenz 
 UID:660974d4-a002-412e-9a36-2e0cda230951@6609.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/einladung-zur-pressekonferenz/07/02/2025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:0e31c173-963e-4c5a-b4de-7f775e16cd87@0e31.org
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
