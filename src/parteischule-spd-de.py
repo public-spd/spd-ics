@@ -40,10 +40,19 @@ def generate_events(url):
         if m.group("mm2") is not None:
             duration = datetime.timedelta(hours=int(m.group("hh2"))-begin.hour, minutes=int(m.group("mm2"))-begin.hour)
 
+        description = "\n".join([x for x in [x.strip() for x in event_element.text.split("\n")] \
+                if len(x.strip()) > 1 \
+                and x != "mehr" \
+                and x != "SPD OnSeminare                         Ansprechpartner:" \
+                and x != "Zur Anmeldung"] + [url])
+        print("===")
+        print(description)
+        print("===")
+
         event = Event(name=name,
                       begin=begin.isoformat(),
                       duration=duration,
-                      description="\n".join([event_element.text, url]),
+                      description=description,
                       url=url)
 
         yield event
