@@ -1,25 +1,6 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-CALSCALE:GEORGIAN
-BEGIN:VEVENT
-DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan\nhttps://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
-DTEND:20241129T200000Z
-LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
-DTSTART:20241129T183000Z
-SUMMARY:Wie steuern wir Migration?
-UID:856fa4e1-4ba9-443e-af4b-60d7a29da6a0@856f.org
-URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan\nhttps://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
-DTEND:20241129T200000Z
-LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
-DTSTART:20241129T183000Z
-SUMMARY:Wie steuern wir Migration?
-UID:974253e1-3c3d-46b7-af5f-7b02035e7c72@9742.org
-URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
-END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Heike Heubach\, Christoph Schmid\nhttps://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
 DTEND:20241123T191500Z
@@ -37,6 +18,15 @@ DTSTART:20241213T160000Z
 SUMMARY:Wie sichern wir Frieden?
 UID:37a56f5f-2b56-4805-b0ce-464072d68b19@37a5.org
 URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
+DTEND:20241121T204500Z
+LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
+DTSTART:20241121T190000Z
+SUMMARY:Demokratie retten. Jetzt erst recht!
+UID:5aeec2e8-3626-4e45-8e83-b1e5429c5eba@5aee.org
+URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
@@ -75,6 +65,15 @@ UID:2cb24e09-5491-4bb3-b71c-cba85ee0c237@2cb2.org
 URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
+DTEND:20241120T174500Z
+LOCATION:  Vor-Ort | Halle4\, Halbergstraße 4\, 66121 Saarbrücken
+DTSTART:20241120T160000Z
+SUMMARY:Familien nach vorne bringen
+UID:8a865b21-788e-46ff-a598-c619165a3e58@8a86.org
+URL:https://spdfraktion.de/termine/2024-11-20-familien-vorne-bringen
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Johannes Schätzl\, Sebastian Roloff
 DTEND:20241121T193000Z
 LOCATION:  Vor-Ort | Gasthof Auer\, Heininger Str. 26\, 94036 Passau
@@ -84,6 +83,33 @@ UID:fbef9585-d72b-49e1-b6cd-55bdb7f7e3aa@fbef.org
 URL:https://spdfraktion.de/termine/2024-11-21-sichern-wir-jobs-wachstum
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Johannes Schätzl\, Sebastian Roloff
+DTEND:20241121T183000Z
+LOCATION:  Vor-Ort | Gasthof Auer\, Heininger Str. 26\, 94036 Passau
+DTSTART:20241121T173000Z
+SUMMARY:Wie sichern wir Jobs und Wachstum?
+UID:4e72af61-3584-4cbe-afbf-48516aeb85b2@4e72.org
+URL:https://spdfraktion.de/termine/2024-11-21-sichern-wir-jobs-wachstum
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Carsten Schneider (Erfurt)\, Elisabeth Kaiser
+DTEND:20241120T210000Z
+LOCATION:  Vor-Ort | Haus Dacheröden\, Anger 37\, 99084 Erfurt
+DTSTART:20241120T190000Z
+SUMMARY:Wie sichern wir Jobs und Wachstum?
+UID:e312d744-465b-4f3e-9bc0-916f8353207e@e312.org
+URL:https://spdfraktion.de/termine/2024-11-20-sichern-wir-jobs-wachstum
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Bengt Bergt\, Dr. Johannes Fechner
+DTEND:20241118T210000Z
+LOCATION:  Nur Online
+DTSTART:20241118T193000Z
+SUMMARY:Demokratie im Stresstest
+UID:674952d5-9b04-4928-a477-bcd58e0f4b4f@6749.org
+URL:https://spdfraktion.de/termine/2024-11-18-demokratie-stresstest
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Heike Heubach\, Christoph Schmid
 DTEND:20241123T201500Z
 LOCATION:  Vor-Ort | Gaststätte Hillenbrand\, Bauernstraße 13\, 86368 Gersthofen
@@ -91,6 +117,24 @@ DTSTART:20241123T183000Z
 SUMMARY:Wie sichern wir Frieden?
 UID:7e77a77b-7626-4e48-ae52-29dfef3f3a72@7e77.org
 URL:https://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Jan Plobner\, Dirk Wiese
+DTEND:20241119T203000Z
+LOCATION:  Vor-Ort | Gaststätte Altes Rathaus\, Marktplatz 1\, 91207 Lauf a. d. Pegnitz
+DTSTART:20241119T190000Z
+SUMMARY:Wie schaffen wir Sicherheit für alle?
+UID:353d3efd-e2fa-49b0-9bad-52aac1c29803@353d.org
+URL:https://spdfraktion.de/termine/2024-11-19-schaffen-wir-sicherheit-alle
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
+DTEND:20241122T143000Z
+LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
+DTSTART:20241122T130000Z
+SUMMARY:Was tun\, damit alle im Alter gut abgesichert leben können?
+UID:c4b886c4-8dd2-489d-a13c-0e5395d7ffde@c4b8.org
+URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
@@ -111,31 +155,40 @@ UID:ddfaf723-73f3-44e7-bc1e-f344d7ef5f5a@ddfa.org
 URL:https://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan
-DTEND:20241129T200000Z
-LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
-DTSTART:20241129T183000Z
-SUMMARY:Wie steuern wir Migration?
-UID:c7ff35dd-e049-447b-882f-a44396e524d6@c7ff.org
-URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
+DESCRIPTION:Mit: Martin Gerster\, Leni Breymaier
+DTEND:20241123T204500Z
+LOCATION:  Vor-Ort | Schlosscafé Laupheim\, Claus-Graf-Stauffenberg-Str. 15\, 88471 Laupheim
+DTSTART:20241123T183000Z
+SUMMARY:Politischer Martini
+UID:c0a5b3d2-e2a8-4af9-9990-8961b4041747@c0a5.org
+URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\, Reem Alabali-Radovan\nhttps://spdfraktion.de/demokratie
+DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
 DTEND:20250328T170000Z
 LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
 DTSTART:20250328T110000Z
 SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:450209de-88b8-44ed-a361-8d224b3a4aca@4502.org
+UID:97695643-8274-4587-aece-ea30f0c03059@9769.org
 URL:https://spdfraktion.de/demokratie
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\, Reem Alabali-Radovan\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:4330e93a-a513-4b1b-8767-572ec39378f2@4330.org
-URL:https://spdfraktion.de/demokratie
+DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
+DTEND:20241211T163000Z
+LOCATION:  Vor-Ort | Gläserne Werkstatt\, Hauptstraße 61 – 63\, 42651 Solingen
+DTSTART:20241211T150000Z
+SUMMARY:Zukunft der inneren Sicherheit 
+UID:dc450646-8b6d-4d2c-ac45-50a9eb1fe006@dc45.org
+URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Dr. Bärbel Kofler\, Dr. Matthias Miersch
+DTEND:20241120T190000Z
+LOCATION:  Nur Online
+DTSTART:20241120T180000Z
+SUMMARY:Turbo für erneuerbare Energien 
+UID:2631b58b-fcd0-4e0d-a3c4-9fc1683ca81f@2631.org
+URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan
@@ -147,24 +200,6 @@ UID:bd891fe3-daba-4793-b689-39da80a6587c@bd89.org
 URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:3551402e-74cc-498d-b242-934a8045f277@3551.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-DTEND:20241217T171500Z
-LOCATION:  Vor-Ort | Verein zur Förderung des Landlebens Massen-NL\, Dorfstraße 29a\, 03238 Massen
-DTSTART:20241217T160000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:c5678a4e-42b1-4ad0-83ef-9d5d68185f44@c567.org
-URL:https://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Dietmar Nietan\, Claudia Moll\, Ye-One Rhie\, Andreas Rimkus\nhttps://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
 DTEND:20241211T194500Z
 LOCATION:  Vor-Ort | Technologiezentrum Jülich\, Karl-Heinz-Beckurts-Straße 13\, 52428 Jülich
@@ -174,13 +209,40 @@ UID:5ec4b7ca-ff97-420a-b9d6-f44ebab74748@5ec4.org
 URL:https://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal
-DTEND:20241209T191500Z
-LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
-DTSTART:20241209T180000Z
+DESCRIPTION:Mit: Natalie Pawlik\, Hannes Walter
+DTEND:20241119T200000Z
+LOCATION:  Vor-Ort | Bürgerhaus Weckesheim\, 61203 Reichelsheim (Wetterau)
+DTSTART:20241119T173000Z
+SUMMARY:Starkes Handwerk\, starke Wirtschaft
+UID:c908b985-9c6d-43e1-87b9-4edbd73629d5@c908.org
+URL:https://spdfraktion.de/termine/2024-11-19-starkes-handwerk-starke-wirtschaft
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Carsten Schneider (Erfurt)\, Elisabeth Kaiser
+DTEND:20241120T200000Z
+LOCATION:  Vor-Ort | Haus Dacheröden\, Anger 37\, 99084 Erfurt
+DTSTART:20241120T180000Z
 SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:b35d992e-7b1a-4c08-a30b-bf59ca7bb3ab@b35d.org
-URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
+UID:f75414d9-538f-45fb-b8c8-6a34c61e5748@f754.org
+URL:https://spdfraktion.de/termine/2024-11-20-sichern-wir-jobs-wachstum
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Dr. Nils Schmid\, Dr. Martin Rosemann
+DTEND:20241120T203000Z
+LOCATION:  Vor-Ort | Mehrgenerationenhaus Linde\, Alleenstraße 90\, 73230 Kirchheim unter Teck
+DTSTART:20241120T190000Z
+SUMMARY:Das Bürgergeld – Für einen Sozialstaat auf Augenhöhe!
+UID:bf8c7a86-f88d-4bae-afd3-5afd251f01da@bf8c.org
+URL:https://spdfraktion.de/termine/2024-11-20-buergergeld-sozialstaat-augenhoehe
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Dr. Nils Schmid\, Dr. Martin Rosemann
+DTEND:20241120T193000Z
+LOCATION:  Vor-Ort | Mehrgenerationenhaus Linde\, Alleenstraße 90\, 73230 Kirchheim unter Teck
+DTSTART:20241120T180000Z
+SUMMARY:Das Bürgergeld – Für einen Sozialstaat auf Augenhöhe!
+UID:2a8cafb8-54b2-4843-bd00-52204d9e126a@2a8c.org
+URL:https://spdfraktion.de/termine/2024-11-20-buergergeld-sozialstaat-augenhoehe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Svenja Schulze\, Ye-One Rhie\nhttps://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
@@ -190,6 +252,15 @@ DTSTART:20241209T173000Z
 SUMMARY:Chancen und Hürden - Wie fair ist die Studienfinanzierung in Deutschland?
 UID:6bd4062d-3618-4120-b7a2-90c47116e9b3@6bd4.org
 URL:https://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
+DTEND:20241120T184500Z
+LOCATION:  Vor-Ort | Halle4\, Halbergstraße 4\, 66121 Saarbrücken
+DTSTART:20241120T170000Z
+SUMMARY:Familien nach vorne bringen
+UID:015a1ac1-231b-44bb-bc6d-c69876ff8879@015a.org
+URL:https://spdfraktion.de/termine/2024-11-20-familien-vorne-bringen
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Heike Engelhardt\, Martin Gerster\nhttps://spdfraktion.de/termine/2024-11-23-politischer-martini
@@ -219,564 +290,6 @@ UID:831ff612-e639-430d-85f1-c814cf1e74f2@831f.org
 URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Heike Heubach\, Christoph Schmid\nhttps://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
-DTEND:20241123T191500Z
-LOCATION:  Vor-Ort | Gaststätte Hillenbrand\, Bauernstraße 13\, 86368 Gersthofen
-DTSTART:20241123T173000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:6b7b3607-d2aa-41c0-985a-aac9febd5248@6b7b.org
-URL:https://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dietmar Nietan\, Claudia Moll\, Ye-One Rhie\, Andreas Rimkus\nhttps://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
-DTEND:20241211T194500Z
-LOCATION:  Vor-Ort | Technologiezentrum Jülich\, Karl-Heinz-Beckurts-Straße 13\, 52428 Jülich
-DTSTART:20241211T180000Z
-SUMMARY:Wasserstoff: Chance für den Strukturwandel
-UID:88dd49fb-54d3-4976-a157-70319755801c@88dd.org
-URL:https://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:1ceba1d4-9204-4e6f-8672-c1be8517bab5@1ceb.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Jens Zimmermann\, Bernd Rützel\nhttps://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
-DTEND:20241215T114500Z
-LOCATION:  Vor-Ort | Wohngruppe Steinheimer Tor\, Wallstraße 38-40\, 63500 Seligenstadt
-DTSTART:20241215T100000Z
-SUMMARY:Wie sichern wir die Rente?
-UID:c8cc6f2e-a914-41d8-aea3-f9e1833a15dd@c8cc.org
-URL:https://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Dr. Rolf Mützenich\nhttps://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Feuerwache Magdeburg\, Halberstädter Str. 140\, 39112 Magdeburg
-DTSTART:20241211T150000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:aa4b11cb-f88b-427b-9b00-747ac2a26951@aa4b.org
-URL:https://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Heike Engelhardt\, Martin Gerster\nhttps://spdfraktion.de/termine/2024-11-23-politischer-martini
-DTEND:20241123T160000Z
-LOCATION:  Vor-Ort | In der „Post“\, Rötenbacher Straße 5\, 88364 Wolfegg
-DTSTART:20241123T140000Z
-SUMMARY:Politischer Martini
-UID:a8348be0-e9b5-45af-a154-b952f89388ea@a834.org
-URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal
-DTEND:20241209T201500Z
-LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
-DTSTART:20241209T190000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:60a1a49a-5150-499a-964e-719383ea534f@60a1.org
-URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:fa2a7ad9-010b-48bf-9882-e17f64e25ab7@fa2a.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dirk Wiese\, Siemtje Möller\nhttps://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
-DTEND:20241210T183000Z
-LOCATION:  Vor-Ort | Hotel Rech\, Hoppecker Straße 1\, 59929 Brilon
-DTSTART:20241210T170000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:eac178de-215f-4c5e-b79a-1817bf48fd05@eac1.org
-URL:https://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Dr. Rolf Mützenich\nhttps://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Feuerwache Magdeburg\, Halberstädter Str. 140\, 39112 Magdeburg
-DTSTART:20241211T150000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:a112a9fd-8f8e-4269-a3eb-c1b9ae94e756@a112.org
-URL:https://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:497ef403-8ab8-46f8-8a57-639febd566a9@497e.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Heike Engelhardt\, Martin Gerster\nhttps://spdfraktion.de/termine/2024-11-23-politischer-martini
-DTEND:20241123T160000Z
-LOCATION:  Vor-Ort | In der „Post“\, Rötenbacher Straße 5\, 88364 Wolfegg
-DTSTART:20241123T140000Z
-SUMMARY:Politischer Martini
-UID:60e57c3e-250b-431e-b0ef-5db49cddfc76@60e5.org
-URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:2bcb9071-672b-4031-81c6-3e8ed489cc0c@2bcb.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:1e1574db-e7a7-4c7b-a20b-e819e3a0e6a3@1e15.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
-DTEND:20241120T174500Z
-LOCATION:  Vor-Ort | Halle4\, Halbergstraße 4\, 66121 Saarbrücken
-DTSTART:20241120T160000Z
-SUMMARY:Familien nach vorne bringen
-UID:8a865b21-788e-46ff-a598-c619165a3e58@8a86.org
-URL:https://spdfraktion.de/termine/2024-11-20-familien-vorne-bringen
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Jens Zimmermann\, Bernd Rützel\nhttps://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
-DTEND:20241215T114500Z
-LOCATION:  Vor-Ort | Wohngruppe Steinheimer Tor\, Wallstraße 38-40\, 63500 Seligenstadt
-DTSTART:20241215T100000Z
-SUMMARY:Wie sichern wir die Rente?
-UID:d51f542c-c5b3-4f69-a78b-3bc5fa4ac7ae@d51f.org
-URL:https://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Carsten Schneider (Erfurt)\, Elisabeth Kaiser
-DTEND:20241120T210000Z
-LOCATION:  Vor-Ort | Haus Dacheröden\, Anger 37\, 99084 Erfurt
-DTSTART:20241120T190000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:e312d744-465b-4f3e-9bc0-916f8353207e@e312.org
-URL:https://spdfraktion.de/termine/2024-11-20-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Bengt Bergt\, Dr. Johannes Fechner
-DTEND:20241118T210000Z
-LOCATION:  Nur Online
-DTSTART:20241118T193000Z
-SUMMARY:Demokratie im Stresstest
-UID:674952d5-9b04-4928-a477-bcd58e0f4b4f@6749.org
-URL:https://spdfraktion.de/termine/2024-11-18-demokratie-stresstest
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Heike Heubach\, Christoph Schmid
-DTEND:20241123T191500Z
-LOCATION:  Vor-Ort | Gaststätte Hillenbrand\, Bauernstraße 13\, 86368 Gersthofen
-DTSTART:20241123T173000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:5502682b-297f-4d89-8335-eed4d60e7fa7@5502.org
-URL:https://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Jens Zimmermann\, Bernd Rützel\nhttps://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
-DTEND:20241215T114500Z
-LOCATION:  Vor-Ort | Wohngruppe Steinheimer Tor\, Wallstraße 38-40\, 63500 Seligenstadt
-DTSTART:20241215T100000Z
-SUMMARY:Wie sichern wir die Rente?
-UID:350103c3-3ccc-40d4-b088-6f206a3612e4@3501.org
-URL:https://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
-DTEND:20241122T143000Z
-LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
-DTSTART:20241122T130000Z
-SUMMARY:Was tun\, damit alle im Alter gut abgesichert leben können?
-UID:c4b886c4-8dd2-489d-a13c-0e5395d7ffde@c4b8.org
-URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Jan Plobner\, Dirk Wiese
-DTEND:20241119T203000Z
-LOCATION:  Vor-Ort | Gaststätte Altes Rathaus\, Marktplatz 1\, 91207 Lauf a. d. Pegnitz
-DTSTART:20241119T190000Z
-SUMMARY:Wie schaffen wir Sicherheit für alle?
-UID:353d3efd-e2fa-49b0-9bad-52aac1c29803@353d.org
-URL:https://spdfraktion.de/termine/2024-11-19-schaffen-wir-sicherheit-alle
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Dr. Rolf Mützenich\nhttps://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Feuerwache Magdeburg\, Halberstädter Str. 140\, 39112 Magdeburg
-DTSTART:20241211T150000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:0f8b9505-9664-46d1-a2cc-05781d59f0ca@0f8b.org
-URL:https://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Svenja Schulze\, Ye-One Rhie\nhttps://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
-DTEND:20241209T191500Z
-LOCATION:  Vor-Ort | Hier und Jetzt\, Bismarckallee 11\, 48151 Münster
-DTSTART:20241209T173000Z
-SUMMARY:Chancen und Hürden - Wie fair ist die Studienfinanzierung in Deutschland?
-UID:a170ff60-82c0-4e68-aafe-bc67e240b2aa@a170.org
-URL:https://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:1db70bb6-58e8-4840-a4f4-d389ef27245f@1db7.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Gerster\, Leni Breymaier
-DTEND:20241123T204500Z
-LOCATION:  Vor-Ort | Schlosscafé Laupheim\, Claus-Graf-Stauffenberg-Str. 15\, 88471 Laupheim
-DTSTART:20241123T183000Z
-SUMMARY:Politischer Martini
-UID:c0a5b3d2-e2a8-4af9-9990-8961b4041747@c0a5.org
-URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:79bb31db-7dd6-492f-b706-95c57fc097c5@79bb.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:1ed210e2-9793-4e1c-bba9-11b34d12d672@1ed2.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Gläserne Werkstatt\, Hauptstraße 61 – 63\, 42651 Solingen
-DTSTART:20241211T150000Z
-SUMMARY:Zukunft der inneren Sicherheit 
-UID:dc450646-8b6d-4d2c-ac45-50a9eb1fe006@dc45.org
-URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Bärbel Kofler\, Dr. Matthias Miersch
-DTEND:20241120T190000Z
-LOCATION:  Nur Online
-DTSTART:20241120T180000Z
-SUMMARY:Turbo für erneuerbare Energien 
-UID:2631b58b-fcd0-4e0d-a3c4-9fc1683ca81f@2631.org
-URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Nils Schmid\, Dr. Martin Rosemann
-DTEND:20241120T203000Z
-LOCATION:  Vor-Ort | Mehrgenerationenhaus Linde\, Alleenstraße 90\, 73230 Kirchheim unter Teck
-DTSTART:20241120T190000Z
-SUMMARY:Das Bürgergeld – Für einen Sozialstaat auf Augenhöhe!
-UID:bf8c7a86-f88d-4bae-afd3-5afd251f01da@bf8c.org
-URL:https://spdfraktion.de/termine/2024-11-20-buergergeld-sozialstaat-augenhoehe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dirk Wiese\, Siemtje Möller\nhttps://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
-DTEND:20241210T183000Z
-LOCATION:  Vor-Ort | Hotel Rech\, Hoppecker Straße 1\, 59929 Brilon
-DTSTART:20241210T170000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:f3cb9805-7272-4da0-8771-59703cb07e6e@f3cb.org
-URL:https://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Nils Schmid\, Dr. Martin Rosemann
-DTEND:20241120T193000Z
-LOCATION:  Vor-Ort | Mehrgenerationenhaus Linde\, Alleenstraße 90\, 73230 Kirchheim unter Teck
-DTSTART:20241120T180000Z
-SUMMARY:Das Bürgergeld – Für einen Sozialstaat auf Augenhöhe!
-UID:2a8cafb8-54b2-4843-bd00-52204d9e126a@2a8c.org
-URL:https://spdfraktion.de/termine/2024-11-20-buergergeld-sozialstaat-augenhoehe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan\nhttps://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
-DTEND:20241129T200000Z
-LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
-DTSTART:20241129T183000Z
-SUMMARY:Wie steuern wir Migration?
-UID:4af9c3d0-4012-400b-9e35-1922ff91d27a@4af9.org
-URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:5acc1c2a-cbd6-49ac-92d9-3c121929615e@5acc.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:acf9bb68-7ead-48cc-ad1a-43ae08be2bee@acf9.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dietmar Nietan\, Claudia Moll\, Ye-One Rhie\, Andreas Rimkus\nhttps://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
-DTEND:20241211T194500Z
-LOCATION:  Vor-Ort | Technologiezentrum Jülich\, Karl-Heinz-Beckurts-Straße 13\, 52428 Jülich
-DTSTART:20241211T180000Z
-SUMMARY:Wasserstoff: Chance für den Strukturwandel
-UID:a079530a-05a3-4008-870d-ea9c67153520@a079.org
-URL:https://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:12e2c75a-5a88-4986-9f18-449193288201@12e2.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Aydan Özoğuz\, Falko Droßmann\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
-DTEND:20241213T191500Z
-LOCATION:  Vor-Ort | Matthias-Claudius-Gymnasiums\, Witthöftstraße 8\, 22041 Hamburg
-DTSTART:20241213T173000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:8945c7cf-2021-47ce-ab1c-d5a9ab5364c2@8945.org
-URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Jens Zimmermann\, Bernd Rützel\nhttps://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
-DTEND:20241215T114500Z
-LOCATION:  Vor-Ort | Wohngruppe Steinheimer Tor\, Wallstraße 38-40\, 63500 Seligenstadt
-DTSTART:20241215T100000Z
-SUMMARY:Wie sichern wir die Rente?
-UID:d995d96d-7f6b-4678-b2ef-328e88088a3a@d995.org
-URL:https://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:7bd5d35a-8ded-479e-9b55-a8a5134e9ef9@7bd5.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Brian Nickholz\, Frank Schwabe\nhttps://spdfraktion.de/termine/2024-12-11-hausnummer-null
-DTEND:20241211T200000Z
-LOCATION:  Vor-Ort | Grimme-Institut\, Eduard-Weitsch-Weg 25\, 45768 Marl
-DTSTART:20241211T170000Z
-SUMMARY:Hausnummer Null
-UID:c8961ddb-4a9c-4126-9a4e-f4b4debc341b@c896.org
-URL:https://spdfraktion.de/termine/2024-12-11-hausnummer-null
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Svenja Schulze\, Ye-One Rhie\nhttps://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
-DTEND:20241209T191500Z
-LOCATION:  Vor-Ort | Hier und Jetzt\, Bismarckallee 11\, 48151 Münster
-DTSTART:20241209T173000Z
-SUMMARY:Chancen und Hürden - Wie fair ist die Studienfinanzierung in Deutschland?
-UID:8f776df5-7331-4287-916a-03810f6c6b05@8f77.org
-URL:https://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:dce2ceae-3450-4d23-b857-d46d01f3002c@dce2.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Metin Hakverdi\, Dorothee Martin\nhttps://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-DTEND:20241214T170000Z
-LOCATION:  Vor-Ort | Herbert-Wehner-Haus\, Julius-Ludowieg-Straße 9\, 21073 Hamburg
-DTSTART:20241214T140000Z
-SUMMARY:Innere\, äußere und soziale Sicherheit – Welche Politik braucht Deutschland?
-UID:a6483b4b-3089-4f94-bcdb-69aa48238f23@a648.org
-URL:https://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Dr. Rolf Mützenich\nhttps://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Feuerwache Magdeburg\, Halberstädter Str. 140\, 39112 Magdeburg
-DTSTART:20241211T150000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:695fdce1-01fe-45a4-8468-fe6d24818821@695f.org
-URL:https://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Gerster\, Leni Breymaier\nhttps://spdfraktion.de/termine/2024-11-23-politischer-martini-0
-DTEND:20241123T194500Z
-LOCATION:  Vor-Ort | Schlosscafé Laupheim\, Claus-Graf-Stauffenberg-Str. 15\, 88471 Laupheim
-DTSTART:20241123T173000Z
-SUMMARY:Politischer Martini
-UID:ddde8f99-230b-4513-92ce-b4a307d29b19@ddde.org
-URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Svenja Schulze\, Ye-One Rhie\nhttps://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
-DTEND:20241209T191500Z
-LOCATION:  Vor-Ort | Hier und Jetzt\, Bismarckallee 11\, 48151 Münster
-DTSTART:20241209T173000Z
-SUMMARY:Chancen und Hürden - Wie fair ist die Studienfinanzierung in Deutschland?
-UID:a830f8da-5cd1-4a6d-b511-120427297e9e@a830.org
-URL:https://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Gläserne Werkstatt\, Hauptstraße 61 – 63\, 42651 Solingen
-DTSTART:20241211T150000Z
-SUMMARY:Zukunft der inneren Sicherheit 
-UID:e083d6b6-97c8-4d3f-8b2a-f5fe7e153357@e083.org
-URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Metin Hakverdi\, Dorothee Martin\nhttps://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-DTEND:20241214T170000Z
-LOCATION:  Vor-Ort | Herbert-Wehner-Haus\, Julius-Ludowieg-Straße 9\, 21073 Hamburg
-DTSTART:20241214T140000Z
-SUMMARY:Innere\, äußere und soziale Sicherheit – Welche Politik braucht Deutschland?
-UID:a5bfdfe9-bef2-4ab3-b0c7-4772a0b7bcd5@a5bf.org
-URL:https://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
-DTEND:20241209T191500Z
-LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
-DTSTART:20241209T180000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:0ad922f2-0e88-426e-9889-1a413a646928@0ad9.org
-URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Aydan Özoğuz\, Falko Droßmann\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
-DTEND:20241213T191500Z
-LOCATION:  Vor-Ort | Matthias-Claudius-Gymnasiums\, Witthöftstraße 8\, 22041 Hamburg
-DTSTART:20241213T173000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:a4834a85-96ec-445c-af69-5e7cd46f2362@a483.org
-URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Aydan Özoğuz\, Falko Droßmann\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
-DTEND:20241213T191500Z
-LOCATION:  Vor-Ort | Matthias-Claudius-Gymnasiums\, Witthöftstraße 8\, 22041 Hamburg
-DTSTART:20241213T173000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:9f68bfda-6f4d-46c8-887e-eaca8945613a@9f68.org
-URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Holger Mann\, Nadja Sthamer\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
-DTEND:20241213T180000Z
-LOCATION:  Vor-Ort | JEDERMANNS\, Georg-Schumann-Straße 133\, 04155 Leipzig
-DTSTART:20241213T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:fbca7860-a581-4f18-9691-8e94022b998f@fbca.org
-URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-DTEND:20241217T171500Z
-LOCATION:  Vor-Ort | Verein zur Förderung des Landlebens Massen-NL\, Dorfstraße 29a\, 03238 Massen
-DTSTART:20241217T160000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:21659aeb-6cd2-4ef8-99ce-48f82a5b1926@2165.org
-URL:https://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Metin Hakverdi\, Dorothee Martin\nhttps://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-DTEND:20241214T170000Z
-LOCATION:  Vor-Ort | Herbert-Wehner-Haus\, Julius-Ludowieg-Straße 9\, 21073 Hamburg
-DTSTART:20241214T140000Z
-SUMMARY:Innere\, äußere und soziale Sicherheit – Welche Politik braucht Deutschland?
-UID:ef77a387-8aae-4270-8957-148ff0b55209@ef77.org
-URL:https://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Brian Nickholz\, Frank Schwabe\nhttps://spdfraktion.de/termine/2024-12-11-hausnummer-null
-DTEND:20241211T200000Z
-LOCATION:  Vor-Ort | Grimme-Institut\, Eduard-Weitsch-Weg 25\, 45768 Marl
-DTSTART:20241211T170000Z
-SUMMARY:Hausnummer Null
-UID:5e8d7033-bf24-430c-adbf-fce40abe849d@5e8d.org
-URL:https://spdfraktion.de/termine/2024-12-11-hausnummer-null
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-DTEND:20241217T171500Z
-LOCATION:  Vor-Ort | Verein zur Förderung des Landlebens Massen-NL\, Dorfstraße 29a\, 03238 Massen
-DTSTART:20241217T160000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:ca0f1082-841a-417a-9fa8-639a472386dc@ca0f.org
-URL:https://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Natalie Pawlik\, Hannes Walter
-DTEND:20241119T200000Z
-LOCATION:  Vor-Ort | Bürgerhaus Weckesheim\, 61203 Reichelsheim (Wetterau)
-DTSTART:20241119T173000Z
-SUMMARY:Starkes Handwerk\, starke Wirtschaft
-UID:c908b985-9c6d-43e1-87b9-4edbd73629d5@c908.org
-URL:https://spdfraktion.de/termine/2024-11-19-starkes-handwerk-starke-wirtschaft
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Gläserne Werkstatt\, Hauptstraße 61 – 63\, 42651 Solingen
-DTSTART:20241211T150000Z
-SUMMARY:Zukunft der inneren Sicherheit 
-UID:54039052-7e46-432b-a75a-89bb214eb01d@5403.org
-URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:6d9db57d-33db-4e78-b114-f4a0f25b5bcd@6d9d.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:368a88e1-36c1-4e8a-a34e-5994fd8510d6@368a.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Carsten Träger\, Sabine Dittmar
 DTEND:20241122T193000Z
 LOCATION:  Vor-Ort | BRK-Kreisverband Fürth\, Henri-Dunant-Straße 11\, 90762 Fürth
@@ -804,15 +317,6 @@ UID:4f2f8c3c-9d8c-40b8-8212-dfe78bbacc49@4f2f.org
 URL:https://spdfraktion.de/termine/2024-12-09-organspende-geht-mich
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dirk Wiese\, Siemtje Möller\nhttps://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
-DTEND:20241210T183000Z
-LOCATION:  Vor-Ort | Hotel Rech\, Hoppecker Straße 1\, 59929 Brilon
-DTSTART:20241210T170000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:6086b281-ae27-4cda-8f7b-e2da5431dbb8@6086.org
-URL:https://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Brian Nickholz\, Frank Schwabe
 DTEND:20241211T210000Z
 LOCATION:  Vor-Ort | Grimme-Institut\, Eduard-Weitsch-Weg 25\, 45768 Marl
@@ -822,283 +326,13 @@ UID:7daa7d98-979a-4a25-b714-2c3f8749e6d7@7daa.org
 URL:https://spdfraktion.de/termine/2024-12-11-hausnummer-null
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:b415f5d2-d8e0-4449-962e-3688b5500eb8@b415.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
-DTEND:20241209T191500Z
-LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
-DTSTART:20241209T180000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:062943a9-ae36-459e-9644-050a28a0e75b@0629.org
-URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dietmar Nietan\, Claudia Moll\, Ye-One Rhie\, Andreas Rimkus\nhttps://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
-DTEND:20241211T194500Z
-LOCATION:  Vor-Ort | Technologiezentrum Jülich\, Karl-Heinz-Beckurts-Straße 13\, 52428 Jülich
-DTSTART:20241211T180000Z
-SUMMARY:Wasserstoff: Chance für den Strukturwandel
-UID:11946c84-f011-404d-8ab1-8da945cbcc22@1194.org
-URL:https://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:b9f5b05d-bb47-49a1-98ae-a685f68faa0d@b9f5.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Metin Hakverdi\, Dorothee Martin\nhttps://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-DTEND:20241214T170000Z
-LOCATION:  Vor-Ort | Herbert-Wehner-Haus\, Julius-Ludowieg-Straße 9\, 21073 Hamburg
-DTSTART:20241214T140000Z
-SUMMARY:Innere\, äußere und soziale Sicherheit – Welche Politik braucht Deutschland?
-UID:a89a699b-a28d-421b-92e9-de5cb25e7c02@a89a.org
-URL:https://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:dad7caa9-682e-401d-ba73-b85ee41b5758@dad7.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Holger Mann\, Nadja Sthamer\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
-DTEND:20241213T180000Z
-LOCATION:  Vor-Ort | JEDERMANNS\, Georg-Schumann-Straße 133\, 04155 Leipzig
-DTSTART:20241213T160000Z
+DESCRIPTION:Mit: Aydan Özoğuz\, Falko Droßmann\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
+DTEND:20241213T191500Z
+LOCATION:  Vor-Ort | Matthias-Claudius-Gymnasiums\, Witthöftstraße 8\, 22041 Hamburg
+DTSTART:20241213T173000Z
 SUMMARY:Wie sichern wir Frieden?
-UID:b90a7a43-5bc4-4dfc-85e9-50cb6af79851@b90a.org
-URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-DTEND:20241217T171500Z
-LOCATION:  Vor-Ort | Verein zur Förderung des Landlebens Massen-NL\, Dorfstraße 29a\, 03238 Massen
-DTSTART:20241217T160000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:02a4b020-2e58-4fda-a174-e20e508d46b7@02a4.org
-URL:https://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan\nhttps://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
-DTEND:20241129T200000Z
-LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
-DTSTART:20241129T183000Z
-SUMMARY:Wie steuern wir Migration?
-UID:95b9f213-65f7-4fd4-b182-d45de5761a9a@95b9.org
-URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
-DTEND:20241121T204500Z
-LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
-DTSTART:20241121T190000Z
-SUMMARY:Demokratie retten. Jetzt erst recht!
-UID:5aeec2e8-3626-4e45-8e83-b1e5429c5eba@5aee.org
-URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:c2dc72cd-8bba-4c1c-8742-0f3ed55e1587@c2dc.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Johannes Schätzl\, Sebastian Roloff
-DTEND:20241121T183000Z
-LOCATION:  Vor-Ort | Gasthof Auer\, Heininger Str. 26\, 94036 Passau
-DTSTART:20241121T173000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:4e72af61-3584-4cbe-afbf-48516aeb85b2@4e72.org
-URL:https://spdfraktion.de/termine/2024-11-21-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:c71da9ce-0ccc-4970-b134-ce4fe2a467d4@c71d.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:e8aaa87c-e14c-4690-b4ec-2f9ba57854b2@e8aa.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:d96e15ec-d8ad-4b47-b335-afe654c7d1c2@d96e.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Brian Nickholz\, Frank Schwabe\nhttps://spdfraktion.de/termine/2024-12-11-hausnummer-null
-DTEND:20241211T200000Z
-LOCATION:  Vor-Ort | Grimme-Institut\, Eduard-Weitsch-Weg 25\, 45768 Marl
-DTSTART:20241211T170000Z
-SUMMARY:Hausnummer Null
-UID:a94c40cd-9303-448f-a0ca-58334fb2b480@a94c.org
-URL:https://spdfraktion.de/termine/2024-12-11-hausnummer-null
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Gläserne Werkstatt\, Hauptstraße 61 – 63\, 42651 Solingen
-DTSTART:20241211T150000Z
-SUMMARY:Zukunft der inneren Sicherheit 
-UID:5796c88d-653d-475e-b2c8-c1347f00dbc5@5796.org
-URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:d86c4db9-6870-41a1-863f-29f1255bd968@d86c.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:9a4e2bf1-f906-49be-8944-176a8facbeec@9a4e.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:118f2754-3731-4c62-8d06-6f9ad3b1a056@118f.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Brian Nickholz\, Frank Schwabe
-DTEND:20241211T200000Z
-LOCATION:  Vor-Ort | Grimme-Institut\, Eduard-Weitsch-Weg 25\, 45768 Marl
-DTSTART:20241211T170000Z
-SUMMARY:Hausnummer Null
-UID:8561f457-c228-4ab4-a8a1-10f8a01167dc@8561.org
-URL:https://spdfraktion.de/termine/2024-12-11-hausnummer-null
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:4067dd58-f9bc-46e0-bf96-dddcac03405d@4067.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Carsten Schneider (Erfurt)\, Elisabeth Kaiser
-DTEND:20241120T200000Z
-LOCATION:  Vor-Ort | Haus Dacheröden\, Anger 37\, 99084 Erfurt
-DTSTART:20241120T180000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:f75414d9-538f-45fb-b8c8-6a34c61e5748@f754.org
-URL:https://spdfraktion.de/termine/2024-11-20-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
-DTEND:20241120T184500Z
-LOCATION:  Vor-Ort | Halle4\, Halbergstraße 4\, 66121 Saarbrücken
-DTSTART:20241120T170000Z
-SUMMARY:Familien nach vorne bringen
-UID:015a1ac1-231b-44bb-bc6d-c69876ff8879@015a.org
-URL:https://spdfraktion.de/termine/2024-11-20-familien-vorne-bringen
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:2a8b81b3-2679-43e8-8e2d-732dc174c61d@2a8b.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Holger Mann\, Nadja Sthamer\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
-DTEND:20241213T180000Z
-LOCATION:  Vor-Ort | JEDERMANNS\, Georg-Schumann-Straße 133\, 04155 Leipzig
-DTSTART:20241213T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:e7540b8e-9635-43bd-b36a-68861d5bc715@e754.org
-URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-DTEND:20241217T171500Z
-LOCATION:  Vor-Ort | Verein zur Förderung des Landlebens Massen-NL\, Dorfstraße 29a\, 03238 Massen
-DTSTART:20241217T160000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:a243b11f-dc0c-4961-859f-f23a2a1a3208@a243.org
-URL:https://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-DTEND:20241217T171500Z
-LOCATION:  Vor-Ort | Verein zur Förderung des Landlebens Massen-NL\, Dorfstraße 29a\, 03238 Massen
-DTSTART:20241217T160000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:29755235-4ebf-44e7-8320-4305daa8673f@2975.org
-URL:https://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Gerster\, Leni Breymaier\nhttps://spdfraktion.de/termine/2024-11-23-politischer-martini-0
-DTEND:20241123T194500Z
-LOCATION:  Vor-Ort | Schlosscafé Laupheim\, Claus-Graf-Stauffenberg-Str. 15\, 88471 Laupheim
-DTSTART:20241123T173000Z
-SUMMARY:Politischer Martini
-UID:dc02159b-7d0d-4973-a600-5a5a8330a668@dc02.org
-URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini-0
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
-DTEND:20241209T191500Z
-LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
-DTSTART:20241209T180000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:d439754a-7e8e-4d25-8208-5a0fe532d6ac@d439.org
-URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:0d562164-5c0d-4627-8603-f2a9b651a339@0d56.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
+UID:8945c7cf-2021-47ce-ab1c-d5a9ab5364c2@8945.org
+URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Carsten Träger\, Sabine Dittmar
@@ -1119,31 +353,13 @@ UID:c513b69b-f1f6-42a0-a6c1-9041ef8af53b@c513.org
 URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Carsten Träger\, Sabine Dittmar\nhttps://spdfraktion.de/termine/2024-11-22-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241122T193000Z
-LOCATION:  Vor-Ort | BRK-Kreisverband Fürth\, Henri-Dunant-Straße 11\, 90762 Fürth
-DTSTART:20241122T173000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:d3b1f4d4-39e0-4ec0-88b5-0fb3dba8740c@d3b1.org
-URL:https://spdfraktion.de/termine/2024-11-22-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ariane Fäscher\, Heike Baehrens\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-DTEND:20241220T193000Z
-LOCATION:  Vor-Ort | Bleu Blanc Rouge\, Backofenweg 3\, 16540 Hohen Neuendorf
-DTSTART:20241220T180000Z
-SUMMARY:Wie sichern wir eine gute Gesundheitsversorgung?
-UID:a050e4f7-7868-4900-9e70-cbceed2dd823@a050.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-gute-gesundheitsversorgung
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
-DTEND:20241122T153000Z
-LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
-DTSTART:20241122T140000Z
-SUMMARY:Was tun\, damit alle im Alter gut abgesichert leben können?
-UID:9860c1f2-ff82-45cf-ad1e-59d81e978e74@9860.org
-URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
+DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
+DTEND:20241121T194500Z
+LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
+DTSTART:20241121T180000Z
+SUMMARY:Demokratie retten. Jetzt erst recht!
+UID:4636887d-1a06-4348-a186-5ca51883e734@4636.org
+URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Svenja Stadler\, Leni Breymaier
@@ -1155,31 +371,13 @@ UID:644be4ce-969e-4219-a21c-33b25981a740@644b.org
 URL:https://spdfraktion.de/termine/2024-11-15-kein-tabu-wir-reden-drueber-haeusliche-gewalt
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\, Reem Alabali-Radovan\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:90e0f9ca-daf0-4ae8-baa4-f3d461ed9332@90e0.org
-URL:https://spdfraktion.de/demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-DTEND:20241211T163000Z
-LOCATION:  Vor-Ort | Gläserne Werkstatt\, Hauptstraße 61 – 63\, 42651 Solingen
-DTSTART:20241211T150000Z
-SUMMARY:Zukunft der inneren Sicherheit 
-UID:68ab1d0b-a6c6-4273-9020-f490ee111221@68ab.org
-URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
-DTEND:20241121T194500Z
-LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
-DTSTART:20241121T180000Z
-SUMMARY:Demokratie retten. Jetzt erst recht!
-UID:4636887d-1a06-4348-a186-5ca51883e734@4636.org
-URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
+DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
+DTEND:20241122T153000Z
+LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
+DTSTART:20241122T140000Z
+SUMMARY:Was tun\, damit alle im Alter gut abgesichert leben können?
+UID:9860c1f2-ff82-45cf-ad1e-59d81e978e74@9860.org
+URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Brian Nickholz\, Frank Schwabe\nhttps://spdfraktion.de/termine/2024-12-11-hausnummer-null
@@ -1187,16 +385,52 @@ DTEND:20241211T200000Z
 LOCATION:  Vor-Ort | Grimme-Institut\, Eduard-Weitsch-Weg 25\, 45768 Marl
 DTSTART:20241211T170000Z
 SUMMARY:Hausnummer Null
-UID:a38d26e5-b09b-4b3e-b401-30aa502cedf4@a38d.org
+UID:c8961ddb-4a9c-4126-9a4e-f4b4debc341b@c896.org
 URL:https://spdfraktion.de/termine/2024-12-11-hausnummer-null
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\, Reem Alabali-Radovan\nhttps://spdfraktion.de/demokratie
-DTEND:20250328T170000Z
-LOCATION:  Vor-Ort | Reichstagsgebäude\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20250328T110000Z
-SUMMARY:„Demokratie unter Druck – Herausforderungen und Richtungsentscheidungen nach der Wahl“
-UID:c53046d1-1a5b-43e8-b57a-5a2584aa61a8@c530.org
-URL:https://spdfraktion.de/demokratie
+DESCRIPTION:Mit: Dr. Jens Zimmermann\, Bernd Rützel\nhttps://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
+DTEND:20241215T114500Z
+LOCATION:  Vor-Ort | Wohngruppe Steinheimer Tor\, Wallstraße 38-40\, 63500 Seligenstadt
+DTSTART:20241215T100000Z
+SUMMARY:Wie sichern wir die Rente?
+UID:c8cc6f2e-a914-41d8-aea3-f9e1833a15dd@c8cc.org
+URL:https://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Martin Kröber\, Dr. Rolf Mützenich\nhttps://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
+DTEND:20241211T163000Z
+LOCATION:  Vor-Ort | Feuerwache Magdeburg\, Halberstädter Str. 140\, 39112 Magdeburg
+DTSTART:20241211T150000Z
+SUMMARY:Wie sichern wir Frieden?
+UID:aa4b11cb-f88b-427b-9b00-747ac2a26951@aa4b.org
+URL:https://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan\nhttps://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
+DTEND:20241129T200000Z
+LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
+DTSTART:20241129T183000Z
+SUMMARY:Wie steuern wir Migration?
+UID:856fa4e1-4ba9-443e-af4b-60d7a29da6a0@856f.org
+URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Metin Hakverdi\, Dorothee Martin\nhttps://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
+DTEND:20241214T170000Z
+LOCATION:  Vor-Ort | Herbert-Wehner-Haus\, Julius-Ludowieg-Straße 9\, 21073 Hamburg
+DTSTART:20241214T140000Z
+SUMMARY:Innere\, äußere und soziale Sicherheit – Welche Politik braucht Deutschland?
+UID:a6483b4b-3089-4f94-bcdb-69aa48238f23@a648.org
+URL:https://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal
+DTEND:20241209T201500Z
+LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
+DTSTART:20241209T190000Z
+SUMMARY:Wie sichern wir Jobs und Wachstum?
+UID:60a1a49a-5150-499a-964e-719383ea534f@60a1.org
+URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
 END:VEVENT
 END:VCALENDAR
