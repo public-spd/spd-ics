@@ -45,9 +45,6 @@ def generate_events(url):
                 and x != "mehr" \
                 and x != "SPD OnSeminare                         Ansprechpartner:" \
                 and x != "Zur Anmeldung"] + [url])
-        print("===")
-        print(description)
-        print("===")
 
         event = Event(name=name,
                       begin=begin.isoformat(),
