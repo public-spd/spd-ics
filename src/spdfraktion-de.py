@@ -46,9 +46,13 @@ if __name__ == "__main__":
     calendar = Calendar()
     if os.path.exists(OUTFILE):
         with open(OUTFILE, 'r') as f:
-            calendar = Calendar("".join(f.readlines()))
-            for event in calendar.events:
+            existing_calendar = Calendar("".join(f.readlines()))
+            for event in existing_calendar.events:
+                serialized_event = serialize(event)
+                if serialized_event in contained:
+                    continue
                 contained.add(serialize(event))
+                calendar.events.add(event)
     for event in generate_events(URL):
         serialized_event = serialize(event)
         if serialized_event in contained:
