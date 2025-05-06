@@ -42,9 +42,9 @@ def generate_events(url):
 
         description = "\n".join([x for x in [x.strip() for x in event_element.text.split("\n")] \
                 if len(x.strip()) > 1 \
-                and x != "mehr" \
-                and x != "SPD OnSeminare                         Ansprechpartner:" \
-                and x != "Zur Anmeldung"] + [url])
+                and x.strip() != "mehr" \
+                and x.strip() != "SPD OnSeminare                         Ansprechpartner:" \
+                and x.strip() != "Zur Anmeldung"] + ["Link: " + url])
 
         event = Event(name=name,
                       begin=begin.isoformat(),

@@ -22,7 +22,6 @@ def generate_events(url):
     soup = BeautifulSoup(response.text, features='lxml')
 
     for event_element in soup.find_all("h2", class_="text__headline"):
-        print(event_element.text)
         begin = dateparser.parse(event_element.text.split(" den ")[-1], settings=SETTINGS)
         event = Event(name=event_element.text,
                       begin=begin.isoformat(),
