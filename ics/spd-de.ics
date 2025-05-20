@@ -46,6 +46,14 @@ UID:30563918-0094-4c36-84ea-9a10fe9a6a35@3056.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-besucht-das-mercedes-benz-werk-in-sindelfingen/19/04/2025
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-beim-landesparteitag-der-spd-niedersachsen-in-wolfenbuettel/20/05/2025
+DURATION:PT1H
+DTSTART:20250520T094000Z
+SUMMARY: Lars Klingbeil beim Landesparteitag der SPD Niedersachsen in Wolfenbüttel 
+UID:3e8468c9-5de5-466b-8514-27e9574c0152@3e84.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-beim-landesparteitag-der-spd-niedersachsen-in-wolfenbuettel/20/05/2025
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/bundestagswahlabend-der-spd-im-willy-brandt-haus/04/02/2025
 DURATION:PT1H
 DTSTART:20250223T120000Z
@@ -195,19 +203,19 @@ UID:9df4ebcf-fa39-42ce-a131-719353e5f1cb@9df4.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-der-kanzler-kommt-olaf-scholz-in-leipzig/28/01/2025
 END:VEVENT
 BEGIN:VEVENT
+DURATION:PT1H
+DTSTART:20161115T190000Z
+SUMMARY: Lars Klingbeil in Schleswig-Holstein und Niedersachsen 
+UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg/10/02/2025
 DURATION:PT1H
 DTSTART:20250212T120000Z
 SUMMARY: Saskia Esken in Baden-Württemberg 
 UID:3a67f614-8e90-4688-937f-dfed3e8046eb@3a67.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg/10/02/2025
-END:VEVENT
-BEGIN:VEVENT
-DURATION:PT1H
-DTSTART:20161115T190000Z
-SUMMARY: Lars Klingbeil in Schleswig-Holstein und Niedersachsen 
-UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
@@ -502,20 +510,20 @@ SUMMARY: Bürgerschaftswahl in Hamburg
 UID:5f06dc0e-eca3-4c7d-869b-008927beb599@5f06.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
-DURATION:PT1H
-DTSTART:20250207T113000Z
-SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz in Baden-Württemberg 
-UID:1864bab9-72e3-4871-80c9-40f33764471d@1864.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
 DURATION:PT1H
 DTSTART:20200217T090000Z
 SUMMARY: Klara Geywitz in Baden-Württemberg und Hessen 
 UID:b0e8ba74-579e-4e3a-8694-263c2ba88b35@b0e8.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
+DURATION:PT1H
+DTSTART:20250207T113000Z
+SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz in Baden-Württemberg 
+UID:1864bab9-72e3-4871-80c9-40f33764471d@1864.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-bei-thyssenkrupp-und-zu-buergerdialogen-in-nrw/12/02/2025
