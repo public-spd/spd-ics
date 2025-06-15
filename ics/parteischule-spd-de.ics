@@ -18,19 +18,19 @@ UID:1e20bf24-8453-4750-99bb-2f0b3ebe725e@1e20.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n\nMontag\n28.04.2025\nOnline  Webex\n\n\n\n\nSPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation\n\n28.04.2025 19:00 - 20:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H11M
-DTSTART:20250428T190000Z
-SUMMARY:SPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation
-UID:f24ae80b-a87f-400c-bc79-1114d46ec3fa@f24a.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Donnerstag\n13.11.2025\nSPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen\n13.11.2025 18:30 - 20:00\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H42M
 DTSTART:20251113T183000Z
 SUMMARY:SPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen 
 UID:b3ba8768-60d2-481f-ae1d-2dccd14706cd@b3ba.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\nMontag\n28.04.2025\nOnline  Webex\n\n\n\n\nSPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation\n\n28.04.2025 19:00 - 20:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H11M
+DTSTART:20250428T190000Z
+SUMMARY:SPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation
+UID:f24ae80b-a87f-400c-bc79-1114d46ec3fa@f24a.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -170,14 +170,6 @@ UID:6eb687cf-68bd-4ece-91e1-dd4d7f409e7d@6eb6.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Montag\n09.06.2025\nOnline  Webex\nSPD On: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.\n09.06.2025 18:30 - 20:00\nKlaus Tovar\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H42M
-DTSTART:20250609T183000Z
-SUMMARY:SPD On: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.
-UID:db71de9a-a97f-4ea6-a021-403eba05cb30@db71.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\n\nDienstag\n03.06.2025\nOnline  Webex\n\n\n\n\nSPD On history: Johannes Rau. Der Besondere\n\n03.06.2025 14:00 - 20:00\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT5H46M
 DTSTART:20250603T140000Z
@@ -191,6 +183,14 @@ DURATION:PT1H12M
 DTSTART:20251118T180000Z
 SUMMARY:SPD On: Zielscheibe Politik - so schützt du dich vor Cyberangriffen
 UID:a1bb9090-9a1c-469e-be7c-8b2823e88aeb@a1bb.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Montag\n09.06.2025\nOnline  Webex\nSPD On: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.\n09.06.2025 18:30 - 20:00\nKlaus Tovar\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H42M
+DTSTART:20250609T183000Z
+SUMMARY:SPD On: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.
+UID:db71de9a-a97f-4ea6-a021-403eba05cb30@db71.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
