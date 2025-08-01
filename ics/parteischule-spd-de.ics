@@ -26,19 +26,19 @@ UID:861724ae-67d5-4081-9af2-7930dc032810@8617.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Donnerstag\n13.11.2025\nSPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen\n13.11.2025 18:30 - 20:00\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H42M
-DTSTART:20251113T183000Z
-SUMMARY:SPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen 
-UID:b3ba8768-60d2-481f-ae1d-2dccd14706cd@b3ba.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\n\nMontag\n28.04.2025\nOnline  Webex\n\n\n\n\nSPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation\n\n28.04.2025 19:00 - 20:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H11M
 DTSTART:20250428T190000Z
 SUMMARY:SPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation
 UID:f24ae80b-a87f-400c-bc79-1114d46ec3fa@f24a.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Donnerstag\n13.11.2025\nSPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen\n13.11.2025 18:30 - 20:00\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H42M
+DTSTART:20251113T183000Z
+SUMMARY:SPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen 
+UID:b3ba8768-60d2-481f-ae1d-2dccd14706cd@b3ba.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -111,6 +111,14 @@ DURATION:PT1H11M
 DTSTART:20250513T190000Z
 SUMMARY:SPD On: Reels für Reichweite. Die „knackigen“ ersten Sekunden und die Technik\, die hilft
 UID:d14dfe30-3e4f-498a-9572-68737ba4c2e7@d14d.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Referat\n01.01.1970 01:00 Uhr\nSPD OnSeminare            01.08.2025 Organisationsentwicklung\nICal\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H
+DTSTART:19700101T010000Z
+SUMMARY:Referat
+UID:6fe8be10-3b28-4453-8330-0d2ecdac6968@6fe8.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -210,19 +218,11 @@ UID:6eb687cf-68bd-4ece-91e1-dd4d7f409e7d@6eb6.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n\nDienstag\n03.06.2025\nOnline  Webex\n\n\n\n\nSPD On history: Johannes Rau. Der Besondere\n\n03.06.2025 14:00 - 20:00\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT5H46M
-DTSTART:20250603T140000Z
-SUMMARY:SPD On history: Johannes Rau. Der Besondere
-UID:96afb3e0-65b9-4148-a6f7-8e68c37d916f@96af.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Dienstag\n18.11.2025\nOnline  Webex\nSPD On: Zielscheibe Politik - so schützt du dich vor Cyberangriffen\n18.11.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DESCRIPTION:Montag\n13.10.2025\nOnline  Webex\nSPD On: Mitglieder werben und willkommen heißen\n13.10.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
-DTSTART:20251118T180000Z
-SUMMARY:SPD On: Zielscheibe Politik - so schützt du dich vor Cyberangriffen
-UID:a1bb9090-9a1c-469e-be7c-8b2823e88aeb@a1bb.org
+DTSTART:20251013T180000Z
+SUMMARY:SPD On: Mitglieder werben und willkommen heißen
+UID:ea8c8511-ccb8-470c-ace8-9edb137bcf92@ea8c.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -234,11 +234,19 @@ UID:db71de9a-a97f-4ea6-a021-403eba05cb30@db71.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Montag\n13.10.2025\nOnline  Webex\nSPD On: Mitglieder werben und willkommen heißen\n13.10.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DESCRIPTION:Dienstag\n18.11.2025\nOnline  Webex\nSPD On: Zielscheibe Politik - so schützt du dich vor Cyberangriffen\n18.11.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
-DTSTART:20251013T180000Z
-SUMMARY:SPD On: Mitglieder werben und willkommen heißen
-UID:ea8c8511-ccb8-470c-ace8-9edb137bcf92@ea8c.org
+DTSTART:20251118T180000Z
+SUMMARY:SPD On: Zielscheibe Politik - so schützt du dich vor Cyberangriffen
+UID:a1bb9090-9a1c-469e-be7c-8b2823e88aeb@a1bb.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\nDienstag\n03.06.2025\nOnline  Webex\n\n\n\n\nSPD On history: Johannes Rau. Der Besondere\n\n03.06.2025 14:00 - 20:00\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT5H46M
+DTSTART:20250603T140000Z
+SUMMARY:SPD On history: Johannes Rau. Der Besondere
+UID:96afb3e0-65b9-4148-a6f7-8e68c37d916f@96af.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
