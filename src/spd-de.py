@@ -29,6 +29,8 @@ def split_date(date, region=REGION, languages=[REGION.lower()]):
 def parse_time(time, region=REGION, languages=[REGION.lower()]):
     if not time:
         return None
+    if 'ca' in time:
+        time = time.replace('ca. ', '').replace('ca ', '')
     if 'Uhr' in time:
         tzinfo = datetime.datetime.now(datetime.timezone.utc).astimezone().tzinfo
         time = time.split("Uhr")[0]
@@ -65,7 +67,7 @@ def generate_events(url):
             if to == 'url':
                 event[to] = tmp.get('href')
             elif to == 'time':
-                event[to] = parse_time(tmp.get_text().replace('ca. ', ''))
+                event[to] = parse_time(tmp.get_text())
             else:
                 event[to] = tmp.get_text()
         
