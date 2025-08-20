@@ -65,7 +65,7 @@ def generate_events(url):
             if to == 'url':
                 event[to] = tmp.get('href')
             elif to == 'time':
-                event[to] = parse_time(tmp.get_text())
+                event[to] = parse_time(tmp.get_text().replace('ca. ', ''))
             else:
                 event[to] = tmp.get_text()
         
