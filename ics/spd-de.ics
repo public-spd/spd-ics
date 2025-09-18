@@ -251,19 +251,19 @@ UID:fd1ee96f-1096-4e2f-aaf5-1b6d88826dd9@fd1e.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/einladung-zur-pressekonferenz-am-02-juni-2025/30/05/2025
 END:VEVENT
 BEGIN:VEVENT
-DURATION:PT1H
-DTSTART:20161115T190000Z
-SUMMARY: Lars Klingbeil in Schleswig-Holstein und Niedersachsen 
-UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg/10/02/2025
 DURATION:PT1H
 DTSTART:20250212T120000Z
 SUMMARY: Saskia Esken in Baden-Württemberg 
 UID:3a67f614-8e90-4688-937f-dfed3e8046eb@3a67.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-baden-wuerttemberg/10/02/2025
+END:VEVENT
+BEGIN:VEVENT
+DURATION:PT1H
+DTSTART:20161115T190000Z
+SUMMARY: Lars Klingbeil in Schleswig-Holstein und Niedersachsen 
+UID:d52c60ec-10f7-4198-9204-0abbd137735c@d52c.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-in-schleswig-holstein-und-niedersachsen/14/11/2024
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240302
@@ -484,18 +484,18 @@ UID:d5209ad4-a843-455b-a977-74b5e78ba1f8@d520.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/saskia-esken-in-nordrhein-westfalen/18/02/2025
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20240302
-DESCRIPTION:\n
-SUMMARY: Bürgerschaftswahl in Hamburg 
-UID:d652ac3f-5a7d-4c1f-b3cc-7313184180e7@d652.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/klingbeil-im-gespraech-mit-jakob-blankenburg-in-lueneburg/28/05/2025
 DURATION:PT1H
 DTSTART:20250602T193000Z
 SUMMARY: „Klingbeil im Gespräch“ mit Jakob Blankenburg in Lüneburg 
 UID:d5a743c6-1e00-4838-861f-df266ddd7cec@d5a7.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/klingbeil-im-gespraech-mit-jakob-blankenburg-in-lueneburg/28/05/2025
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20240302
+DESCRIPTION:\n
+SUMMARY: Bürgerschaftswahl in Hamburg 
+UID:d652ac3f-5a7d-4c1f-b3cc-7313184180e7@d652.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/einladung-zur-pressekonferenz/14/03/2025
@@ -590,20 +590,20 @@ SUMMARY: Bürgerschaftswahl in Hamburg
 UID:5f06dc0e-eca3-4c7d-869b-008927beb599@5f06.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
-DURATION:PT1H
-DTSTART:20200217T090000Z
-SUMMARY: Klara Geywitz in Baden-Württemberg und Hessen 
-UID:b0e8ba74-579e-4e3a-8694-263c2ba88b35@b0e8.org
-URL:https://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
 DURATION:PT1H
 DTSTART:20250207T113000Z
 SUMMARY: Mehr für Dich. Besser für Deutschland. Olaf Scholz in Baden-Württemberg 
 UID:1864bab9-72e3-4871-80c9-40f33764471d@1864.org
 URL:https://www.spd.de/service/pressemitteilungen/detail/news/mehr-fuer-dich-besser-fuer-deutschland-olaf-scholz-in-baden-wuerttemberg/28/01/2025
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
+DURATION:PT1H
+DTSTART:20200217T090000Z
+SUMMARY: Klara Geywitz in Baden-Württemberg und Hessen 
+UID:b0e8ba74-579e-4e3a-8694-263c2ba88b35@b0e8.org
+URL:https://www.spd.de/service/pressemitteilungen/detail/news/klara-geywitz-in-baden-wuerttemberg-und-hessen-/14/02/2025
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd.de/service/pressemitteilungen/detail/news/lars-klingbeil-bei-thyssenkrupp-und-zu-buergerdialogen-in-nrw/12/02/2025
