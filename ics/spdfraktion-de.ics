@@ -38,13 +38,13 @@ UID:5aeec2e8-3626-4e45-8e83-b1e5429c5eba@5aee.org
 URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:21ab0357-2327-471f-9369-78ef28041ef6@21ab.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
+DESCRIPTION:Mit: Parsa Marvi\nhttps://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun
+DTEND:20251022T103000Z
+LOCATION:  Vor-Ort | Infostand Wochenmarkt Waldstadt Zentrum\, Neisser Straße\, 76139 Karlsruhe
+DTSTART:20251022T070000Z
+SUMMARY:Anpacken! Was muss die Politik jetzt für Jobs und Wachstum tun?
+UID:25768748-b1e0-466f-9829-6e0e4d24e6a0@2576.org
+URL:https://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
@@ -65,13 +65,13 @@ UID:6613f9c1-a122-4ff4-a051-8aa0ab0d16c5@6613.org
 URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Parsa Marvi\nhttps://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun
-DTEND:20251022T103000Z
-LOCATION:  Vor-Ort | Infostand Wochenmarkt Waldstadt Zentrum\, Neisser Straße\, 76139 Karlsruhe
-DTSTART:20251022T070000Z
-SUMMARY:Anpacken! Was muss die Politik jetzt für Jobs und Wachstum tun?
-UID:25768748-b1e0-466f-9829-6e0e4d24e6a0@2576.org
-URL:https://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun
+DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
+DTEND:20241220T180000Z
+LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
+DTSTART:20241220T160000Z
+SUMMARY:Wie sichern wir Frieden?
+UID:21ab0357-2327-471f-9369-78ef28041ef6@21ab.org
+URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler
@@ -108,6 +108,15 @@ DTSTART:20241121T173000Z
 SUMMARY:Wie sichern wir Jobs und Wachstum?
 UID:4e72af61-3584-4cbe-afbf-48516aeb85b2@4e72.org
 URL:https://spdfraktion.de/termine/2024-11-21-sichern-wir-jobs-wachstum
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Nadine Heselhaus\, Kerstin Griese\nhttps://spdfraktion.de/termine/2025-10-28-sicherheit-alter
+DTEND:20251028T190000Z
+LOCATION:  Vor-Ort | Europahaus\, Adenauerallee 59\, 46399 Bocholt
+DTSTART:20251028T170000Z
+SUMMARY:Sicherheit auch im Alter
+UID:9fc25f5f-71b9-48a1-9856-6e6b52c1b991@9fc2.org
+URL:https://spdfraktion.de/termine/2025-10-28-sicherheit-alter
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Carsten Schneider (Erfurt)\, Elisabeth Kaiser
@@ -182,6 +191,24 @@ UID:ddfaf723-73f3-44e7-bc1e-f344d7ef5f5a@ddfa.org
 URL:https://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Sören Bartol\nhttps://spdfraktion.de/termine/2025-10-11-anpacken-muss-politik-tun
+DTEND:20251011T133000Z
+LOCATION:  Vor-Ort | Sören Bartol\, MdB\, Biegenstraße 33\, 35037 Marburg
+DTSTART:20251011T123000Z
+SUMMARY:Anpacken! Was muss die Politik jetzt tun?
+UID:247ac6de-9217-480b-ad8d-5e7281125acf@247a.org
+URL:https://spdfraktion.de/termine/2025-10-11-anpacken-muss-politik-tun
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Parsa Marvi\nhttps://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun
+DTEND:20251022T103000Z
+LOCATION:  Vor-Ort | Infostand Wochenmarkt Waldstadt Zentrum\, Neisser Straße\, 76139 Karlsruhe
+DTSTART:20251022T070000Z
+SUMMARY:Anpacken! Was muss die Politik jetzt für Jobs und Wachstum tun?
+UID:b63f6f0c-45b4-4e55-a9ca-459b8ec2cc46@b63f.org
+URL:https://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Sonja Eichwede\, Carmen Wegge\nhttps://spdfraktion.de/anwaltstag2025
 DTEND:20250606T093000Z
 LOCATION:  Vor-Ort | Estrel Congress Center Berlin\, AdvoTec (Ausstellung)\, Convention Hall II\, Sonnenallee 225\, 12057 Berlin
@@ -209,6 +236,15 @@ UID:c0a5b3d2-e2a8-4af9-9990-8961b4041747@c0a5.org
 URL:https://spdfraktion.de/termine/2024-11-23-politischer-martini-0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Jakob Blankenburg\, Frauke Heiligenstadt\nhttps://spdfraktion.de/termine/2025-10-24-wir-starten-investitionsoffensive
+DTEND:20251024T180000Z
+LOCATION:  Vor-Ort | Ostbahnhof Dannenberg\, Am Ostbahnhof 1\, 29451 Dannenberg (Elbe)
+DTSTART:20251024T160000Z
+SUMMARY:Wir starten die Investitionsoffensive
+UID:aa692206-1653-48e1-b1a9-a5ee1d7f1033@aa69.org
+URL:https://spdfraktion.de/termine/2025-10-24-wir-starten-investitionsoffensive
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
 DTEND:20241211T163000Z
 LOCATION:  Vor-Ort | Gläserne Werkstatt\, Hauptstraße 61 – 63\, 42651 Solingen
@@ -216,15 +252,6 @@ DTSTART:20241211T150000Z
 SUMMARY:Zukunft der inneren Sicherheit 
 UID:dc450646-8b6d-4d2c-ac45-50a9eb1fe006@dc45.org
 URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Bärbel Kofler\, Dr. Matthias Miersch
-DTEND:20241120T190000Z
-LOCATION:  Nur Online
-DTSTART:20241120T180000Z
-SUMMARY:Turbo für erneuerbare Energien 
-UID:2631b58b-fcd0-4e0d-a3c4-9fc1683ca81f@2631.org
-URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Jakob Blankenburg\, Frauke Heiligenstadt\nhttps://spdfraktion.de/termine/2025-10-24-wir-starten-investitionsoffensive
@@ -236,6 +263,15 @@ UID:1ef0b7b8-2e0a-46d5-b075-ded7d0afb94a@1ef0.org
 URL:https://spdfraktion.de/termine/2025-10-24-wir-starten-investitionsoffensive
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Dr. Bärbel Kofler\, Dr. Matthias Miersch
+DTEND:20241120T190000Z
+LOCATION:  Nur Online
+DTSTART:20241120T180000Z
+SUMMARY:Turbo für erneuerbare Energien 
+UID:2631b58b-fcd0-4e0d-a3c4-9fc1683ca81f@2631.org
+URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan
 DTEND:20241129T210000Z
 LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
@@ -243,6 +279,15 @@ DTSTART:20241129T193000Z
 SUMMARY:Wie steuern wir Migration?
 UID:bd891fe3-daba-4793-b689-39da80a6587c@bd89.org
 URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Parsa Marvi\nhttps://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun-0
+DTEND:20251022T200000Z
+LOCATION:  Vor-Ort | Reinhards Restaurant\, Am Rüppurer Schloss 9\, 76199 Karlsruhe
+DTSTART:20251022T170000Z
+SUMMARY:Anpacken! Was muss die Politik jetzt für Jobs und Wachstum tun?
+UID:9cd13eab-1016-44e6-b2e8-44cde82596fd@9cd1.org
+URL:https://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dietmar Nietan\, Claudia Moll\, Ye-One Rhie\, Andreas Rimkus\nhttps://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
@@ -254,15 +299,6 @@ UID:5ec4b7ca-ff97-420a-b9d6-f44ebab74748@5ec4.org
 URL:https://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Carsten Schneider (Erfurt)\, Elisabeth Kaiser
-DTEND:20241120T200000Z
-LOCATION:  Vor-Ort | Haus Dacheröden\, Anger 37\, 99084 Erfurt
-DTSTART:20241120T180000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:f75414d9-538f-45fb-b8c8-6a34c61e5748@f754.org
-URL:https://spdfraktion.de/termine/2024-11-20-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Natalie Pawlik\, Hannes Walter
 DTEND:20241119T200000Z
 LOCATION:  Vor-Ort | Bürgerhaus Weckesheim\, 61203 Reichelsheim (Wetterau)
@@ -270,6 +306,15 @@ DTSTART:20241119T173000Z
 SUMMARY:Starkes Handwerk\, starke Wirtschaft
 UID:c908b985-9c6d-43e1-87b9-4edbd73629d5@c908.org
 URL:https://spdfraktion.de/termine/2024-11-19-starkes-handwerk-starke-wirtschaft
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Carsten Schneider (Erfurt)\, Elisabeth Kaiser
+DTEND:20241120T200000Z
+LOCATION:  Vor-Ort | Haus Dacheröden\, Anger 37\, 99084 Erfurt
+DTSTART:20241120T180000Z
+SUMMARY:Wie sichern wir Jobs und Wachstum?
+UID:f75414d9-538f-45fb-b8c8-6a34c61e5748@f754.org
+URL:https://spdfraktion.de/termine/2024-11-20-sichern-wir-jobs-wachstum
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Nils Schmid\, Dr. Martin Rosemann
@@ -281,13 +326,13 @@ UID:bf8c7a86-f88d-4bae-afd3-5afd251f01da@bf8c.org
 URL:https://spdfraktion.de/termine/2024-11-20-buergergeld-sozialstaat-augenhoehe
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
-DTEND:20241120T184500Z
-LOCATION:  Vor-Ort | Halle4\, Halbergstraße 4\, 66121 Saarbrücken
-DTSTART:20241120T170000Z
-SUMMARY:Familien nach vorne bringen
-UID:015a1ac1-231b-44bb-bc6d-c69876ff8879@015a.org
-URL:https://spdfraktion.de/termine/2024-11-20-familien-vorne-bringen
+DESCRIPTION:Mit: Dr. Nils Schmid\, Dr. Martin Rosemann
+DTEND:20241120T193000Z
+LOCATION:  Vor-Ort | Mehrgenerationenhaus Linde\, Alleenstraße 90\, 73230 Kirchheim unter Teck
+DTSTART:20241120T180000Z
+SUMMARY:Das Bürgergeld – Für einen Sozialstaat auf Augenhöhe!
+UID:2a8cafb8-54b2-4843-bd00-52204d9e126a@2a8c.org
+URL:https://spdfraktion.de/termine/2024-11-20-buergergeld-sozialstaat-augenhoehe
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Svenja Schulze\, Ye-One Rhie\nhttps://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
@@ -299,13 +344,13 @@ UID:6bd4062d-3618-4120-b7a2-90c47116e9b3@6bd4.org
 URL:https://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Nils Schmid\, Dr. Martin Rosemann
-DTEND:20241120T193000Z
-LOCATION:  Vor-Ort | Mehrgenerationenhaus Linde\, Alleenstraße 90\, 73230 Kirchheim unter Teck
-DTSTART:20241120T180000Z
-SUMMARY:Das Bürgergeld – Für einen Sozialstaat auf Augenhöhe!
-UID:2a8cafb8-54b2-4843-bd00-52204d9e126a@2a8c.org
-URL:https://spdfraktion.de/termine/2024-11-20-buergergeld-sozialstaat-augenhoehe
+DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
+DTEND:20241120T184500Z
+LOCATION:  Vor-Ort | Halle4\, Halbergstraße 4\, 66121 Saarbrücken
+DTSTART:20241120T170000Z
+SUMMARY:Familien nach vorne bringen
+UID:015a1ac1-231b-44bb-bc6d-c69876ff8879@015a.org
+URL:https://spdfraktion.de/termine/2024-11-20-familien-vorne-bringen
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Heike Engelhardt\, Martin Gerster\nhttps://spdfraktion.de/termine/2024-11-23-politischer-martini
@@ -362,6 +407,15 @@ UID:4f2f8c3c-9d8c-40b8-8212-dfe78bbacc49@4f2f.org
 URL:https://spdfraktion.de/termine/2024-12-09-organspende-geht-mich
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Sören Bartol\, Dr. Philipp Rottwilm\nhttps://spdfraktion.de/termine/2025-10-31-wir-zuenden-bau-turbo
+DTEND:20251031T200000Z
+LOCATION:  Vor-Ort | Stadthalle Stadtallendorf\, Bahnhofstraße 2\, 35260 Stadtallendorf
+DTSTART:20251031T180000Z
+SUMMARY:Wir zünden den Bau-Turbo
+UID:4e718cbf-787d-4d41-a0cc-3c35bd171a3f@4e71.org
+URL:https://spdfraktion.de/termine/2025-10-31-wir-zuenden-bau-turbo
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Brian Nickholz\, Frank Schwabe
 DTEND:20241211T210000Z
 LOCATION:  Vor-Ort | Grimme-Institut\, Eduard-Weitsch-Weg 25\, 45768 Marl
@@ -398,13 +452,13 @@ UID:c513b69b-f1f6-42a0-a6c1-9041ef8af53b@c513.org
 URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
-DTEND:20241122T153000Z
-LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
-DTSTART:20241122T140000Z
-SUMMARY:Was tun\, damit alle im Alter gut abgesichert leben können?
-UID:9860c1f2-ff82-45cf-ad1e-59d81e978e74@9860.org
-URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
+DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
+DTEND:20241121T194500Z
+LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
+DTSTART:20241121T180000Z
+SUMMARY:Demokratie retten. Jetzt erst recht!
+UID:4636887d-1a06-4348-a186-5ca51883e734@4636.org
+URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Svenja Stadler\, Leni Breymaier
@@ -416,13 +470,13 @@ UID:644be4ce-969e-4219-a21c-33b25981a740@644b.org
 URL:https://spdfraktion.de/termine/2024-11-15-kein-tabu-wir-reden-drueber-haeusliche-gewalt
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
-DTEND:20241121T194500Z
-LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
-DTSTART:20241121T180000Z
-SUMMARY:Demokratie retten. Jetzt erst recht!
-UID:4636887d-1a06-4348-a186-5ca51883e734@4636.org
-URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
+DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
+DTEND:20241122T153000Z
+LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
+DTSTART:20241122T140000Z
+SUMMARY:Was tun\, damit alle im Alter gut abgesichert leben können?
+UID:9860c1f2-ff82-45cf-ad1e-59d81e978e74@9860.org
+URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Sören Bartol\, Dr. Philipp Rottwilm\nhttps://spdfraktion.de/termine/2025-10-31-wir-zuenden-bau-turbo
