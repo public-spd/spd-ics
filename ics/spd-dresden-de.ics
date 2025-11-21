@@ -37,21 +37,21 @@ UID:4e7da6d9-9188-4bd9-903d-e8b9b1806081@4e7d.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260417T110000Z
-LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
-DTSTART:20260417T090000Z
-SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
-UID:010f0f09-2d9d-43f8-8d82-05f964813265@010f.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Wir laden dich herzlich zu unserem gemeinsamen Picknick am Samstag\, den 24. August 2025\, um 15:00 Uhr in den Hugo-Bürkner-Park ein.\nDas ursprünglich geplante Treffen am Donnerstag\, den 14. August 2025 muss leider ausfallen.\nWir freuen uns darauf\, uns in entspannter Atmosphäre auszutauschen und die Gemeinschaft zu stärken. Bitte bring etwas zu essen oder zu trinken für dich und eine weitere Person mit. Eine Picknickdecke\, Teller\, Besteck und Becher wären ebenfalls hilfreich.\nWenn du über etwas Bestimmtes sprechen möchtest\, gib uns bitte vorher Bescheid.\nWir freuen uns auf einen schönen Nachmittag mit dir!\nLink: https://www.spd-dresden.de/termine/
 DTEND:20250824T160000Z
 LOCATION:Hugo-Bürkner Park\, Hugo-Bürkner-Straße 4\, 01219 Dresden\, Deutschland
 DTSTART:20250824T150000Z
 SUMMARY:Picknick im Park mit dem OV Prohlis
 UID:15e2ea62-ceb8-4ea5-b5ab-34055e2087d1@15e2.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260417T110000Z
+LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
+DTSTART:20260417T090000Z
+SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
+UID:010f0f09-2d9d-43f8-8d82-05f964813265@010f.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -116,14 +116,6 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250205T110000Z
-LOCATION:Wochenmarkt Münchner Platz\, Münchner Pl.\, 01187 Dresden\, Deutschland
-DTSTART:20250205T080000Z
-SUMMARY:Infostand am Wochenmarkt Münchner Platz
-UID:f0f21fa3-4b7b-4294-9739-ffb3861a6c2c@f0f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
 DTEND:20250415T190000Z
 LOCATION:Kunst Café Antik\, An d. Frauenkirche 5\, 01067 Dresden\, Germany
 DTSTART:20250415T170000Z
@@ -132,11 +124,20 @@ UID:cf353e60-e317-420a-9f9f-4f2117f1579c@cf35.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250125T140000Z
-LOCATION:Herbert-Wehner-Haus\, Devrientstraße 7\, 01067 Dresden\, Deutschland
-DTSTART:20250125T110000Z
-SUMMARY:Neujahrsempfang der SPD Dresden und ihrer Abgeordneten
-UID:f281c172-f5cf-4e54-94e7-6c97cc306322@f281.org
+DTEND:20250205T110000Z
+LOCATION:Wochenmarkt Münchner Platz\, Münchner Pl.\, 01187 Dresden\, Deutschland
+DTSTART:20250205T080000Z
+SUMMARY:Infostand am Wochenmarkt Münchner Platz
+UID:f0f21fa3-4b7b-4294-9739-ffb3861a6c2c@f0f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:demnächst mehr\nLink: https://www.spd-dresden.de/termine/
+DTEND:20251003T190000Z
+LOCATION:Altleuben\, 01257 Dresden-Leuben\, Deutschland
+DTSTART:20251003T140000Z
+SUMMARY:Fest der Demokratie u.a. mit SPD\, Grünen und Linken in Leuben
+UID:fbcbccfa-27c8-496d-b673-0fd3eca357d0@fbcb.org
+URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nAls Ihr Landtagsabgeordneter für Dresden möchte ich auch zwischen den Wahlkämpfen mit Ihnen im Gespräch bleiben: welche Themen brennen Ihnen unter den Nägeln? Wie stehen Sie zu den Themen unserer Zeit? Darüber und mehr möchte ich mit Ihnen im Kontakt bleiben.\nAktuelle Infos finden Sie stets unter https://albrechtpallas/ppp\nLink: https://www.spd-dresden.de/termine/
@@ -148,13 +149,12 @@ UID:9f95eb35-36ee-4d42-bf82-03fb8e69d568@9f95.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:demnächst mehr\nLink: https://www.spd-dresden.de/termine/
-DTEND:20251003T190000Z
-LOCATION:Altleuben\, 01257 Dresden-Leuben\, Deutschland
-DTSTART:20251003T140000Z
-SUMMARY:Fest der Demokratie u.a. mit SPD\, Grünen und Linken in Leuben
-UID:fbcbccfa-27c8-496d-b673-0fd3eca357d0@fbcb.org
-URL:https://www.spd-dresden.de/termine/
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250125T140000Z
+LOCATION:Herbert-Wehner-Haus\, Devrientstraße 7\, 01067 Dresden\, Deutschland
+DTSTART:20250125T110000Z
+SUMMARY:Neujahrsempfang der SPD Dresden und ihrer Abgeordneten
+UID:f281c172-f5cf-4e54-94e7-6c97cc306322@f281.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
@@ -246,13 +246,6 @@ SUMMARY:OV Pieschen: Infostand am Trachenberger Platz
 UID:1c1f5a86-aa66-4f1d-8e8e-f30bb0f46c71@1c1f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250529T160000Z
-DTSTART:20250529T110000Z
-SUMMARY:OV Striesen Familien- und Europafest
-UID:5de93393-f4f4-4c4a-8b54-cfc48da72566@5de9.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20250805T210000Z
 LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
@@ -260,6 +253,13 @@ DTSTART:20250805T183000Z
 SUMMARY:Juso-Dienstag
 UID:5733c956-3f97-4595-b510-2dd75e18a330@5733.org
 URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250529T160000Z
+DTSTART:20250529T110000Z
+SUMMARY:OV Striesen Familien- und Europafest
+UID:5de93393-f4f4-4c4a-8b54-cfc48da72566@5de9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -296,12 +296,12 @@ UID:3842e50a-0bfb-4e29-8f19-846532f94df8@3842.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260116T110000Z
-LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
-DTSTART:20260116T090000Z
-SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
-UID:6942ddb1-3437-4c3b-af83-123d76ff5f6d@6942.org
+DESCRIPTION:Monatliches Treffen der Arbeitsgemeinschaft 60plus aus dem Unterbezirk Dresden sowie den Kreisverbänden SOE und Meißen. \nFür Rückmeldungen und Mitteilungen bitte diese E-Mail benutzen!\nLink: https://www.spd-dresden.de/termine/
+DTEND:20251125T190000Z
+LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
+DTSTART:20251125T170000Z
+SUMMARY:Arbeitsgemeinschaft 60plus: Mitgliedertreffen
+UID:66b9cf92-c5e7-486d-b0b6-2270815a9d6a@66b9.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -313,12 +313,12 @@ SUMMARY:Juso-Dienstag
 UID:0cb9b14c-d653-4c8f-9086-8e3830aff7ba@0cb9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Monatliches Treffen der Arbeitsgemeinschaft 60plus aus dem Unterbezirk Dresden sowie den Kreisverbänden SOE und Meißen. \nFür Rückmeldungen und Mitteilungen bitte diese E-Mail benutzen!\nLink: https://www.spd-dresden.de/termine/
-DTEND:20251125T190000Z
-LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
-DTSTART:20251125T170000Z
-SUMMARY:Arbeitsgemeinschaft 60plus: Mitgliedertreffen
-UID:66b9cf92-c5e7-486d-b0b6-2270815a9d6a@66b9.org
+DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260116T110000Z
+LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
+DTSTART:20260116T090000Z
+SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
+UID:6942ddb1-3437-4c3b-af83-123d76ff5f6d@6942.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -625,13 +625,6 @@ UID:5312b1c1-4428-4c93-bb1e-06741e17d51c@5312.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20250707T200000Z
-LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
-DTSTART:20250707T170000Z
-SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
-UID:399cbfb0-a845-4a20-90cd-281b22e01f28@399c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Austausch & Gespräch mit Stadträtin Kristin Sturm-Kalrs und und dem Stadtbezirksbeirat Prof. André Lerch.\nLink: https://www.spd-dresden.de/termine/
 DTEND:20250922T203000Z
 LOCATION:Bürgerbüro Leuben\, Hertzstraße 23\, 01257 Dresden\, Deutschland
@@ -641,6 +634,13 @@ UID:3b037d43-47b8-494f-832c-c71835da652e@3b03.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
+DTEND:20250707T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250707T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:399cbfb0-a845-4a20-90cd-281b22e01f28@399c.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
 DTEND:20250604T190000Z
 DTSTART:20250604T170000Z
@@ -648,13 +648,12 @@ SUMMARY:Treffen des AK Kultur
 UID:34b2c83a-f357-411f-8ec2-79e79db2ccda@34b2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20250712T120000Z
-LOCATION:Spenerstraße 3\, 01309 Dresden\, Deutschland
-DTSTART:20250712T110000Z
-SUMMARY:OV Striesen Gedenken an Herbert Wehner mit Prof. Christoph Meyer
-UID:ce2fa61b-7cde-413a-9e63-5ac86c6e4203@ce2f.org
-URL:https://www.spd-dresden.de/termine/
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250429T210000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
+DTSTART:20250429T183000Z
+SUMMARY:Juso-Dienstag
+UID:1e23d945-0f55-4f05-80ad-746c67531fe4@1e23.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Der Unterbezirksvorstand ist zwischen den Parteitagen das politische Leitgremium der Dresdner SPD. Er trifft sich mindestens monatlich zu Sitzungen\, die für Dresdner SPD-Mitglieder stets öffentlich sind.\nLink: https://www.spd-dresden.de/termine/
@@ -666,12 +665,13 @@ UID:2e1bceeb-a896-4c54-b5ad-287f93eceb88@2e1b.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250429T210000Z
-LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
-DTSTART:20250429T183000Z
-SUMMARY:Juso-Dienstag
-UID:1e23d945-0f55-4f05-80ad-746c67531fe4@1e23.org
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20250712T120000Z
+LOCATION:Spenerstraße 3\, 01309 Dresden\, Deutschland
+DTSTART:20250712T110000Z
+SUMMARY:OV Striesen Gedenken an Herbert Wehner mit Prof. Christoph Meyer
+UID:ce2fa61b-7cde-413a-9e63-5ac86c6e4203@ce2f.org
+URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
@@ -755,12 +755,12 @@ SUMMARY:Demo gegen Kürzungen
 UID:fcc1669a-9406-4854-b90c-15cd9a9dde62@fcc1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Komm‘ mit Albrecht zu aktuellen politischen Themen ins Gespräch.\n\nLink: https://www.spd-dresden.de/termine/
-DTEND:20250912T150000Z
-LOCATION:Augustusbrücke\, Nähe Neustädter Markt\, 01097 Dresden
-DTSTART:20250912T130000Z
-SUMMARY:Pallas\, Plausch & Politik mit Albrecht Pallas (MdL) und Matthias Ecke (MdEP)
-UID:e6a01596-7194-4646-8749-0d37328eaa98@e6a0.org
+DESCRIPTION:https://www.landtag.sachsen.de/de/aktuelles/veranstaltungen/tag-der-offenen-tuer-2025-32158.cshtml\nLink: https://www.spd-dresden.de/termine/
+DTEND:20251003T170000Z
+LOCATION:Sächsischer Landtag\, Bernhard-von-Lindenau-Platz 1\, 01067 Dresden\, Deutschland
+DTSTART:20251003T120000Z
+SUMMARY:Tag der Demokratie 2025 im Sächsischen Landtag
+UID:d8688322-4fd5-4557-b007-670fadd76d76@d868.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -772,12 +772,12 @@ SUMMARY:SPD-Unterbezirksvorstand
 UID:d40a9998-42eb-430f-b26b-73cd64937cbf@d40a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:https://www.landtag.sachsen.de/de/aktuelles/veranstaltungen/tag-der-offenen-tuer-2025-32158.cshtml\nLink: https://www.spd-dresden.de/termine/
-DTEND:20251003T170000Z
-LOCATION:Sächsischer Landtag\, Bernhard-von-Lindenau-Platz 1\, 01067 Dresden\, Deutschland
-DTSTART:20251003T120000Z
-SUMMARY:Tag der Demokratie 2025 im Sächsischen Landtag
-UID:d8688322-4fd5-4557-b007-670fadd76d76@d868.org
+DESCRIPTION:Komm‘ mit Albrecht zu aktuellen politischen Themen ins Gespräch.\n\nLink: https://www.spd-dresden.de/termine/
+DTEND:20250912T150000Z
+LOCATION:Augustusbrücke\, Nähe Neustädter Markt\, 01097 Dresden
+DTSTART:20250912T130000Z
+SUMMARY:Pallas\, Plausch & Politik mit Albrecht Pallas (MdL) und Matthias Ecke (MdEP)
+UID:e6a01596-7194-4646-8749-0d37328eaa98@e6a0.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -939,20 +939,20 @@ UID:41616bc4-5468-4c0f-8f3c-2218b3d3b718@4161.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20250916T210000Z
-LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
-DTSTART:20250916T183000Z
-SUMMARY:Juso-Dienstag
-UID:4336ad58-ecc7-4f3b-b475-a27c396d5ccb@4336.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20251109T113000Z
 LOCATION:Tolstoistraße 9\nDresden\, Deutschland
 DTSTART:20251109T110000Z
 SUMMARY:Stolperstein putzen - Gedenken für Dr. Hans Mayer
 UID:f328b036-9ba4-456d-821d-5d2288e5f418@f328.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20250916T210000Z
+LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
+DTSTART:20250916T183000Z
+SUMMARY:Juso-Dienstag
+UID:4336ad58-ecc7-4f3b-b475-a27c396d5ccb@4336.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -990,21 +990,21 @@ UID:78f11ded-f114-4643-ac60-ded63830b6c7@78f1.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260717T110000Z
-LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
-DTSTART:20260717T090000Z
-SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
-UID:6847b0e1-5d21-4f9e-8930-68ed8f6ae32d@6847.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Einmal im Monat trifft sich der Vorstand des Ortsvereins mitgliederöffentlich\, um die Arbeit der SPD in der Dresdner Neustadt zu planen.\nLink: https://www.spd-dresden.de/termine/
 DTEND:20250623T203000Z
 LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
 DTSTART:20250623T183000Z
 SUMMARY:OV Neustadt Vorstand
 UID:2937292f-5d33-4bc0-b7a2-6a7728400470@2937.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260717T110000Z
+LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
+DTSTART:20260717T090000Z
+SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
+UID:6847b0e1-5d21-4f9e-8930-68ed8f6ae32d@6847.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -1374,14 +1374,6 @@ UID:ff4353eb-109c-4b25-ba85-046c6b275b44@ff43.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250721T210000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20250721T190000Z
-SUMMARY:OV Elbhang/Hochland: Vorstandssitzung (mitgliederöffentlich)
-UID:7f976b15-f778-48d8-aa79-2d0c8026fc7d@7f97.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20250513T210000Z
 LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
@@ -1389,6 +1381,14 @@ DTSTART:20250513T183000Z
 SUMMARY:Juso-Dienstag
 UID:f5eec068-1c63-4c45-8714-44c6b73787c8@f5ee.org
 URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250721T210000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20250721T190000Z
+SUMMARY:OV Elbhang/Hochland: Vorstandssitzung (mitgliederöffentlich)
+UID:7f976b15-f778-48d8-aa79-2d0c8026fc7d@7f97.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250901T200000Z
@@ -1432,11 +1432,12 @@ UID:781d5b72-2343-4d74-948b-30d803c5b924@781d.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20241121T200000Z
-LOCATION:Mama's Pälzer Stubb\, Leipziger Str. 109\, 01127 Dresden\, Deutschland
-DTSTART:20241121T174500Z
-SUMMARY:OV Pieschen: Mitgliederversammlung mit Rasha Nasr\, MdB
-UID:87b08f0f-9289-4bcf-8270-c4606541c1b7@87b0.org
+DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt trifft sich einmal monatlich zur Mitgliederversammlung\, um über aktuelle Themen zu diskutieren. Zumeist steht jede Sitzung unter einem Schwerpunktthema\, das wir zusammen mit fachkundigen Gästen diskutieren. Interessierte sind gerne gesehen!
+DTEND:20241118T200000Z
+LOCATION:Weltclub Dresden - Ein Projekt von Afropa e.V.\, Königsbrücker Str. 13\, 01099 Dresden\, Deutschland
+DTSTART:20241118T180000Z
+SUMMARY:OV Neustadt Mitgliederversammlung: Rasha Nasr (MdB) & Stephan Schumann zur aktuellen Lage im Bund
+UID:1c2d0510-b674-48af-859c-10318fae7b2f@1c2d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
@@ -1447,12 +1448,11 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung (mitgliederöffentlich)
 UID:5ef1468e-4c93-4801-a0bf-a0da8b9db1ff@5ef1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt trifft sich einmal monatlich zur Mitgliederversammlung\, um über aktuelle Themen zu diskutieren. Zumeist steht jede Sitzung unter einem Schwerpunktthema\, das wir zusammen mit fachkundigen Gästen diskutieren. Interessierte sind gerne gesehen!
-DTEND:20241118T200000Z
-LOCATION:Weltclub Dresden - Ein Projekt von Afropa e.V.\, Königsbrücker Str. 13\, 01099 Dresden\, Deutschland
-DTSTART:20241118T180000Z
-SUMMARY:OV Neustadt Mitgliederversammlung: Rasha Nasr (MdB) & Stephan Schumann zur aktuellen Lage im Bund
-UID:1c2d0510-b674-48af-859c-10318fae7b2f@1c2d.org
+DTEND:20241121T200000Z
+LOCATION:Mama's Pälzer Stubb\, Leipziger Str. 109\, 01127 Dresden\, Deutschland
+DTSTART:20241121T174500Z
+SUMMARY:OV Pieschen: Mitgliederversammlung mit Rasha Nasr\, MdB
+UID:87b08f0f-9289-4bcf-8270-c4606541c1b7@87b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -1490,11 +1490,12 @@ UID:0757e4ae-c97f-47f4-b09a-600833aa9bf4@0757.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250211T170000Z
-DTSTART:20250211T160000Z
-SUMMARY:Infostand - Infostand am S-Bahnhof Reick
-UID:9bb3cbd8-3af9-4611-a62e-5cb9296fa0c3@9bb3.org
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20250604T190000Z
+DTSTART:20250604T170000Z
+SUMMARY:Treffen des AK Kultur
+UID:5c576ad6-4448-4cfe-8432-8f48ed890888@5c57.org
+URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -1506,12 +1507,11 @@ UID:f1c859ee-2880-4d60-a8e7-93bdfcd024ba@f1c8.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20250604T190000Z
-DTSTART:20250604T170000Z
-SUMMARY:Treffen des AK Kultur
-UID:5c576ad6-4448-4cfe-8432-8f48ed890888@5c57.org
-URL:https://www.spd-dresden.de/termine/
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250211T170000Z
+DTSTART:20250211T160000Z
+SUMMARY:Infostand - Infostand am S-Bahnhof Reick
+UID:9bb3cbd8-3af9-4611-a62e-5cb9296fa0c3@9bb3.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250303T210000Z
@@ -1637,6 +1637,14 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:1d5b0d5f-e3ef-46e9-9cd0-f3396fe36172@1d5b.org
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250610T210000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
+DTSTART:20250610T183000Z
+SUMMARY:Juso-Dienstag
+UID:99c69e5e-5115-4273-8cf4-5e945a65f2d9@99c6.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
 DTEND:20260320T110000Z
 LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
@@ -1644,14 +1652,6 @@ DTSTART:20260320T090000Z
 SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
 UID:cf619e75-7664-4afb-a60f-3bf53921fb24@cf61.org
 URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250610T210000Z
-LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
-DTSTART:20250610T183000Z
-SUMMARY:Juso-Dienstag
-UID:99c69e5e-5115-4273-8cf4-5e945a65f2d9@99c6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
@@ -1729,12 +1729,13 @@ UID:c2504a86-79b5-4f21-a149-9e309be63b52@c250.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250203T170000Z
-LOCATION:Niedersedlitzer Platz 6\, 01259 Dresden\, Deutschland
-DTSTART:20250203T160000Z
-SUMMARY:Infostand OV-Prohlis
-UID:1dc58dbe-8011-4bd9-92b8-ef45cf850144@1dc5.org
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20250707T200000Z
+LOCATION:Treffpunkt: Gartenlokal Fortschritt\, Bärnsdorfer Str. 2a\, 01097 Dresden\, Deutschland
+DTSTART:20250707T160000Z
+SUMMARY:Kleingartentour mit Sophie Koch (MdL) durch Forschritt 1 und Rudolphia
+UID:5d7ebfff-2526-42c4-b506-0370977a184f@5d7e.org
+URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
@@ -1745,13 +1746,12 @@ SUMMARY:Juso-Dienstag
 UID:0790c7e7-8684-4ee5-bd40-7f544aab87f4@0790.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20250707T200000Z
-LOCATION:Treffpunkt: Gartenlokal Fortschritt\, Bärnsdorfer Str. 2a\, 01097 Dresden\, Deutschland
-DTSTART:20250707T160000Z
-SUMMARY:Kleingartentour mit Sophie Koch (MdL) durch Forschritt 1 und Rudolphia
-UID:5d7ebfff-2526-42c4-b506-0370977a184f@5d7e.org
-URL:https://www.spd-dresden.de/termine/
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250203T170000Z
+LOCATION:Niedersedlitzer Platz 6\, 01259 Dresden\, Deutschland
+DTSTART:20250203T160000Z
+SUMMARY:Infostand OV-Prohlis
+UID:1dc58dbe-8011-4bd9-92b8-ef45cf850144@1dc5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -1806,14 +1806,6 @@ UID:a6ce98ba-7363-4e28-ba5a-8ebf88f09619@a6ce.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt lädt traditionell mit einem eigenen Programm im Rahmen des Kurzfilmtages ein. In diesem Jahr widmen wir uns Dokumentarfilmen\, die das Thema Gleichstellung behandeln. Im Anschluss wollen wir über das Gesehene ins Gespräch kommen. Der Kurzfilmabend ist zugleich unser Jahresabschluss im Ortsverein. Ihr seid herzlich dazu eingeladen.\nhttps://www.spd-dresden.de/termine/
-DTEND:20241216T200000Z
-LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
-DTSTART:20241216T180000Z
-SUMMARY:OV Neustadt EQUAL-DOK: Dokumentarische Kurzfilme zum Thema Gleichstellung
-UID:3c2cc1c0-8a39-4fab-88e2-98cd86d7aab5@3c2c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Wir laden alle Dresdnerinnen und Dresdner zu einem Gedenken an den 87. Jahrestag der Reichspogromnacht am 09.11.2025 ab 18:00 Uhr am alten Leipziger Bahnhof ein.\nAb 19:00 Uhr findet anschließend in den Räumen der Synagoge der Jüdischen Kultusgemeinde ein dem Anlass gewidmetes Programm statt.\nWir bedanken uns für euer zahlreiches Kommen. Bitte seht von Blumen ab und bringt statt dessen Kerzen mit.\nhttps://www.instagram.com/p/DP0XWRdjRQ0/\nLink: https://www.spd-dresden.de/termine/
 DTEND:20251109T200000Z
 LOCATION:Alter Leipziger Bahnhof\, Eisenbahnstraße 1\, 01097 Dresden
@@ -1821,6 +1813,14 @@ DTSTART:20251109T180000Z
 SUMMARY:Gedenkveranstaltung ALB und Jüdische Kultusgemeinde DD
 UID:55ec259c-9aad-4c2c-8693-aaae6d11c3c7@55ec.org
 URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Der SPD-Ortsverein Dresden-Neustadt lädt traditionell mit einem eigenen Programm im Rahmen des Kurzfilmtages ein. In diesem Jahr widmen wir uns Dokumentarfilmen\, die das Thema Gleichstellung behandeln. Im Anschluss wollen wir über das Gesehene ins Gespräch kommen. Der Kurzfilmabend ist zugleich unser Jahresabschluss im Ortsverein. Ihr seid herzlich dazu eingeladen.\nhttps://www.spd-dresden.de/termine/
+DTEND:20241216T200000Z
+LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
+DTSTART:20241216T180000Z
+SUMMARY:OV Neustadt EQUAL-DOK: Dokumentarische Kurzfilme zum Thema Gleichstellung
+UID:3c2cc1c0-8a39-4fab-88e2-98cd86d7aab5@3c2c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -1865,21 +1865,21 @@ UID:48353a16-3a46-414b-82e5-649e53a6159f@4835.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Wie retten wir die (Um)Welt? Interessierte (auch Nicht-Mitglieder) sind herzlich willkommen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20250612T210000Z
-LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
-DTSTART:20250612T190000Z
-SUMMARY:Treffen des Arbeitskreises Umwelt
-UID:76b7bfd0-15f8-4899-966d-8f5500dde407@76b7.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20250721T210000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
 DTSTART:20250721T190000Z
 SUMMARY:OV Elbhang/Hochland: Vorstandssitzung (mitgliederöffentlich)
 UID:0a8b28f6-ee2b-409a-a36d-3b0e1ca71e81@0a8b.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Wie retten wir die (Um)Welt? Interessierte (auch Nicht-Mitglieder) sind herzlich willkommen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20250612T210000Z
+LOCATION:Süd Pol Dresden\, Nürnberger Str. 4\, 01187 Dresden\, Deutschland
+DTSTART:20250612T190000Z
+SUMMARY:Treffen des Arbeitskreises Umwelt
+UID:76b7bfd0-15f8-4899-966d-8f5500dde407@76b7.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -1910,19 +1910,19 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250505T220000Z
-LOCATION:Herbert-Wehner-Haus\, Devrientstraße 7\, 01067 Dresden
-DTSTART:20250505T190000Z
-SUMMARY:OV ELBHANG/HOCHLAND: JAHRESMITGLIEDERVERSAMMLUNG
-UID:ade10304-88db-4d16-8fa9-c617c12462f7@ade1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
 DTEND:20250708T210000Z
 LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
 DTSTART:20250708T183000Z
 SUMMARY:Juso-Dienstag
 UID:6f91bf2e-3cef-44e7-85bb-a5192d7b0b2b@6f91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250505T220000Z
+LOCATION:Herbert-Wehner-Haus\, Devrientstraße 7\, 01067 Dresden
+DTSTART:20250505T190000Z
+SUMMARY:OV ELBHANG/HOCHLAND: JAHRESMITGLIEDERVERSAMMLUNG
+UID:ade10304-88db-4d16-8fa9-c617c12462f7@ade1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -1969,12 +1969,13 @@ UID:98ffedeb-996c-44f0-8325-47b381aa2942@98ff.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20241218T210000Z
-LOCATION:Mama's Pälzer Stubb\, Leipziger Str. 109\, 01127 Dresden\, Deutschland
-DTSTART:20241218T190000Z
-SUMMARY:OV Pieschen: Weihnachtsfeier
-UID:0a48dab8-8a99-42cb-b27b-e1ae09506802@0a48.org
+DESCRIPTION:Am Tag der Deutschen Einheit feiert der SPD-Ortsverein Leuben zusammen mit Vertreter:innen von Bündnis 90/Die Grünen\, Die Linke und der Zivilgesellschaft ein „Fest der Vielfalt“ für den Stadtteil.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20251003T190000Z
+LOCATION:Platz vor der Himmelfahrtskirche Leuben\, Altleuben 15\, 01257 Dresden
+DTSTART:20251003T140000Z
+SUMMARY:SPD beim Fest der Vielfalt in Leuben
+UID:1513d3c3-686b-4467-988e-a5d3802b05af@1513.org
+URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250421T190000Z
@@ -1984,13 +1985,12 @@ SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:f3da7859-7a12-4218-9566-86c1a3853ec8@f3da.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Am Tag der Deutschen Einheit feiert der SPD-Ortsverein Leuben zusammen mit Vertreter:innen von Bündnis 90/Die Grünen\, Die Linke und der Zivilgesellschaft ein „Fest der Vielfalt“ für den Stadtteil.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20251003T190000Z
-LOCATION:Platz vor der Himmelfahrtskirche Leuben\, Altleuben 15\, 01257 Dresden
-DTSTART:20251003T140000Z
-SUMMARY:SPD beim Fest der Vielfalt in Leuben
-UID:1513d3c3-686b-4467-988e-a5d3802b05af@1513.org
-URL:https://www.spd-dresden.de/termine/
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20241218T210000Z
+LOCATION:Mama's Pälzer Stubb\, Leipziger Str. 109\, 01127 Dresden\, Deutschland
+DTSTART:20241218T190000Z
+SUMMARY:OV Pieschen: Weihnachtsfeier
+UID:0a48dab8-8a99-42cb-b27b-e1ae09506802@0a48.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
@@ -2002,20 +2002,20 @@ UID:cbb74b0c-836e-4dbd-a199-7ef4e2b3a922@cbb7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20251109T113000Z
-LOCATION:Tolstoistraße 9\nDresden\, Deutschland
-DTSTART:20251109T110000Z
-SUMMARY:Stolperstein putzen (Gedenken für Dr. Hans Mayer)
-UID:be894c2e-6109-4404-9963-7eda26dc3f75@be89.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20250819T210000Z
 LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
 DTSTART:20250819T183000Z
 SUMMARY:Juso-Dienstag
 UID:e7de42f6-64e4-415c-9db9-4323caf4f281@e7de.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20251109T113000Z
+LOCATION:Tolstoistraße 9\nDresden\, Deutschland
+DTSTART:20251109T110000Z
+SUMMARY:Stolperstein putzen (Gedenken für Dr. Hans Mayer)
+UID:be894c2e-6109-4404-9963-7eda26dc3f75@be89.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -2037,19 +2037,19 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250212T110000Z
-LOCATION:Wochenmarkt Münchner Platz\, Münchner Pl.\, 01187 Dresden\, Deutschland
-DTSTART:20250212T080000Z
-SUMMARY:Infostand am Wochenmarkt Münchner Platz
-UID:11270e7c-c76d-4dd4-ab94-855eaffbfb82@1127.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
 DTEND:20250204T210000Z
 LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
 DTSTART:20250204T183000Z
 SUMMARY:Juso-Dienstag
 UID:67d3c493-e493-404d-99a8-583bba0a86c4@67d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250212T110000Z
+LOCATION:Wochenmarkt Münchner Platz\, Münchner Pl.\, 01187 Dresden\, Deutschland
+DTSTART:20250212T080000Z
+SUMMARY:Infostand am Wochenmarkt Münchner Platz
+UID:11270e7c-c76d-4dd4-ab94-855eaffbfb82@1127.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Einmal im Monat trifft sich der Vorstand des Ortsvereins mitgliederöffentlich\, um die Arbeit der SPD in der Dresdner Neustadt zu planen.\nLink: https://www.spd-dresden.de/termine/
@@ -2136,14 +2136,6 @@ UID:f5a5403d-153e-4f4c-b96e-f0b43a4c8ff2@f5a5.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Vortrag und Diskussion zum Gebäudeenergiegesetz und zu erneuerbaren Energien mit Holger Mann\, SPD-Bundestagsabgeordneter aus Leipzig\nhttps://www.spd-dresden.de/termine/
-DTEND:20250122T193000Z
-LOCATION:Volkssolidarität Dresden\, Seniorenbegegnungsstätte fidelio\, Papstdorfer Str. 25\, 01277 Dresden\, Deutschland
-DTSTART:20250122T180000Z
-SUMMARY:Wie bleibt Energie bezahlbar? - Vortrag und Diskussion mit MdB Holger Mann
-UID:a44e77dc-9099-4385-a789-132fca849995@a44e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Einmal im Monat trifft sich der Vorstand des Ortsvereins\, um die Arbeit der SPD in der Dresdner Neustadt zu planen. An diesem Montag öffentlich für alle Interessierten.\nLink: https://www.spd-dresden.de/termine/
 DTEND:20251103T203000Z
 LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
@@ -2153,13 +2145,12 @@ UID:7bb85aef-d38f-4df1-a235-f2ffc92e995c@7bb8.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die Mitglieder des SPD-Ortsvereins Dresden-Neustadt treffen sich zum Auftakt aus der Sommerpause zum gemeinsamen Grillen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20250908T210000Z
-LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
-DTSTART:20250908T190000Z
-SUMMARY:SPD-Ortsverein Neustadt: Mitgliedergrillen
-UID:bd6e72ab-1523-4356-8d29-70f403ee57e2@bd6e.org
-URL:https://www.spd-dresden.de/termine/
+DESCRIPTION:Vortrag und Diskussion zum Gebäudeenergiegesetz und zu erneuerbaren Energien mit Holger Mann\, SPD-Bundestagsabgeordneter aus Leipzig\nhttps://www.spd-dresden.de/termine/
+DTEND:20250122T193000Z
+LOCATION:Volkssolidarität Dresden\, Seniorenbegegnungsstätte fidelio\, Papstdorfer Str. 25\, 01277 Dresden\, Deutschland
+DTSTART:20250122T180000Z
+SUMMARY:Wie bleibt Energie bezahlbar? - Vortrag und Diskussion mit MdB Holger Mann
+UID:a44e77dc-9099-4385-a789-132fca849995@a44e.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20250217T200000Z
@@ -2167,6 +2158,15 @@ LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
 DTSTART:20250217T180000Z
 SUMMARY:OV Elbhang/Hochland: Vorstandssitzung
 UID:553e28dd-5209-4fdc-91bf-0ab0b439ee91@553e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Die Mitglieder des SPD-Ortsvereins Dresden-Neustadt treffen sich zum Auftakt aus der Sommerpause zum gemeinsamen Grillen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20250908T210000Z
+LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
+DTSTART:20250908T190000Z
+SUMMARY:SPD-Ortsverein Neustadt: Mitgliedergrillen
+UID:bd6e72ab-1523-4356-8d29-70f403ee57e2@bd6e.org
+URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Einmal im Monat trifft sich der Vorstand des Ortsvereins mitgliederöffentlich\, um die Arbeit der SPD in der Dresdner Neustadt zu planen.
@@ -2333,19 +2333,19 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250107T210000Z
-LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
-DTSTART:20250107T183000Z
-SUMMARY:Juso-Dienstag
-UID:edcb2b94-c52c-42c9-8461-b77f12aa3cf4@edcb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
 DTEND:20260219T110000Z
 LOCATION:Wochenmarkt Münchner Platz\, Münchner Pl.\, 01187 Dresden\, Deutschland
 DTSTART:20260219T080000Z
 SUMMARY:Infostand mit Rasha Nasr am Wochenmarkt Münchner Platz
 UID:f46ae986-64bb-47d6-8a88-fdb8ac5f3c0d@f46a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250107T210000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
+DTSTART:20250107T183000Z
+SUMMARY:Juso-Dienstag
+UID:edcb2b94-c52c-42c9-8461-b77f12aa3cf4@edcb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -2374,14 +2374,6 @@ SUMMARY:OV Striesen strukturierte Wahlauswertung
 UID:0ad2479e-37b2-410f-a202-bdd408c55589@0ad2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250424T190000Z
-LOCATION:Neues Rathaus\, Dr.-Külz-Ring 19\, 01067 Dresden Raum E/001
-DTSTART:20250424T170000Z
-SUMMARY:Treffen des AK Kultur
-UID:23940d37-1102-46d4-ab73-503c07fe7138@2394.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20251115T120000Z
 LOCATION:Zwinglistraße (am Findlingsbrunnen)
@@ -2389,6 +2381,14 @@ DTSTART:20251115T100000Z
 SUMMARY:Infostand des Ortsvereins Striesen mit Stadtrat Peter Lames
 UID:fd336290-87e2-4261-8d66-c7908a0883ef@fd33.org
 URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250424T190000Z
+LOCATION:Neues Rathaus\, Dr.-Külz-Ring 19\, 01067 Dresden Raum E/001
+DTSTART:20250424T170000Z
+SUMMARY:Treffen des AK Kultur
+UID:23940d37-1102-46d4-ab73-503c07fe7138@2394.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -2427,20 +2427,20 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20250707T220000Z
-LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
-DTSTART:20250707T190000Z
-SUMMARY:OV Elbhang/Hochland: Mitgliederversammlung
-UID:5919b23e-0fc5-419a-93e1-dbb40430798a@5919.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20251101T130000Z
 LOCATION:Dresden Weißer Hirsch\, Marktplatz
 DTSTART:20251101T110000Z
 SUMMARY:Info-Stand des Ortsvereins Elbhang/Hochland
 UID:d3356ad4-0dd8-4530-8f50-e06325ff0125@d335.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20250707T220000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20250707T190000Z
+SUMMARY:OV Elbhang/Hochland: Mitgliederversammlung
+UID:5919b23e-0fc5-419a-93e1-dbb40430798a@5919.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -2682,13 +2682,6 @@ UID:1bb66cca-7960-4ee2-b9d2-102f9142e31a@1bb6.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DTEND:20251006T200000Z
-LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
-DTSTART:20251006T170000Z
-SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
-UID:6ff10671-a789-4969-9d24-2ca9a89e4a89@6ff1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20250520T210000Z
 LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
@@ -2696,6 +2689,13 @@ DTSTART:20250520T183000Z
 SUMMARY:Juso-Dienstag
 UID:6efcace5-d13a-4850-bd66-634f5651b26c@6efc.org
 URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DTEND:20251006T200000Z
+LOCATION:Trille\, Alte Feuerwache Loschwitz\, Fidelius-F.-Finke-Straße 4\, 01326 Dresden
+DTSTART:20251006T170000Z
+SUMMARY:OV ELBHANG/HOCHLAND: MITGLIEDERVERSAMMLUNG
+UID:6ff10671-a789-4969-9d24-2ca9a89e4a89@6ff1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Vertreter:innen der Dresdner Zivilgesellschaft und der demokratischen Parteien stellen gemeinsam mit der Stiftung Frauenkirche ein buntes Programm auf die Beine: https://www.frauenkirche-dresden.de/demokratie-erleben .\nLink: https://www.spd-dresden.de/termine/
@@ -2774,20 +2774,20 @@ UID:2c41b90d-4806-40fb-a3ac-fea73b96b982@2c41.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die Vorstandssitzungen unseres Ortsvereins Dresden-Mitte sind offenfür alle Mitglieder und finden in der Regel online in Form vonVideokonferenzen statt. Für die Zugangsdaten wende Dich bitte perMail an vorstand@spd-dresden-mitte.de\nLink: https://www.spd-dresden.de/termine/
-DTEND:20251204T200000Z
-DTSTART:20251204T190000Z
-SUMMARY:SPD Ortsverein Dresden-Mitte Vorstandssitzung
-UID:d3306844-bbc9-44e6-91fc-b0bae84c301f@d330.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Vortrag und Diskussion zum Thema: Digitales beim Arzt – auch für Ältere?\nGäste:\n\nDr. Sebastian Denzin (Hausarzt)\nLissy Nitsche-Neumann (Referentin für Pflege)\nAnne Schawohl (Fallmanagement\, MBA)\nAnna Dill\, Psychotherapeutin\n\nhttps://www.spd-dresden.de/termine/
 DTEND:20250129T143000Z
 LOCATION:ASB-Begegnungszentrum Wiesenhäuser\, Wiesenstraße 17\, 01277 Dresden\, Deutschland
 DTSTART:20250129T130000Z
 SUMMARY:Vortrag und Diskussion: Digitales beim Arzt - auch für Ältere?
 UID:d551b4bf-c163-4f45-b6e1-43d233a578fa@d551.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Die Vorstandssitzungen unseres Ortsvereins Dresden-Mitte sind offenfür alle Mitglieder und finden in der Regel online in Form vonVideokonferenzen statt. Für die Zugangsdaten wende Dich bitte perMail an vorstand@spd-dresden-mitte.de\nLink: https://www.spd-dresden.de/termine/
+DTEND:20251204T200000Z
+DTSTART:20251204T190000Z
+SUMMARY:SPD Ortsverein Dresden-Mitte Vorstandssitzung
+UID:d3306844-bbc9-44e6-91fc-b0bae84c301f@d330.org
+URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
@@ -2909,12 +2909,13 @@ UID:5eac5ddb-8a9f-4064-87e1-011eee308e8a@5eac.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20260308T110000Z
-LOCATION:AWO Seniorenzentrum Prof. Rainer Fetscher\, Jonsdorfer Str. 20\, 01259 Dresden\, Deutschland
-DTSTART:20260308T093000Z
-SUMMARY:Verteilaktion des OV Leuben gemeinsam mit der AWO (AWO Seniorenzentrum Prof. Rainer Fetscher\, Jonsdorfer Str. 20\, 01259 Dresden)
-UID:e76843b2-a482-43e1-a15f-50831bdf15a2@e768.org
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20250624T210000Z
+LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
+DTSTART:20250624T183000Z
+SUMMARY:Juso-Dienstag
+UID:cfb83397-94c4-4e75-96b9-16e12bb5fbbc@cfb8.org
+URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Am 8. März jährt sich zum 92. Mal die erste Bücherverbrennung in Dresden auf dem Wettiner Platz. Diese Aktion zielte darauf ab\, kritisches Denken zu vernichten und war ein Vorbote der späteren\, von den Nationalsozialisten organisierten Bücherverbrennungen in zahlreichen anderen deutschen Städten. Sie markierten den Anfang der systematischen Verfolgung unerwünschter Schriftsteller und Schriftstellerinnen und leiteten die Gleichschaltung des kulturellen\, künstlerischen und wissenschaftlichen Lebens ein. Auf den Scheiterhaufen landeten die Werke von Autorinnen und Autoren\, die aus unterschiedlichen Gründen von den Nationalsozialisten als undeutsch verachtet wurden: aufgrund ihrer politischen Ansichten\, ihrer jüdischen Abstammung oder allein wegen ihrer modernen Literatur. Auch Komponistinnen\, Komponisten sowie Musikerinnen und Musiker waren von dieser Verfolgung betroffen.Die Friedrich-Ebert-Stiftung möchte auch in diesem Jahr an die Dresdner Bücherverbrennung erinnern und lädt Sie herzlich zur Matinee Lasst uns das Erinnern nicht vergessen ein. Wieder wird mit einer Mischung aus Ernst und Satire das Erinnern an den 8. März 1933 zum Anlass genommen\, um einen Blick auf die aktuellen gesellschaftlichen Entwicklungen zu werfen.  \nIm Rahmen des diesjährigen Programms werden fünf Streichinstrumentalist_innen des Kammerensembles Konsonanz vergessene Stücke von Komponist_innen spielen\, die von den Nationalsozialisten ausgegrenzt wurden\, vor ihnen fliehen mussten oder von ihnen ermordet wurden. Darüber hinaus begrüßen wir den Historiker Dr. Hagen Schönrich\, wissenschaftlicher Koordinator des Forschungsprojekts Die TH Dresden im Nationalsozialismus\, die Bundestagsabgeordnete Rasha Nasr und den Landtagsabgeordneten Albrecht Pallas. Weiterhin wird es zwei kurze szenische Auszüge von Peter Försters Marie-Antoinette – Revolutionen sind nicht nett und einen satirisch-kritischen Beitrag von dem freien Autoren Michael Bittner zur Aktualität des Faschismus geben. Die Moderation übernimmt Melanie Haase.\nInfos und Anmeldung: https://www.fes.de/veranstaltungen/veranstaltungsdetail/282070\nhttps://www.spd-dresden.de/termine/
@@ -2924,13 +2925,12 @@ SUMMARY:Matinee der FES: Lasst uns das Erinnern nicht vergessen
 UID:2fb7b67c-5077-4113-a023-dfd57c2ecb7f@2fb7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20250624T210000Z
-LOCATION:Die Genossenschaft\, SPD Abgeordnetenbüro Sophie Koch MdL / SPD Stadträtin Julia Hartl\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
-DTSTART:20250624T183000Z
-SUMMARY:Juso-Dienstag
-UID:cfb83397-94c4-4e75-96b9-16e12bb5fbbc@cfb8.org
-URL:https://www.spd-dresden.de/termine/
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20260308T110000Z
+LOCATION:AWO Seniorenzentrum Prof. Rainer Fetscher\, Jonsdorfer Str. 20\, 01259 Dresden\, Deutschland
+DTSTART:20260308T093000Z
+SUMMARY:Verteilaktion des OV Leuben gemeinsam mit der AWO (AWO Seniorenzentrum Prof. Rainer Fetscher\, Jonsdorfer Str. 20\, 01259 Dresden)
+UID:e76843b2-a482-43e1-a15f-50831bdf15a2@e768.org
 END:VEVENT
 BEGIN:VEVENT
 DTEND:20241118T193000Z
@@ -3134,21 +3134,21 @@ SUMMARY:OV Striesen Wahlkampfstand Kaufland
 UID:cb457215-f485-486e-bb75-50cd3dc0f404@cb45.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20251205T120000Z
-LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
-DTSTART:20251205T100000Z
-SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
-UID:63778741-c9e6-4309-81e5-f277204b4db6@6377.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20250512T223000Z
 LOCATION:Lindenschänke\, Rockauer Ring 19\, 01328 Dresden
 DTSTART:20250512T193000Z
 SUMMARY:OV ELBHANG/HOCHLAND: Mitgliederversammlung mit Christopher Jakoby
 UID:38df898c-2415-4e27-9cef-34ab789b3ffc@38df.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20251205T120000Z
+LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
+DTSTART:20251205T100000Z
+SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
+UID:63778741-c9e6-4309-81e5-f277204b4db6@6377.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -3213,14 +3213,6 @@ UID:5bdb721d-f457-4079-b1b0-fa8c1130d25c@5bdb.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
-DTEND:20250311T210000Z
-LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
-DTSTART:20250311T183000Z
-SUMMARY:Juso-Dienstag
-UID:4c8ab1b6-7940-45ee-bb0d-1cb1aa728ec7@4c8a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20251201T220000Z
 LOCATION:Trompeter\nBautzner Landstraße 83\, 01324 Dresden\, Deutschland
@@ -3228,6 +3220,14 @@ DTSTART:20251201T190000Z
 SUMMARY:OV Elbhang/Hochland: Weihnachtsfeier
 UID:1b3a2ac9-2f24-48a5-9347-2e8a538a1e2d@1b3a.org
 URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\nhttps://www.spd-dresden.de/termine/
+DTEND:20250311T210000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sabine Friedel MdL / Vincent Drews\, Kamenzer Str. 12\, 01099 Dresden\, Germany
+DTSTART:20250311T183000Z
+SUMMARY:Juso-Dienstag
+UID:4c8ab1b6-7940-45ee-bb0d-1cb1aa728ec7@4c8a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
