@@ -2,11 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\n\nDonnerstag\n24.04.2025\nOnline  Webex\n\n\n\n\nSPD On: Erkenntnisse aus dem Social Media Wahlkampf 2025\n\n24.04.2025 18:00 - 19:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nMarion Vogel\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DESCRIPTION:Donnerstag\n04.12.2025\nOnline  Webex\nSPD On: URHEBERRECHT & GEMA – KOMPAKTES WISSEN FÜR DEINE PARTEIARBEIT\n04.12.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
-DTSTART:20250424T180000Z
-SUMMARY:SPD On: Erkenntnisse aus dem Social Media Wahlkampf 2025
-UID:b03d84b6-4e3d-4d8f-998c-b6c2d082161b@b03d.org
+DTSTART:20251204T180000Z
+SUMMARY:SPD On: URHEBERRECHT & GEMA – KOMPAKTES WISSEN FÜR DEINE PARTEIARBEIT
+UID:7af24e95-3802-4379-8f6c-e3caa5edd512@7af2.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -18,11 +18,11 @@ UID:a016519d-048d-43c5-8d13-d9735c3c786f@a016.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Donnerstag\n04.12.2025\nOnline  Webex\nSPD On: URHEBERRECHT & GEMA – KOMPAKTES WISSEN FÜR DEINE PARTEIARBEIT\n04.12.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DESCRIPTION:\n\nDonnerstag\n24.04.2025\nOnline  Webex\n\n\n\n\nSPD On: Erkenntnisse aus dem Social Media Wahlkampf 2025\n\n24.04.2025 18:00 - 19:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nMarion Vogel\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
-DTSTART:20251204T180000Z
-SUMMARY:SPD On: URHEBERRECHT & GEMA – KOMPAKTES WISSEN FÜR DEINE PARTEIARBEIT
-UID:7af24e95-3802-4379-8f6c-e3caa5edd512@7af2.org
+DTSTART:20250424T180000Z
+SUMMARY:SPD On: Erkenntnisse aus dem Social Media Wahlkampf 2025
+UID:b03d84b6-4e3d-4d8f-998c-b6c2d082161b@b03d.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -58,11 +58,11 @@ UID:1e20bf24-8453-4750-99bb-2f0b3ebe725e@1e20.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Donnerstag\n04.12.2025\nOnline  Webex\nSPD On: Urheberrecht & GEMA – Kompaktes Wissen für deine Parteiarbeit\n04.12.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H12M
-DTSTART:20251204T180000Z
-SUMMARY:SPD On: Urheberrecht & GEMA – Kompaktes Wissen für deine Parteiarbeit
-UID:c932e428-53b6-404a-b813-ddaf644e07a6@c932.org
+DESCRIPTION:Dienstag\n02.12.2025\nOnline  Webex\nSPD On: Gute Parteivorsitzende: Mitgliederperspektiven auf wünschenswerte Persönlichkeiten an der Spitze. Ergebnisse einer Doktorarbeit der Uni Trier\n02.12.2025 19:00 - 20:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H11M
+DTSTART:20251202T190000Z
+SUMMARY:SPD On: Gute Parteivorsitzende: Mitgliederperspektiven auf wünschenswerte Persönlichkeiten an der Spitze. Ergebnisse einer Doktorarbeit der Uni Trier
+UID:08678b45-33a7-4237-bf65-305f21ea5db2@0867.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -74,19 +74,19 @@ UID:861724ae-67d5-4081-9af2-7930dc032810@8617.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstag\n02.12.2025\nOnline  Webex\nSPD On: Gute Parteivorsitzende: Mitgliederperspektiven auf wünschenswerte Persönlichkeiten an der Spitze. Ergebnisse einer Doktorarbeit der Uni Trier\n02.12.2025 19:00 - 20:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H11M
-DTSTART:20251202T190000Z
-SUMMARY:SPD On: Gute Parteivorsitzende: Mitgliederperspektiven auf wünschenswerte Persönlichkeiten an der Spitze. Ergebnisse einer Doktorarbeit der Uni Trier
-UID:08678b45-33a7-4237-bf65-305f21ea5db2@0867.org
+DESCRIPTION:Donnerstag\n04.12.2025\nOnline  Webex\nSPD On: Urheberrecht & GEMA – Kompaktes Wissen für deine Parteiarbeit\n04.12.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H12M
+DTSTART:20251204T180000Z
+SUMMARY:SPD On: Urheberrecht & GEMA – Kompaktes Wissen für deine Parteiarbeit
+UID:c932e428-53b6-404a-b813-ddaf644e07a6@c932.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n\nMontag\n28.04.2025\nOnline  Webex\n\n\n\n\nSPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation\n\n28.04.2025 19:00 - 20:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H11M
-DTSTART:20250428T190000Z
-SUMMARY:SPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation
-UID:f24ae80b-a87f-400c-bc79-1114d46ec3fa@f24a.org
+DESCRIPTION:Donnerstag\n13.11.2025\nSPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen\n13.11.2025 18:30 - 20:00\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H42M
+DTSTART:20251113T183000Z
+SUMMARY:SPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen 
+UID:b3ba8768-60d2-481f-ae1d-2dccd14706cd@b3ba.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -130,11 +130,11 @@ UID:e7316c52-a48d-408b-a086-88de61b2baab@e731.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Donnerstag\n13.11.2025\nSPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen\n13.11.2025 18:30 - 20:00\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H42M
-DTSTART:20251113T183000Z
-SUMMARY:SPD On: Die Macht unserer Sprache. Teil 3 / 3 – Wirksam argumentieren. Positiv parteilich sprechen 
-UID:b3ba8768-60d2-481f-ae1d-2dccd14706cd@b3ba.org
+DESCRIPTION:\n\nMontag\n28.04.2025\nOnline  Webex\n\n\n\n\nSPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation\n\n28.04.2025 19:00 - 20:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H11M
+DTSTART:20250428T190000Z
+SUMMARY:SPD On: SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 1 von 3: Grundlagen des digitalen Geschichtenerzählens in der politischen Kommunikation
+UID:f24ae80b-a87f-400c-bc79-1114d46ec3fa@f24a.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -154,14 +154,6 @@ UID:c47a635c-de80-409d-8b56-a39b74d5eefd@c47a.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n\nDienstag\n06.05.2025\nOnline  Webex\n\n\n\n\nSPD On: Basics der Politischen Kommunikation: Schwerpunkt Pressearbeit\n\n06.05.2025 19:30 - 21:00\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H41M
-DTSTART:20250506T193000Z
-SUMMARY:SPD On: Basics der Politischen Kommunikation: Schwerpunkt Pressearbeit
-UID:90ae4571-4b45-4f91-a12c-f5b6056a9930@90ae.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Dienstag\n13.01.2026\nOnline  Webex\nSPD On - am Abend ☽: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.\n13.01.2026 18:30 - 20:00\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H42M
 DTSTART:20260113T183000Z
@@ -170,11 +162,11 @@ UID:8341d2f2-1173-4342-b7ee-d059999dba9c@8341.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mittwoch\n21.01.2026\nSPD On - am Abend: Hintergrund- und Zusatzwissen für die politische Arbeit zu KI und Social Media\n21.01.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H12M
-DTSTART:20260121T180000Z
-SUMMARY:SPD On - am Abend: Hintergrund- und Zusatzwissen für die politische Arbeit zu KI und Social Media
-UID:2c10cbdd-7e04-4583-9425-04b73141e602@2c10.org
+DESCRIPTION:\n\nDienstag\n06.05.2025\nOnline  Webex\n\n\n\n\nSPD On: Basics der Politischen Kommunikation: Schwerpunkt Pressearbeit\n\n06.05.2025 19:30 - 21:00\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H41M
+DTSTART:20250506T193000Z
+SUMMARY:SPD On: Basics der Politischen Kommunikation: Schwerpunkt Pressearbeit
+UID:90ae4571-4b45-4f91-a12c-f5b6056a9930@90ae.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -194,11 +186,11 @@ UID:d96328dd-6b9a-445d-8aa4-acc8f6bea423@d963.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Donnerstag\n08.01.2026\nOnline  Webex\nSPD On – am Tag ☀️: Politische Online-Werbung nach TTPA: Was jetzt zu beachten ist\n08.01.2026 10:00 - 11:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H20M
-DTSTART:20260108T100000Z
-SUMMARY:SPD On – am Tag ☀️: Politische Online-Werbung nach TTPA: Was jetzt zu beachten ist 
-UID:04374e45-5dac-4de7-9ed7-08c48835cc48@0437.org
+DESCRIPTION:Mittwoch\n06.05.2026\nOnline  Webex\nSPD On - am Abend: Effektiver\, schneller\, wirksamer: so organisierst Du Dir Deine Ratsarbeit digital\n06.05.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H12M
+DTSTART:20260506T180000Z
+SUMMARY:SPD On - am Abend: Effektiver\, schneller\, wirksamer: so organisierst Du Dir Deine Ratsarbeit digital 
+UID:a337ea51-e7f8-4166-b343-f4a7725f9f9b@a337.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -210,14 +202,6 @@ UID:302d16b5-5765-45eb-9b11-2394152359e0@302d.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n\nDonnerstag\n15.05.2025\nOnline  Webex\n\n\n\n\nSPD On: Wie ChatGPT Zeit und Ressourcen in der politischen Arbeit spart\n\n15.05.2025 18:00 - 19:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H12M
-DTSTART:20250515T180000Z
-SUMMARY:SPD On: Wie ChatGPT Zeit und Ressourcen in der politischen Arbeit spart
-UID:e8b48385-359a-45e0-abe3-dfe02c9ea6ad@e8b4.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Dienstag\n14.04.2026\nOnline  Webex\nSPD On - am Abend: Wahlkampf 5.0 – Neue Arbeitsweisen und moderne politische Kommunikation.\n14.04.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
 DTSTART:20260414T180000Z
@@ -226,11 +210,19 @@ UID:a06e588e-9f10-4e55-a9c6-1d36beff1a74@a06e.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Freitag\n30.01.2026\nOnline  Webex\nSPD On history – am Abend: Widerstand und Verfolgung als Teil der Erinnerungskultur.\n30.01.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DESCRIPTION:\n\nDonnerstag\n15.05.2025\nOnline  Webex\n\n\n\n\nSPD On: Wie ChatGPT Zeit und Ressourcen in der politischen Arbeit spart\n\n15.05.2025 18:00 - 19:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
-DTSTART:20260130T180000Z
-SUMMARY:SPD On history – am Abend: Widerstand und Verfolgung als Teil der Erinnerungskultur.
-UID:b197870a-565d-4529-8865-48202f0a6229@b197.org
+DTSTART:20250515T180000Z
+SUMMARY:SPD On: Wie ChatGPT Zeit und Ressourcen in der politischen Arbeit spart
+UID:e8b48385-359a-45e0-abe3-dfe02c9ea6ad@e8b4.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Donnerstag\n08.01.2026\nOnline  Webex\nSPD On – am Tag ☀️: Politische Online-Werbung nach TTPA: Was jetzt zu beachten ist\n08.01.2026 10:00 - 11:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H20M
+DTSTART:20260108T100000Z
+SUMMARY:SPD On – am Tag ☀️: Politische Online-Werbung nach TTPA: Was jetzt zu beachten ist 
+UID:04374e45-5dac-4de7-9ed7-08c48835cc48@0437.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -239,6 +231,14 @@ DURATION:PT1H12M
 DTSTART:20250529T180000Z
 SUMMARY:SPD On: Knipst du noch oder fotografierst du schon? Tipps für gute Social Media-Fotos
 UID:6422916e-ad41-4b9e-b5fd-34dd6f47ba86@6422.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Freitag\n30.01.2026\nOnline  Webex\nSPD On history – am Abend: Widerstand und Verfolgung als Teil der Erinnerungskultur.\n30.01.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H12M
+DTSTART:20260130T180000Z
+SUMMARY:SPD On history – am Abend: Widerstand und Verfolgung als Teil der Erinnerungskultur.
+UID:b197870a-565d-4529-8865-48202f0a6229@b197.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -266,19 +266,19 @@ UID:6fe8be10-3b28-4453-8330-0d2ecdac6968@6fe8.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Dienstag\n03.02.2026\nOnline  Webex\nSPD On - am Abend: Politische und organisatorische Führung im Ortsverein: Im Team arbeiten und Projekte verwirklichen\n03.02.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H12M
-DTSTART:20260203T180000Z
-SUMMARY:SPD On - am Abend: Politische und organisatorische Führung im Ortsverein: Im Team arbeiten und Projekte verwirklichen
-UID:2a2ce00d-ff53-4304-8def-8d5a36bdc1fe@2a2c.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Montag\n08.12.2025\nSPD On: Mehr SPD auf der Straße – Gemeinsam sichtbar werden. Aktionen und Dialog in der Öffentlichkeit\, Teil 2\n08.12.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
 DTSTART:20251208T180000Z
 SUMMARY:SPD On: Mehr SPD auf der Straße – Gemeinsam sichtbar werden. Aktionen und Dialog in der Öffentlichkeit\, Teil 2
 UID:f2ba1f4e-ecb6-4f19-8bcc-817055fe0c70@f2ba.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Dienstag\n03.02.2026\nOnline  Webex\nSPD On - am Abend: Politische und organisatorische Führung im Ortsverein: Im Team arbeiten und Projekte verwirklichen\n03.02.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H12M
+DTSTART:20260203T180000Z
+SUMMARY:SPD On - am Abend: Politische und organisatorische Führung im Ortsverein: Im Team arbeiten und Projekte verwirklichen
+UID:2a2ce00d-ff53-4304-8def-8d5a36bdc1fe@2a2c.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -295,6 +295,14 @@ DURATION:PT1H20M
 DTSTART:20260226T100000Z
 SUMMARY:SPD On – am Tag ☀️: Künstliche Intelligenz clever nutzen - digitale Unterstützung für den politischen Alltag
 UID:0e3a2bb3-25dc-4c08-98b9-9da10f1108c6@0e3a.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Freitag\n12.06.2026\nOnline  Webex\nSPD On – am Tag ☀️: Effektive Besprechungen\n12.06.2026 10:00 - 11:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H20M
+DTSTART:20260612T100000Z
+SUMMARY:SPD On – am Tag ☀️: Effektive Besprechungen
+UID:0d6e3e49-d9e8-402a-978c-7e86ed1aa6ba@0d6e.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -322,19 +330,19 @@ UID:85eedfda-024c-4ab2-97f5-26731e61dd30@85ee.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mittwoch\n04.03.2026\nOnline  Webex\nSPD On - am Abend ☽: Reels für Reichweite. Die „knackigen“ ersten Sekunden und KI für´s Storyboard\n04.03.2026 19:00 - 20:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H11M
-DTSTART:20260304T190000Z
-SUMMARY:SPD On - am Abend ☽: Reels für Reichweite. Die „knackigen“ ersten Sekunden und KI für´s Storyboard
-UID:e9f11e78-3b88-45ab-875f-546e242ad3f1@e9f1.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Dienstag\n09.09.2025\nOnline  Webex\nSPD On: Mehr Wirkung auf Social Media - Strategien für politische Sichtbarkeit\n09.09.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
 DTSTART:20250909T180000Z
 SUMMARY:SPD On: Mehr Wirkung auf Social Media - Strategien für politische Sichtbarkeit
 UID:6abad89c-68ee-4597-868c-2e10594432c0@6aba.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mittwoch\n04.03.2026\nOnline  Webex\nSPD On - am Abend ☽: Reels für Reichweite. Die „knackigen“ ersten Sekunden und KI für´s Storyboard\n04.03.2026 19:00 - 20:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H11M
+DTSTART:20260304T190000Z
+SUMMARY:SPD On - am Abend ☽: Reels für Reichweite. Die „knackigen“ ersten Sekunden und KI für´s Storyboard
+UID:e9f11e78-3b88-45ab-875f-546e242ad3f1@e9f1.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -362,19 +370,19 @@ UID:dcba45f3-da0f-455b-8234-96a51277174f@dcba.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Donnerstag\n19.02.2026\nOnline  Webex\nSPD On - am Abend: Wie ChatGPT Zeit und Ressourcen in der politischen Arbeit spart\n19.02.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H12M
-DTSTART:20260219T180000Z
-SUMMARY:SPD On - am Abend: Wie ChatGPT Zeit und Ressourcen in der politischen Arbeit spart
-UID:aff70809-5c1b-4aa0-8d9e-f0cc8aec263c@aff7.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Donnerstag\n06.11.2025\nOnline  Webex\nSPD On: Mehr SPD auf der Straße – Gemeinsam sichtbar werden. Aktionen und Dialog in der Öffentlichkeit\, Teil 1\n06.11.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H12M
 DTSTART:20251106T180000Z
 SUMMARY:SPD On: Mehr SPD auf der Straße – Gemeinsam sichtbar werden. Aktionen und Dialog in der Öffentlichkeit\, Teil 1
 UID:f072a099-21af-4f45-86f8-83c3b1e6dca1@f072.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Donnerstag\n19.02.2026\nOnline  Webex\nSPD On - am Abend: Wie ChatGPT Zeit und Ressourcen in der politischen Arbeit spart\n19.02.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H12M
+DTSTART:20260219T180000Z
+SUMMARY:SPD On - am Abend: Wie ChatGPT Zeit und Ressourcen in der politischen Arbeit spart
+UID:aff70809-5c1b-4aa0-8d9e-f0cc8aec263c@aff7.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -410,19 +418,11 @@ UID:6eb687cf-68bd-4ece-91e1-dd4d7f409e7d@6eb6.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Montag\n13.10.2025\nOnline  Webex\nSPD On: Mitglieder werben und willkommen heißen\n13.10.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H12M
-DTSTART:20251013T180000Z
-SUMMARY:SPD On: Mitglieder werben und willkommen heißen
-UID:ea8c8511-ccb8-470c-ace8-9edb137bcf92@ea8c.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Montag\n09.06.2025\nOnline  Webex\nSPD On: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.\n09.06.2025 18:30 - 20:00\nKlaus Tovar\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H42M
-DTSTART:20250609T183000Z
-SUMMARY:SPD On: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.
-UID:db71de9a-a97f-4ea6-a021-403eba05cb30@db71.org
+DESCRIPTION:\n\nDienstag\n03.06.2025\nOnline  Webex\n\n\n\n\nSPD On history: Johannes Rau. Der Besondere\n\n03.06.2025 14:00 - 20:00\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT5H46M
+DTSTART:20250603T140000Z
+SUMMARY:SPD On history: Johannes Rau. Der Besondere
+UID:96afb3e0-65b9-4148-a6f7-8e68c37d916f@96af.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -434,11 +434,19 @@ UID:a1bb9090-9a1c-469e-be7c-8b2823e88aeb@a1bb.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n\nDienstag\n03.06.2025\nOnline  Webex\n\n\n\n\nSPD On history: Johannes Rau. Der Besondere\n\n03.06.2025 14:00 - 20:00\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT5H46M
-DTSTART:20250603T140000Z
-SUMMARY:SPD On history: Johannes Rau. Der Besondere
-UID:96afb3e0-65b9-4148-a6f7-8e68c37d916f@96af.org
+DESCRIPTION:Montag\n09.06.2025\nOnline  Webex\nSPD On: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.\n09.06.2025 18:30 - 20:00\nKlaus Tovar\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H42M
+DTSTART:20250609T183000Z
+SUMMARY:SPD On: CANVA – Gute Share-Pics\, wenig Aufwand? Mit dieser App geht’s.
+UID:db71de9a-a97f-4ea6-a021-403eba05cb30@db71.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Montag\n13.10.2025\nOnline  Webex\nSPD On: Mitglieder werben und willkommen heißen\n13.10.2025 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H12M
+DTSTART:20251013T180000Z
+SUMMARY:SPD On: Mitglieder werben und willkommen heißen
+UID:ea8c8511-ccb8-470c-ace8-9edb137bcf92@ea8c.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -450,19 +458,19 @@ UID:3c624c8c-3c1c-4845-a736-3516ae6ce964@3c62.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n\nDonnerstag\n08.05.2025\nOnline  Webex\n\n\n\n\nSPD On: Politische Urteilskraft in herausfordernden Zeiten. Mit Prof. Dr. Julian Nida-Rümelin\n\n08.05.2025 18:00 - 19:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H12M
-DTSTART:20250508T180000Z
-SUMMARY:SPD On: Politische Urteilskraft in herausfordernden Zeiten. Mit Prof. Dr. Julian Nida-Rümelin
-UID:d1ed1ec6-8dbf-40ca-ae2e-e18fb9e769aa@d1ed.org
-URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\n\nDienstag\n10.06.2025\nOnline  Webex\n\n\n\n\nSPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 3 von 3: Geschichten cross-medial entwickeln.\n\n10.06.2025 19:00 - 20:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 DURATION:PT1H11M
 DTSTART:20250610T190000Z
 SUMMARY:SPD OnSerie Storytelling: Mikro-Geschichten für Soziale Medien erzählen und umsetzen. Teil 3 von 3: Geschichten cross-medial entwickeln.
 UID:5e0f5288-b2fc-4338-bc9f-ff59796a3ddc@5e0f.org
+URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n\nDonnerstag\n08.05.2025\nOnline  Webex\n\n\n\n\nSPD On: Politische Urteilskraft in herausfordernden Zeiten. Mit Prof. Dr. Julian Nida-Rümelin\n\n08.05.2025 18:00 - 19:30\n\n\n            \n                SPD OnSeminare                         Ansprechpartner:\n            \nKlaus Tovar\n\n\n\n                mehr \n\n\n\n\n\n\n\n                Zur Anmeldung\n            \n\n\nhttps://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H12M
+DTSTART:20250508T180000Z
+SUMMARY:SPD On: Politische Urteilskraft in herausfordernden Zeiten. Mit Prof. Dr. Julian Nida-Rümelin
+UID:d1ed1ec6-8dbf-40ca-ae2e-e18fb9e769aa@d1ed.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
@@ -490,11 +498,11 @@ UID:94e7c0c4-aec5-4cd5-8e80-0a3f7a1d191d@94e7.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Freitag\n12.06.2026\nOnline  Webex\nSPD On – am Tag ☀️: Effektive Besprechungen\n12.06.2026 10:00 - 11:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
-DURATION:PT1H20M
-DTSTART:20260612T100000Z
-SUMMARY:SPD On – am Tag ☀️: Effektive Besprechungen
-UID:0d6e3e49-d9e8-402a-978c-7e86ed1aa6ba@0d6e.org
+DESCRIPTION:Mittwoch\n21.01.2026\nSPD On - am Abend: Hintergrund- und Zusatzwissen für die politische Arbeit zu KI und Social Media\n21.01.2026 18:00 - 19:30\nKlaus Tovar\nLink: https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
+DURATION:PT1H12M
+DTSTART:20260121T180000Z
+SUMMARY:SPD On - am Abend: Hintergrund- und Zusatzwissen für die politische Arbeit zu KI und Social Media
+UID:2c10cbdd-7e04-4583-9425-04b73141e602@2c10.org
 URL:https://parteischule.spd.de/?modul=businessstartseite&Id=149424#Tab-Kategorien
 END:VEVENT
 END:VCALENDAR
