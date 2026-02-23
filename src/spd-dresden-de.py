@@ -60,19 +60,27 @@ def generate_events(url, region=REGION, languages=[REGION.lower()]):
                                 end=end.isoformat(),
                                 url=url)
 
+def identifier_string(event):
+    return "\t".join([str(event.name), str(event.url)])
+
+
 
 if __name__ == "__main__":
+    now = datetime.datetime.now(datetime.timezone.utc)
     contained = set([])
     calendar = Calendar()
+
     if os.path.exists(OUTFILE):
         with open(OUTFILE, 'r') as f:
             calendar = Calendar("".join(f.readlines()))
+            calendar.events = set([e for e in calendar.events if e.end >= now])
             for event in calendar.events:
-                contained.add("\t".join([str(event.name), str(event.url)]))
+                contained.add(identifier_string(event))
 
     for event in generate_events(URL):
-        if "\t".join([str(event.name), str(event.url)]) not in contained:
-            calendar.events.add(event)
+        if identifier_string(event) in contained:
+            continue
+        calendar.events.add(event)
 
     with open(OUTFILE, 'w') as f:
         f.writelines(calendar.serialize_iter())
