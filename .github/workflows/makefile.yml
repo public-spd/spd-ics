@@ -26,7 +26,10 @@ jobs:
           ${{ runner.os }}-
 
     - name: Install dependencies
-      run: pip install -r requirements.txt
+      # fix tatsu missing generic_main, then install requirements
+      run: |
+        pip install "tatsu<5.9.0" 
+        pip install -r requirements.txt
       
     - name: Update ics
       run: make ics/*
