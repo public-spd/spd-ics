@@ -39,12 +39,12 @@ UID:843edcc8-6607-4c90-be21-d657e85087f3@843e.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jeden Dienstag bieten wir den Co-Working-Space an\, in dem alle die Geno nutzen können\, um individuell oder gemeinsam zu arbeiten und sich zu vernetzen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260421T183000Z
-LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sophie Koch\, MdL\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
-DTSTART:20260421T163000Z
-SUMMARY:Co-Working und Chillen
-UID:094a761e-3385-42c1-bfca-649ef54f0026@094a.org
+DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260522T110000Z
+LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
+DTSTART:20260522T090000Z
+SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
+UID:f1e8ae51-21b9-49dd-b971-37daf0e5869e@f1e8.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -57,12 +57,12 @@ UID:23aef945-40a9-4346-b713-21e545daf8b2@23ae.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260522T110000Z
-LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
-DTSTART:20260522T090000Z
-SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
-UID:f1e8ae51-21b9-49dd-b971-37daf0e5869e@f1e8.org
+DESCRIPTION:Jeden Dienstag bieten wir den Co-Working-Space an\, in dem alle die Geno nutzen können\, um individuell oder gemeinsam zu arbeiten und sich zu vernetzen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260421T183000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sophie Koch\, MdL\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
+DTSTART:20260421T163000Z
+SUMMARY:Co-Working und Chillen
+UID:094a761e-3385-42c1-bfca-649ef54f0026@094a.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -85,15 +85,6 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Jeden Dienstag bieten wir den Co-Working-Space an\, in dem alle die Geno nutzen können\, um individuell oder gemeinsam zu arbeiten und sich zu vernetzen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260331T183000Z
-LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sophie Koch\, MdL\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
-DTSTART:20260331T163000Z
-SUMMARY:Jusos: Co-Working und Chillen
-UID:f7793573-32e4-42c7-b21c-75526fef4ada@f779.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Jeden Dienstag bieten wir den Co-Working-Space an\, in dem alle die Geno nutzen können\, um individuell oder gemeinsam zu arbeiten und sich zu vernetzen.\nLink: https://www.spd-dresden.de/termine/
 DTEND:20260407T183000Z
 LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sophie Koch\, MdL\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
 DTSTART:20260407T163000Z
@@ -103,11 +94,11 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Jeden Dienstag bieten wir den Co-Working-Space an\, in dem alle die Geno nutzen können\, um individuell oder gemeinsam zu arbeiten und sich zu vernetzen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260421T183000Z
+DTEND:20260331T183000Z
 LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sophie Koch\, MdL\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
-DTSTART:20260421T163000Z
+DTSTART:20260331T163000Z
 SUMMARY:Jusos: Co-Working und Chillen
-UID:f9273592-1e1d-497f-83ca-20597e07792e@f927.org
+UID:f7793573-32e4-42c7-b21c-75526fef4ada@f779.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -117,6 +108,15 @@ LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
 DTSTART:20260227T090000Z
 SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
 UID:d4a36a64-aa26-4475-ac47-431ac89afb02@d4a3.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Jeden Dienstag bieten wir den Co-Working-Space an\, in dem alle die Geno nutzen können\, um individuell oder gemeinsam zu arbeiten und sich zu vernetzen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260421T183000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sophie Koch\, MdL\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
+DTSTART:20260421T163000Z
+SUMMARY:Jusos: Co-Working und Chillen
+UID:f9273592-1e1d-497f-83ca-20597e07792e@f927.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -210,21 +210,21 @@ UID:bf8ba25e-a2d0-4a6f-990a-9c88e414f85b@bf8b.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20260720T203000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20260720T190000Z
-SUMMARY:SPD OV Elbhang/Hochland
-UID:1c371d03-84c4-41ea-aca2-b4f90725b75b@1c37.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Der Unterbezirksvorstand ist zwischen den Parteitagen das politische Leitgremium der Dresdner SPD. Er trifft sich mindestens monatlich zu Sitzungen\, die für Dresdner SPD-Mitglieder stets öffentlich sind.\nLink: https://www.spd-dresden.de/termine/
 DTEND:20260311T210000Z
 LOCATION:Herbert-Wehner-Haus\, Devrientstraße 7\, 01067 Dresden\, Deutschland
 DTSTART:20260311T183000Z
 SUMMARY:Sitzung des Stadtvorstands der SPD Dresden
 UID:863b44de-a27c-4e52-9a91-2d0063b10d93@863b.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20260720T203000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20260720T190000Z
+SUMMARY:SPD OV Elbhang/Hochland
+UID:1c371d03-84c4-41ea-aca2-b4f90725b75b@1c37.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -345,21 +345,21 @@ UID:53c942a1-a8a8-46b6-a206-ddd193bf63f7@53c9.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260717T110000Z
-LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
-DTSTART:20260717T090000Z
-SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
-UID:6847b0e1-5d21-4f9e-8930-68ed8f6ae32d@6847.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Wir arbeiten an verschiedenen Projekten oder beginnen Neue.\nLink: https://www.spd-dresden.de/termine/
 DTEND:20260310T203000Z
 LOCATION:Genoss*innenschaft (Kamenzer Straße 12\, 01099 Dresden)\, Wahlkreisbüro Sophie Koch (MdL)\, Matthias Ecke (MdEP)\, Julia Hartl (SR)
 DTSTART:20260310T183000Z
 SUMMARY:Jusos: Projektedienstag
 UID:64416c4c-6276-4b8d-877f-85e55d9694a1@6441.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260717T110000Z
+LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
+DTSTART:20260717T090000Z
+SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
+UID:6847b0e1-5d21-4f9e-8930-68ed8f6ae32d@6847.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -390,12 +390,21 @@ UID:5a8cb380-8c63-4840-99c8-b26fdf58cf93@5a8c.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Jeden Dienstag bieten wir den Co-Working-Space an\, in dem alle die Geno nutzen können\, um individuell oder gemeinsam zu arbeiten und sich zu vernetzen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260331T183000Z
-LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sophie Koch\, MdL\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
-DTSTART:20260331T163000Z
-SUMMARY:Co-Working und Chillen
-UID:8ef092d6-b250-4ec6-ab9f-61cc412040cf@8ef0.org
+DESCRIPTION:Link: https://www.spd-dresden.de/termine/
+DTEND:20260817T203000Z
+LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
+DTSTART:20260817T190000Z
+SUMMARY:SPD OV Elbhang/Hochland
+UID:aac0103d-c557-4887-9e08-364384b0a4c8@aac0.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Wir arbeiten an verschiedenen Projekten oder beginnen Neue.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260414T203000Z
+LOCATION:Genoss*innenschaft (Kamenzer Straße 12\, 01099 Dresden)\, Wahlkreisbüro Sophie Koch (MdL)\, Matthias Ecke (MdEP)\, Julia Hartl (SR)
+DTSTART:20260414T183000Z
+SUMMARY:Projektedienstag
+UID:7714721d-245d-4ef6-96e9-9a79200fa5d3@7714.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
@@ -409,15 +418,6 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20260817T203000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20260817T190000Z
-SUMMARY:SPD OV Elbhang/Hochland
-UID:aac0103d-c557-4887-9e08-364384b0a4c8@aac0.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20260518T203000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
 DTSTART:20260518T190000Z
@@ -426,12 +426,12 @@ UID:5eac5ddb-8a9f-4064-87e1-011eee308e8a@5eac.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Wir arbeiten an verschiedenen Projekten oder beginnen Neue.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260414T203000Z
-LOCATION:Genoss*innenschaft (Kamenzer Straße 12\, 01099 Dresden)\, Wahlkreisbüro Sophie Koch (MdL)\, Matthias Ecke (MdEP)\, Julia Hartl (SR)
-DTSTART:20260414T183000Z
-SUMMARY:Projektedienstag
-UID:7714721d-245d-4ef6-96e9-9a79200fa5d3@7714.org
+DESCRIPTION:Jeden Dienstag bieten wir den Co-Working-Space an\, in dem alle die Geno nutzen können\, um individuell oder gemeinsam zu arbeiten und sich zu vernetzen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20260331T183000Z
+LOCATION:Die Genoss*innenschaft\, Abgeordnetenbüro Sophie Koch\, MdL\, Kamenzer Str. 12\, 01099 Dresden\, Deutschland
+DTSTART:20260331T163000Z
+SUMMARY:Co-Working und Chillen
+UID:8ef092d6-b250-4ec6-ab9f-61cc412040cf@8ef0.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
