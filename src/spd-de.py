@@ -37,7 +37,7 @@ def parse_time(time, region=REGION, languages=[REGION.lower()]):
         if ':' in time:
             hour_minute = time.split(':')
             return datetime.time(hour=int(hour_minute[0].replace("ab ", "")),
-                                 minute=int(hour_minute[1]))
+                                 minute=int(hour_minute[1].split("-")[0]))
         return datetime.time(hour=int(time), tzinfo=tzinfo)
     try:
         return dateparser.parse(time, languages=languages, region=region, settings=SETTINGS).time()
