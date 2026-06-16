@@ -48,15 +48,6 @@ UID:23aef945-40a9-4346-b713-21e545daf8b2@23ae.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20260615T203000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20260615T190000Z
-SUMMARY:SPD OV Elbhang/Hochland
-UID:9e46f402-8fe6-456a-8093-7187539aa373@9e46.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
 DTEND:20260619T110000Z
 LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
