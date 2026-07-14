@@ -2,13 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Mit: Daniel Bettermann\, Sören Bartol\nhttps://spdfraktion.de/termine/2025-12-10-wir-zuenden-bau-turbo
-DTEND:20251210T200000Z
-LOCATION:  Vor-Ort | Neue Denkerei\, Friedrichsstraße 28\, Kassel 34117
-DTSTART:20251210T180000Z
+DESCRIPTION:Mit: Sören Bartol\, Dr. Philipp Rottwilm\nhttps://spdfraktion.de/termine/2025-10-31-wir-zuenden-bau-turbo
+DTEND:20251031T200000Z
+LOCATION:  Vor-Ort | Stadthalle Stadtallendorf\, Bahnhofstraße 2\, 35260 Stadtallendorf
+DTSTART:20251031T180000Z
 SUMMARY:Wir zünden den Bau-Turbo
-UID:93bf605f-6a28-434c-ae8e-1d65a72eca3d@93bf.org
-URL:https://spdfraktion.de/termine/2025-12-10-wir-zuenden-bau-turbo
+UID:090f37ad-7382-4e5e-a7f7-f98eb5569c89@090f.org
+URL:https://spdfraktion.de/termine/2025-10-31-wir-zuenden-bau-turbo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Bärbel Kofler\, Sören Bartol\nhttps://spdfraktion.de/termine/2025-12-02-wir-zuenden-bau-turbo
@@ -47,13 +47,13 @@ UID:01e62717-cf19-4791-b50c-3c4103e75c1b@01e6.org
 URL:https://spdfraktion.de/forschungspolitischerabend25
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Nancy Faeser\, Daniel Baldy\nhttps://spdfraktion.de/termine/2025-12-11-demokratie-verteidigen
-DTEND:20251211T190000Z
-LOCATION:  Vor-Ort | Südringtreff e.V.\, Südring 16\, 65795 Hattersheim
-DTSTART:20251211T173000Z
-SUMMARY:Demokratie verteidigen
-UID:ecf11884-654c-42d4-b0f1-b73378342492@ecf1.org
-URL:https://spdfraktion.de/termine/2025-12-11-demokratie-verteidigen
+DESCRIPTION:Mit: Helmut Kleebank\, Dr. Carolin Wagner\nhttps://spdfraktion.de/termine/2026-06-09-ki-kollegin-konkurrenz
+DTEND:20260609T183000Z
+LOCATION:  Vor-Ort | Josua-Gemeinde\, Bismarckstraße 20\, 13585 Berlin
+DTSTART:20260609T170000Z
+SUMMARY:KI – Kolleg:in oder Konkurrenz?
+UID:d43a4515-fa28-4ae0-8fec-5983bbf3720b@d43a.org
+URL:https://spdfraktion.de/termine/2026-06-09-ki-kollegin-konkurrenz
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Carolin Wagner\, Sebastian Roloff\nhttps://spdfraktion.de/termine/2025-11-21-wir-starten-investitionsoffensive
@@ -65,58 +65,58 @@ UID:0404f56f-80a5-4cb0-a90b-fc1b0d1ae6e9@0404.org
 URL:https://spdfraktion.de/termine/2025-11-21-wir-starten-investitionsoffensive
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Oliver Kaczmarek\, Sebastian Hartmann\nhttps://spdfraktion.de/termine/2025-11-18-wehrdienst-freiwillig
-DTEND:20251118T120000Z
-LOCATION:  Vor-Ort | Bürgerforum Königsborn\, Döbelner Str. 7\, 59425 Unna
-DTSTART:20251118T103000Z
-SUMMARY:Wehrdienst – aber freiwillig!
-UID:8230d0bf-c3d0-459c-b04e-6334eb64ad4a@8230.org
-URL:https://spdfraktion.de/termine/2025-11-18-wehrdienst-freiwillig
+DESCRIPTION:Mit: Dr. Franziska Kersten\, Michael Thews\, Bernd Rützel\nhttps://spdfraktion.de/termine/2026-07-10-sichere-renten
+DTEND:20260710T180000Z
+LOCATION:  Vor-Ort | Landkreis Stendal\, Hospitalstr. 1-2\, 39576 Hansestadt Stendal
+DTSTART:20260710T160000Z
+SUMMARY:Sichere Renten
+UID:354616c9-bb8a-4cdc-983b-9ec197e31fa5@3546.org
+URL:https://spdfraktion.de/termine/2026-07-10-sichere-renten
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Svenja Stadler\, Claudia Moll\nhttps://spdfraktion.de/termine/2026-06-02-absage-pflegefreundliche-kommune-gute-pflege-rechnet
-DTEND:20260602T181500Z
-LOCATION:  Vor-Ort | Hotel und Restaurant Zum Lindenhof\, Bremer Str. 55\, 21224 Rosengarten
-DTSTART:20260602T163000Z
-SUMMARY:Absage! Pflegefreundliche Kommune - Gute Pflege rechnet sich
-UID:13801f4b-77a6-46b2-85dc-55ed1cd8f590@1380.org
-URL:https://spdfraktion.de/termine/2026-06-02-absage-pflegefreundliche-kommune-gute-pflege-rechnet
+DESCRIPTION:Mit: Matthias Mieves\, Dr. Christos Pantazis\, Sebastian Roloff\, Bärbel Bas\nhttps://spdfraktion.de/fachforumgesundheitswirtschaft
+DTEND:20251126T133000Z
+LOCATION:  Vor-Ort | Deutscher Bundestag\, Paltz der Republik 1\, 11011 Berlin
+DTSTART:20251126T120000Z
+SUMMARY:Fachforum industrielle Gesundheitswirtschaft
+UID:484e5336-7ac5-45f2-8e2c-edd8699c8c75@484e.org
+URL:https://spdfraktion.de/fachforumgesundheitswirtschaft
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Heike Heubach\, Christoph Schmid\nhttps://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
-DTEND:20241123T191500Z
-LOCATION:  Vor-Ort | Gaststätte Hillenbrand\, Bauernstraße 13\, 86368 Gersthofen
-DTSTART:20241123T173000Z
+DESCRIPTION:Mit: Kerstin Griese\, Siemtje Möller\, Adis Ahmetović\, Sanae Abdi\, Dr. Matthias Miersch\nhttps://spdfraktion.de/30jahrewbz
+DTEND:20260612T153000Z
+LOCATION:  Vor-Ort | Deutscher Bundestag\, Platz der Republik 1\, 11011 Berlin
+DTSTART:20260612T100000Z
+SUMMARY:Ohne Frieden ist alles nichts
+UID:218a80e6-84a9-4efe-bc33-399110afc556@218a.org
+URL:https://spdfraktion.de/30jahrewbz
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Holger Mann\, Nadja Sthamer\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
+DTEND:20241213T180000Z
+LOCATION:  Vor-Ort | JEDERMANNS\, Georg-Schumann-Straße 133\, 04155 Leipzig
+DTSTART:20241213T160000Z
 SUMMARY:Wie sichern wir Frieden?
-UID:e42f1ad1-2544-44a7-ac44-f4b7ee449534@e42f.org
-URL:https://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
+UID:37a56f5f-2b56-4805-b0ce-464072d68b19@37a5.org
+URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Bärbel Bas\nhttps://spdfraktion.de/termine/2026-07-22-rente
-DTEND:20260722T180000Z
-LOCATION:  Vor-Ort | im Pik ASZ\, Leipziger Straße 43\, 39120 Magdeburg
-DTSTART:20260722T160000Z
-SUMMARY:RENTE
-UID:672d6795-f0fe-4b85-af9b-8f5b9f4662f1@672d.org
-URL:https://spdfraktion.de/termine/2026-07-22-rente
+DESCRIPTION:Mit: Dagmar Schmidt (Wetzlar)\, Dennis Rohde\nhttps://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive-1
+DTEND:20251118T170000Z
+LOCATION:  Vor-Ort | SIBRE-Sportzentrum Haarwasen\, Sportplatzstraße 22\, 35708 Haiger
+DTSTART:20251118T150000Z
+SUMMARY:Wir starten die  Investitionsoffensive
+UID:6add64ec-a8db-4ee5-a68f-ce6e3b2ca70f@6add.org
+URL:https://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive-1
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Frank Junge\, Nancy Faeser\nhttps://spdfraktion.de/termine/2025-11-03-schuetzen-wir-demokratie
-DTEND:20251103T193000Z
-LOCATION:  Vor-Ort | TGZ Wismar Technologie- und Gewerbezentrum e.V.\, Alter Holzhafen 19\, 23966 Wismar
-DTSTART:20251103T170000Z
-SUMMARY:Wie schützen wir die Demokratie?
-UID:666f4b04-6f0d-406e-a4bd-f68b865c431b@666f.org
-URL:https://spdfraktion.de/termine/2025-11-03-schuetzen-wir-demokratie
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Heike Heubach\, Bärbel Bas\nhttps://spdfraktion.de/Inklusionskonferenz
-DTEND:20260518T140000Z
-LOCATION:  Vor-Ort | Paul-Löbe-Haus\, Konrad-Adenauer-Str. 1\, 10557 Berlin
-DTSTART:20260518T073000Z
-SUMMARY:Radikal inklusiv
-UID:5abee439-e022-4879-a154-9c8983705b16@5abe.org
-URL:https://spdfraktion.de/Inklusionskonferenz
+DESCRIPTION:Mit: Dr. Lina Seitzl\, Isabel Cademartori\nhttps://spdfraktion.de/termine/2025-11-16-politischer-martini-wir-starten-investitionsoffensive
+DTEND:20251116T180000Z
+LOCATION:  Vor-Ort | Arlener Gems\, Arlener Str. 32\, 78239 Rielsingen-Worblingen
+DTSTART:20251116T160000Z
+SUMMARY:Politischer Martini – Wir starten die Investitionsoffensive
+UID:761fc9ed-f699-4e79-8c02-44be038b5fe2@761f.org
+URL:https://spdfraktion.de/termine/2025-11-16-politischer-martini-wir-starten-investitionsoffensive
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Franziska Kersten\, Svenja Stadler\, Esra Limbacher\nhttps://spdfraktion.de/ernaehrung
@@ -137,40 +137,40 @@ UID:23db7e37-7348-474c-924c-4450346f434c@23db.org
 URL:https://spdfraktion.de/termine/2026-05-13-buendnis-wohnen-mehr-wohnraum-bau-turbo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Sebastian Roloff\, Bernd Rützel\nhttps://spdfraktion.de/termine/2025-12-10-sicherheit-alter
-DTEND:20251210T200000Z
-LOCATION:  Vor-Ort | Spöckmeier (Festzeltbox)\, Rosenstr. 9\, 80331 München
-DTSTART:20251210T183000Z
-SUMMARY:Sicherheit auch im Alter
-UID:0355b438-cc33-4987-b5fd-f144ea35906e@0355.org
-URL:https://spdfraktion.de/termine/2025-12-10-sicherheit-alter
+DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
+DTEND:20241217T171500Z
+LOCATION:  Vor-Ort | Verein zur Förderung des Landlebens Massen-NL\, Dorfstraße 29a\, 03238 Massen
+DTSTART:20241217T160000Z
+SUMMARY:Wie sichern wir Jobs und Wachstum?
+UID:07117bdf-8cd8-48ca-9ff5-10670116037d@0711.org
+URL:https://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
-DTEND:20241220T180000Z
-LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
-DTSTART:20241220T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:21ab0357-2327-471f-9369-78ef28041ef6@21ab.org
-URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
+DESCRIPTION:Mit: Martin Rabanus\, Dr. Philipp Rottwilm\nhttps://spdfraktion.de/termine/2025-12-09-wir-zuenden-bau-turbo
+DTEND:20251209T193000Z
+LOCATION:  Vor-Ort | Café im Hilde-Müller-Haus\, Wallufer Straße 2\, 65197 Wiesbaden
+DTSTART:20251209T180000Z
+SUMMARY:Wir zünden den Bau-Turbo
+UID:9fcbcdbd-4dda-4121-9545-33e949150c8f@9fcb.org
+URL:https://spdfraktion.de/termine/2025-12-09-wir-zuenden-bau-turbo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Helmut Kleebank\, Carmen Wegge\nhttps://spdfraktion.de/termine/2026-04-14-gewaltschutz
-DTEND:20260414T184500Z
-LOCATION:  Vor-Ort | Gemeindesaal der Josua-Gemeinde\, Bismarckstraße 20\, 13585 Berlin
-DTSTART:20260414T170000Z
-SUMMARY:Gewaltschutz 
-UID:cb0f6590-7f0e-4800-8c6e-763bf3fde3b3@cb0f.org
-URL:https://spdfraktion.de/termine/2026-04-14-gewaltschutz
+DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
+DTEND:20241209T191500Z
+LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
+DTSTART:20241209T180000Z
+SUMMARY:Wie sichern wir Jobs und Wachstum?
+UID:6613f9c1-a122-4ff4-a051-8aa0ab0d16c5@6613.org
+URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Hubertus Heil (Peine)\, Kerstin Griese\nhttps://spdfraktion.de/vertrauen
-DTEND:20260417T160000Z
-LOCATION:  Vor-Ort | Deutscher Bundestag\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20260417T100000Z
-SUMMARY:Vertrauen – Was können wir noch glauben?  
-UID:33f7bbd2-5b98-475c-af4b-32a881df097f@33f7.org
-URL:https://spdfraktion.de/vertrauen
+DESCRIPTION:Mit: Holger Mann\, Ruppert Stüwe\nhttps://spdfraktion.de/termine/2025-10-30-wir-zuenden-bau-turbo-0
+DTEND:20251030T190000Z
+LOCATION:  Vor-Ort | Galerieraum\, Rosa-Luxemburg-Straße 19/21\, 04103 Leipzig
+DTSTART:20251030T170000Z
+SUMMARY:Wir zünden den Bau-Turbo
+UID:fe2f5bfe-3679-432a-afd1-53f168abde53@fe2f.org
+URL:https://spdfraktion.de/termine/2025-10-30-wir-zuenden-bau-turbo-0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Ingo Schäfer\, Sebastian Fiedler
@@ -182,13 +182,13 @@ UID:2cb24e09-5491-4bb3-b71c-cba85ee0c237@2cb2.org
 URL:https://spdfraktion.de/termine/2024-12-11-zukunft-inneren-sicherheit
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Holger Mann\, Ruppert Stüwe\nhttps://spdfraktion.de/termine/2025-10-30-wir-zuenden-bau-turbo-0
-DTEND:20251030T190000Z
-LOCATION:  Vor-Ort | Galerieraum\, Rosa-Luxemburg-Straße 19/21\, 04103 Leipzig
-DTSTART:20251030T170000Z
-SUMMARY:Wir zünden den Bau-Turbo
-UID:fe2f5bfe-3679-432a-afd1-53f168abde53@fe2f.org
-URL:https://spdfraktion.de/termine/2025-10-30-wir-zuenden-bau-turbo-0
+DESCRIPTION:Mit: Hubertus Heil (Peine)\, Kerstin Griese\nhttps://spdfraktion.de/vertrauen
+DTEND:20260417T160000Z
+LOCATION:  Vor-Ort | Deutscher Bundestag\, Platz der Republik 1\, 11011 Berlin
+DTSTART:20260417T100000Z
+SUMMARY:Vertrauen – Was können wir noch glauben?  
+UID:33f7bbd2-5b98-475c-af4b-32a881df097f@33f7.org
+URL:https://spdfraktion.de/vertrauen
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Johannes Schätzl\, Sebastian Roloff
@@ -209,22 +209,22 @@ UID:f4855072-0f3f-4423-868b-a1ab5d469f38@f485.org
 URL:https://spdfraktion.de/termine/2026-05-28-unsichere-zeiten-sichere-jobs-brauchen-beschaeftigte
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Nina Scheer\, Dr. Matthias Miersch\, Armand Zorn\, Helmut Kleebank\, Mahmut Özdemir (Duisburg)\, Daniel Bettermann\, Dunja Kreiser\, Martin Kröber\nhttps://spdfraktion.de/energiewende-jetzt-erst-recht
-DTEND:20260519T190000Z
-LOCATION:  Vor-Ort | Paul-Löbe-Haus\, Konrad-Adenauer-Str. 1\, 10557 Berlin
-DTSTART:20260519T163000Z
-SUMMARY:Energiewende: Jetzt erst recht!
-UID:0310b17a-c3c0-4f8f-9d67-456cdc9c8e78@0310.org
-URL:https://spdfraktion.de/energiewende-jetzt-erst-recht
+DESCRIPTION:Mit: Martin Gerster\, Christoph Schmid\nhttps://spdfraktion.de/termine/2025-11-15-politischer-martini-wir-starten-investitionsoffensive
+DTEND:20251115T200000Z
+LOCATION:  Vor-Ort | Schlosscafé Laupheim\, Claus-Graf-Stauffenberg-Str. 15\, 88471 Laupheim
+DTSTART:20251115T180000Z
+SUMMARY:Politischer Martini: Wir starten die Investitionsoffensive
+UID:24ace711-f378-4b93-b3f2-a4dd8a95e6c1@24ac.org
+URL:https://spdfraktion.de/termine/2025-11-15-politischer-martini-wir-starten-investitionsoffensive
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Katja Mast\nhttps://spdfraktion.de/termine/2026-06-26-rente
-DTEND:20260626T190000Z
-LOCATION:  Vor-Ort | Frauenzentrum Wolfen\, Fritz-Weineck-Straße 4\, 06766 Bitterfeld-Wolfen
-DTSTART:20260626T170000Z
-SUMMARY:RENTE
-UID:54cba748-d539-4adf-b601-fa8d39255f70@54cb.org
-URL:https://spdfraktion.de/termine/2026-06-26-rente
+DESCRIPTION:Mit: Sebastian Roloff\, Jan Dieren\nhttps://spdfraktion.de/termine/2026-07-23-muenchner-runde-betriebsverfassung
+DTEND:20260723T160000Z
+LOCATION:  Vor-Ort | Harlachinger Gartenstadt\, Naupliastr. 2\, 81547 München
+DTSTART:20260723T143000Z
+SUMMARY: „Münchner Runde zur Betriebsverfassung“
+UID:fc2f2f4f-43d5-4c57-8de8-273e4362e0fa@fc2f.org
+URL:https://spdfraktion.de/termine/2026-07-23-muenchner-runde-betriebsverfassung
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Johannes Schätzl\, Michael Schrodi\nhttps://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive-0
@@ -245,22 +245,22 @@ UID:7e77a77b-7626-4e48-ae52-29dfef3f3a72@7e77.org
 URL:https://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Gerster\, Christoph Schmid\nhttps://spdfraktion.de/termine/2025-11-15-politischer-martini-wir-starten-investitionsoffensive
-DTEND:20251115T200000Z
-LOCATION:  Vor-Ort | Schlosscafé Laupheim\, Claus-Graf-Stauffenberg-Str. 15\, 88471 Laupheim
-DTSTART:20251115T180000Z
-SUMMARY:Politischer Martini: Wir starten die Investitionsoffensive
-UID:24ace711-f378-4b93-b3f2-a4dd8a95e6c1@24ac.org
-URL:https://spdfraktion.de/termine/2025-11-15-politischer-martini-wir-starten-investitionsoffensive
+DESCRIPTION:Mit: Martin Kröber\, Katja Mast\nhttps://spdfraktion.de/termine/2026-06-26-rente
+DTEND:20260626T190000Z
+LOCATION:  Vor-Ort | Frauenzentrum Wolfen\, Fritz-Weineck-Straße 4\, 06766 Bitterfeld-Wolfen
+DTSTART:20260626T170000Z
+SUMMARY:RENTE
+UID:54cba748-d539-4adf-b601-fa8d39255f70@54cb.org
+URL:https://spdfraktion.de/termine/2026-06-26-rente
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Dr. Nils Schmid\nhttps://spdfraktion.de/termine/2026-07-07-bundeswehr-arbeitgeber
-DTEND:20260707T193000Z
-LOCATION:  Vor-Ort | Bootshaus Weißenfels\, Beuditz-Vorstadt 23\, 06667 Weißenfels
-DTSTART:20260707T180000Z
-SUMMARY:Bundeswehr als Arbeitgeber
-UID:9aba5a8d-f80e-488a-837e-07e3a09d847b@9aba.org
-URL:https://spdfraktion.de/termine/2026-07-07-bundeswehr-arbeitgeber
+DESCRIPTION:Mit: Martin Kröber\, Dr. Rolf Mützenich\nhttps://spdfraktion.de/termine/2026-04-22-sichern-wir-frieden
+DTEND:20260422T153000Z
+LOCATION:  Vor-Ort | Soziokulturelles Zentrum\, Wilhelm-Hellge-Straße 3\, 39218 Schönebeck
+DTSTART:20260422T140000Z
+SUMMARY:Wie sichern wir Frieden?
+UID:00f40dbe-b456-488a-ab6c-a398f63062b4@00f4.org
+URL:https://spdfraktion.de/termine/2026-04-22-sichern-wir-frieden
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Hakan Demir\, Felix Döring\nhttps://spdfraktion.de/termine/2026-06-09-demokratie-leben-staerken
@@ -281,22 +281,22 @@ UID:eb01a012-e012-4b72-b7f4-3655a4fa0715@eb01.org
 URL:https://spdfraktion.de/termine/2026-08-14-sozialstaatsreform
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Jasmina Hostert\, Martin Gerster\nhttps://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive
-DTEND:20251118T193000Z
-LOCATION:  Vor-Ort | Stadtwerke Sindelfingen\, Rosenstraße 47\, 71063 Sindelfingen
-DTSTART:20251118T180000Z
-SUMMARY:Wir starten die Investitionsoffensive
-UID:6e6a6f8d-7e8a-4858-bf20-1479acf5c3dc@6e6a.org
-URL:https://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive
+DESCRIPTION:Mit: Frank Schwabe\, Adis Ahmetović\nhttps://spdfraktion.de/termine/2026-07-03-krieg-frieden-deutschlands-aussenpolitik
+DTEND:20260703T180000Z
+LOCATION:  Vor-Ort | Ehemalige Petri-Kirche\, Wartburgstraße 109\, 44579 Castrop-Rauxel
+DTSTART:20260703T160000Z
+SUMMARY:Krieg und Frieden – Deutschlands Außenpolitik
+UID:83f1db9b-57d6-4290-8246-99fc883507d2@83f1.org
+URL:https://spdfraktion.de/termine/2026-07-03-krieg-frieden-deutschlands-aussenpolitik
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dagmar Schmidt (Wetzlar)\, Sören Bartol\nhttps://spdfraktion.de/termine/2025-10-30-wir-zuenden-bau-turbo
-DTEND:20251030T200000Z
-LOCATION:  Vor-Ort | Nachbarschaftszentrum Westend\, Lucie-Kurlbaum-Beyer Platz 2\, 35576 Wetzlar
-DTSTART:20251030T180000Z
-SUMMARY:Wir zünden den Bau-Turbo
-UID:9c28c09b-403b-442f-8215-a7888ef4ebf3@9c28.org
-URL:https://spdfraktion.de/termine/2025-10-30-wir-zuenden-bau-turbo
+DESCRIPTION:Mit: Dr. Franziska Kersten\, Hendrik Bollmann\nhttps://spdfraktion.de/termine/2026-06-02-leerstandsaktivierung-innenentwicklung-laendlichen-raum
+DTEND:20260602T173000Z
+LOCATION:  Vor-Ort | Freiraum - Co-Working und Gründerzentrum\, Dr.-Wilhelm-Külz-Straße 3-5\, 39397 Kroppenstedt
+DTSTART:20260602T160000Z
+SUMMARY:Leerstandsaktivierung und Innenentwicklung im ländlichen Raum
+UID:d4c104cd-e1e0-4891-a71c-1e4ad514933e@d4c1.org
+URL:https://spdfraktion.de/termine/2026-06-02-leerstandsaktivierung-innenentwicklung-laendlichen-raum
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dirk Wiese\, Siemtje Möller\nhttps://spdfraktion.de/termine/2024-12-10-sichern-wir-frieden
@@ -335,22 +335,22 @@ UID:318711fb-042e-4df6-a707-6d4bb8bcbca7@3187.org
 URL:https://spdfraktion.de/termine/2025-12-11-sicherheit-alter-0
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Franziska Kersten\, Hendrik Bollmann\nhttps://spdfraktion.de/termine/2026-06-02-leerstandsaktivierung-innenentwicklung-laendlichen-raum
-DTEND:20260602T173000Z
-LOCATION:  Vor-Ort | Freiraum - Co-Working und Gründerzentrum\, Dr.-Wilhelm-Külz-Straße 3-5\, 39397 Kroppenstedt
-DTSTART:20260602T160000Z
-SUMMARY:Leerstandsaktivierung und Innenentwicklung im ländlichen Raum
-UID:d4c104cd-e1e0-4891-a71c-1e4ad514933e@d4c1.org
-URL:https://spdfraktion.de/termine/2026-06-02-leerstandsaktivierung-innenentwicklung-laendlichen-raum
+DESCRIPTION:Mit: Dagmar Schmidt (Wetzlar)\, Sören Bartol\nhttps://spdfraktion.de/termine/2025-10-30-wir-zuenden-bau-turbo
+DTEND:20251030T200000Z
+LOCATION:  Vor-Ort | Nachbarschaftszentrum Westend\, Lucie-Kurlbaum-Beyer Platz 2\, 35576 Wetzlar
+DTSTART:20251030T180000Z
+SUMMARY:Wir zünden den Bau-Turbo
+UID:9c28c09b-403b-442f-8215-a7888ef4ebf3@9c28.org
+URL:https://spdfraktion.de/termine/2025-10-30-wir-zuenden-bau-turbo
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Frank Schwabe\, Adis Ahmetović\nhttps://spdfraktion.de/termine/2026-07-03-krieg-frieden-deutschlands-aussenpolitik
-DTEND:20260703T180000Z
-LOCATION:  Vor-Ort | Ehemalige Petri-Kirche\, Wartburgstraße 109\, 44579 Castrop-Rauxel
-DTSTART:20260703T160000Z
-SUMMARY:Krieg und Frieden – Deutschlands Außenpolitik
-UID:83f1db9b-57d6-4290-8246-99fc883507d2@83f1.org
-URL:https://spdfraktion.de/termine/2026-07-03-krieg-frieden-deutschlands-aussenpolitik
+DESCRIPTION:Mit: Jasmina Hostert\, Martin Gerster\nhttps://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive
+DTEND:20251118T193000Z
+LOCATION:  Vor-Ort | Stadtwerke Sindelfingen\, Rosenstraße 47\, 71063 Sindelfingen
+DTSTART:20251118T180000Z
+SUMMARY:Wir starten die Investitionsoffensive
+UID:6e6a6f8d-7e8a-4858-bf20-1479acf5c3dc@6e6a.org
+URL:https://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Christoph Schmid\, Bernd Rützel\nhttps://spdfraktion.de/termine/2025-12-11-sicherheit-alter
@@ -380,22 +380,13 @@ UID:42b188b4-0a58-4d57-8249-05d843f52022@42b1.org
 URL:https://spdfraktion.de/termine/2026-07-21-sichere-renten-wir-alterssicherungssystem-fit-zukunft
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Rabanus\, Dr. Philipp Rottwilm\nhttps://spdfraktion.de/termine/2025-11-17-wir-zuenden-bau-turbo
-DTEND:20251117T200000Z
-LOCATION:  Vor-Ort | Café im Hilde-Müller-Haus\, Wallufer Straße 2\, 65197 Wiesbaden
-DTSTART:20251117T180000Z
-SUMMARY:Wir zünden den Bau-Turbo
-UID:6ba6efe3-cfd0-44ad-b72c-dc3c268f3188@6ba6.org
-URL:https://spdfraktion.de/termine/2025-11-17-wir-zuenden-bau-turbo
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Johannes Fechner\, Katja Mast\nhttps://spdfraktion.de/termine/2025-12-12-unseren-sozialstaat-zukunftsfest
-DTEND:20251212T190000Z
-LOCATION:  Vor-Ort | AWO-Stüble\, Schlettstadtallee 9\, 79183 Waldkirch
-DTSTART:20251212T170000Z
-SUMMARY:Unseren Sozialstaat zukunftsfest machen
-UID:ba4182e6-b8a9-47f8-bcdb-3616e924cf8b@ba41.org
-URL:https://spdfraktion.de/termine/2025-12-12-unseren-sozialstaat-zukunftsfest
+DESCRIPTION:Mit: Dr. Franziska Kersten\, Holger Mann\nhttps://spdfraktion.de/termine/2026-06-05-hat-bafoeg-zukunft
+DTEND:20260605T180000Z
+LOCATION:  Vor-Ort | Radio CORAX\, Unterberg 11\, 06108 Halle (Saale)
+DTSTART:20260605T160000Z
+SUMMARY:Hat das Bafög wieder Zukunft?
+UID:3750598e-1392-41bc-b8d1-8b8992b7820e@3750.org
+URL:https://spdfraktion.de/termine/2026-06-05-hat-bafoeg-zukunft
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Wiebke Esdar\, Dr. Christos Pantazis\nhttps://spdfraktion.de/termine/2026-06-19-gesundheit-gerecht-gestalten
@@ -407,13 +398,22 @@ UID:a96cb466-18f2-4a29-93cb-a816e6123df7@a96c.org
 URL:https://spdfraktion.de/termine/2026-06-19-gesundheit-gerecht-gestalten
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Franziska Kersten\, Holger Mann\nhttps://spdfraktion.de/termine/2026-06-05-hat-bafoeg-zukunft
-DTEND:20260605T180000Z
-LOCATION:  Vor-Ort | Radio CORAX\, Unterberg 11\, 06108 Halle (Saale)
-DTSTART:20260605T160000Z
-SUMMARY:Hat das Bafög wieder Zukunft?
-UID:3750598e-1392-41bc-b8d1-8b8992b7820e@3750.org
-URL:https://spdfraktion.de/termine/2026-06-05-hat-bafoeg-zukunft
+DESCRIPTION:Mit: Dr. Johannes Fechner\, Katja Mast\nhttps://spdfraktion.de/termine/2025-12-12-unseren-sozialstaat-zukunftsfest
+DTEND:20251212T190000Z
+LOCATION:  Vor-Ort | AWO-Stüble\, Schlettstadtallee 9\, 79183 Waldkirch
+DTSTART:20251212T170000Z
+SUMMARY:Unseren Sozialstaat zukunftsfest machen
+UID:ba4182e6-b8a9-47f8-bcdb-3616e924cf8b@ba41.org
+URL:https://spdfraktion.de/termine/2025-12-12-unseren-sozialstaat-zukunftsfest
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Martin Rabanus\, Dr. Philipp Rottwilm\nhttps://spdfraktion.de/termine/2025-11-17-wir-zuenden-bau-turbo
+DTEND:20251117T200000Z
+LOCATION:  Vor-Ort | Café im Hilde-Müller-Haus\, Wallufer Straße 2\, 65197 Wiesbaden
+DTSTART:20251117T180000Z
+SUMMARY:Wir zünden den Bau-Turbo
+UID:6ba6efe3-cfd0-44ad-b72c-dc3c268f3188@6ba6.org
+URL:https://spdfraktion.de/termine/2025-11-17-wir-zuenden-bau-turbo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Parsa Marvi\nhttps://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun
@@ -425,13 +425,13 @@ UID:cb21df03-8dca-404c-85d2-44cf5a975e76@cb21.org
 URL:https://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Frank Schwabe\, Dr. Nina Scheer\nhttps://spdfraktion.de/termine/2026-06-01-sicher-sauber-bezahlbar-wege-beschleunigten-energiewende
+DESCRIPTION:Mit: Jakob Blankenburg\, Hendrik Bollmann\nhttps://spdfraktion.de/termine/2026-06-01-buendnis-wohnen-wege-bezahlbarem-wohnen-stadt-land
 DTEND:20260601T173000Z
-LOCATION:  Vor-Ort | AGORA Kulturzentrum\, Zechenstraße 2 A\, 44581 Castrop-Rauxel
+LOCATION:  Vor-Ort | KLIPPO\, Universitätsallee 1\, 21335 Lüneburg
 DTSTART:20260601T160000Z
-SUMMARY:Sicher\, sauber\, bezahlbar: Wege einer beschleunigten Energiewende
-UID:9d1ff8dc-786b-45f3-9b14-bcf68702fc5c@9d1f.org
-URL:https://spdfraktion.de/termine/2026-06-01-sicher-sauber-bezahlbar-wege-beschleunigten-energiewende
+SUMMARY:Bündnis für Wohnen - Wege zu bezahlbarem Wohnen in Stadt und Land
+UID:03cbdbf8-50b8-462c-8fa0-8aa976fcb0dd@03cb.org
+URL:https://spdfraktion.de/termine/2026-06-01-buendnis-wohnen-wege-bezahlbarem-wohnen-stadt-land
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Sonja Eichwede\, Carmen Wegge\, Jasmina Hostert\, Dagmar Schmidt (Wetzlar)\, Sebastian Fiedler\nhttps://spdfraktion.de/gewaltschutz
@@ -443,22 +443,13 @@ UID:cc7260d6-09e9-4c6b-b99c-cd3b95e255b9@cc72.org
 URL:https://spdfraktion.de/gewaltschutz
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Jakob Blankenburg\, Hendrik Bollmann\nhttps://spdfraktion.de/termine/2026-06-01-buendnis-wohnen-wege-bezahlbarem-wohnen-stadt-land
+DESCRIPTION:Mit: Frank Schwabe\, Dr. Nina Scheer\nhttps://spdfraktion.de/termine/2026-06-01-sicher-sauber-bezahlbar-wege-beschleunigten-energiewende
 DTEND:20260601T173000Z
-LOCATION:  Vor-Ort | KLIPPO\, Universitätsallee 1\, 21335 Lüneburg
+LOCATION:  Vor-Ort | AGORA Kulturzentrum\, Zechenstraße 2 A\, 44581 Castrop-Rauxel
 DTSTART:20260601T160000Z
-SUMMARY:Bündnis für Wohnen - Wege zu bezahlbarem Wohnen in Stadt und Land
-UID:03cbdbf8-50b8-462c-8fa0-8aa976fcb0dd@03cb.org
-URL:https://spdfraktion.de/termine/2026-06-01-buendnis-wohnen-wege-bezahlbarem-wohnen-stadt-land
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan
-DTEND:20241129T210000Z
-LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
-DTSTART:20241129T193000Z
-SUMMARY:Wie steuern wir Migration?
-UID:bd891fe3-daba-4793-b689-39da80a6587c@bd89.org
-URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
+SUMMARY:Sicher\, sauber\, bezahlbar: Wege einer beschleunigten Energiewende
+UID:9d1ff8dc-786b-45f3-9b14-bcf68702fc5c@9d1f.org
+URL:https://spdfraktion.de/termine/2026-06-01-sicher-sauber-bezahlbar-wege-beschleunigten-energiewende
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Ralf Stegner\, Jürgen Coße\nhttps://spdfraktion.de/termine/2025-12-08-wir-starten-investitionsoffensive
@@ -470,6 +461,15 @@ UID:6b7b50bb-c6fa-43a2-a2f1-979c129a144d@6b7b.org
 URL:https://spdfraktion.de/termine/2025-12-08-wir-starten-investitionsoffensive
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan
+DTEND:20241129T210000Z
+LOCATION:  Vor-Ort | Deutzer Gymnasium Schaurtestraße\, Schaurtestraße 1\, 50679 Köln
+DTSTART:20241129T193000Z
+SUMMARY:Wie steuern wir Migration?
+UID:bd891fe3-daba-4793-b689-39da80a6587c@bd89.org
+URL:https://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Nils Schmid\, Jasmina Hostert\nhttps://spdfraktion.de/termine/2026-07-03-social-media-verbot-muss
 DTEND:20260703T170000Z
 LOCATION:  Vor-Ort | Teck-Realschule (Aula)\, Limburgstraße 71\, 73230 Kirchheim/Teck
@@ -479,13 +479,13 @@ UID:c5dbdb7b-fcb3-4ad5-a33b-58aaf5c3d70a@c5db.org
 URL:https://spdfraktion.de/termine/2026-07-03-social-media-verbot-muss
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Helmut Kleebank\nhttps://spdfraktion.de/termine/2026-07-16-energiewende-waermewende
-DTEND:20260716T163000Z
-LOCATION:  Vor-Ort | Hotel Schützenhaus Jessen\, Annaburger Straße 6\, 06917 Jessen (Elster)
-DTSTART:20260716T150000Z
-SUMMARY:Energiewende/ Wärmewende
-UID:72f77378-725b-4598-86dc-7f7c107ae9e9@72f7.org
-URL:https://spdfraktion.de/termine/2026-07-16-energiewende-waermewende
+DESCRIPTION:Mit: Frank Schwabe\, Dr. Christos Pantazis\nhttps://spdfraktion.de/termine/2026-07-02-gesundheitsreformen-quo-vadis
+DTEND:20260702T180000Z
+LOCATION:  Vor-Ort | im Foyer der Stadthalle Waltrop\, Raiffeisenplatz 1\, 45731 Waltrop
+DTSTART:20260702T160000Z
+SUMMARY:Gesundheitsreform(en) – Quo vadis?
+UID:f2f0cf04-f8dc-4ea3-827e-0b1a4d752709@f2f0.org
+URL:https://spdfraktion.de/termine/2026-07-02-gesundheitsreformen-quo-vadis
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Frauke Heiligenstadt\, Hendrik Bollmann\nhttps://spdfraktion.de/termine/2026-06-29-baugesetzbuch-upgrade
@@ -497,13 +497,13 @@ UID:4880cfd8-8f35-40a8-bb06-ec26c2d5437e@4880.org
 URL:https://spdfraktion.de/termine/2026-06-29-baugesetzbuch-upgrade
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Frank Schwabe\, Dr. Christos Pantazis\nhttps://spdfraktion.de/termine/2026-07-02-gesundheitsreformen-quo-vadis
-DTEND:20260702T180000Z
-LOCATION:  Vor-Ort | im Foyer der Stadthalle Waltrop\, Raiffeisenplatz 1\, 45731 Waltrop
-DTSTART:20260702T160000Z
-SUMMARY:Gesundheitsreform(en) – Quo vadis?
-UID:f2f0cf04-f8dc-4ea3-827e-0b1a4d752709@f2f0.org
-URL:https://spdfraktion.de/termine/2026-07-02-gesundheitsreformen-quo-vadis
+DESCRIPTION:Mit: Martin Kröber\, Helmut Kleebank\nhttps://spdfraktion.de/termine/2026-07-16-energiewende-waermewende
+DTEND:20260716T163000Z
+LOCATION:  Vor-Ort | Hotel Schützenhaus Jessen\, Annaburger Straße 6\, 06917 Jessen (Elster)
+DTSTART:20260716T150000Z
+SUMMARY:Energiewende/ Wärmewende
+UID:72f77378-725b-4598-86dc-7f7c107ae9e9@72f7.org
+URL:https://spdfraktion.de/termine/2026-07-16-energiewende-waermewende
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Katja Mast\, Tim Klüssendorf\nhttps://spdfraktion.de/termine/2025-12-11-wir-starten-investitionsoffensive
@@ -524,15 +524,6 @@ UID:85401155-3959-4689-bc69-4f9cf884aff7@8540.org
 URL:https://spdfraktion.de/termine/2026-07-02-sozialstaatsreform
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dietmar Nietan\, Claudia Moll\, Ye-One Rhie\, Andreas Rimkus\nhttps://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
-DTEND:20241211T194500Z
-LOCATION:  Vor-Ort | Technologiezentrum Jülich\, Karl-Heinz-Beckurts-Straße 13\, 52428 Jülich
-DTSTART:20241211T180000Z
-SUMMARY:Wasserstoff: Chance für den Strukturwandel
-UID:5ec4b7ca-ff97-420a-b9d6-f44ebab74748@5ec4.org
-URL:https://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Svenja Schulze\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2025-12-11-gemeinsam-stark-krisenfall
 DTEND:20251211T190000Z
 LOCATION:  Vor-Ort | Alexianer Waschküche\, Bahnhofstraße 6\, 48143 Münster
@@ -540,6 +531,15 @@ DTSTART:20251211T173000Z
 SUMMARY:Gemeinsam stark im Krisenfall
 UID:c3637742-a8cb-4bd5-a130-dd8e6b3a1cdb@c363.org
 URL:https://spdfraktion.de/termine/2025-12-11-gemeinsam-stark-krisenfall
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Dietmar Nietan\, Claudia Moll\, Ye-One Rhie\, Andreas Rimkus\nhttps://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
+DTEND:20241211T194500Z
+LOCATION:  Vor-Ort | Technologiezentrum Jülich\, Karl-Heinz-Beckurts-Straße 13\, 52428 Jülich
+DTSTART:20241211T180000Z
+SUMMARY:Wasserstoff: Chance für den Strukturwandel
+UID:5ec4b7ca-ff97-420a-b9d6-f44ebab74748@5ec4.org
+URL:https://spdfraktion.de/termine/2024-12-11-wasserstoff-chance-strukturwandel
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Frauke Heiligenstadt\, Esther Dilcher\, Aydan Özoğuz\, Kathrin Michel\, Saskia Esken\, Svenja Schulze\, Matthias Mieves\, Ruppert Stüwe\, Christoph Schmid\, Dirk Wiese\nhttps://spdfraktion.de/termine/2026-05-03-tag-ausblicke-2026
@@ -560,15 +560,6 @@ UID:4f062ba5-a06d-485c-a65a-11be8085bdf4@4f06.org
 URL:https://spdfraktion.de/termine/2026-06-15-milliardeninvestitionen-sonderschulden-trotzdem-rotstift-reformzwang
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Sebastian Roloff\, Jan Dieren\nhttps://spdfraktion.de/termine/2026-07-23-muenchner-runde-betriebsverfassung
-DTEND:20260723T160000Z
-LOCATION:  Vor-Ort | Harlachinger Gartenstadt\, Naupliastr. 2\, 81547 München
-DTSTART:20260723T143000Z
-SUMMARY: „Münchner Runde zur Betriebsverfassung“
-UID:fc2f2f4f-43d5-4c57-8de8-273e4362e0fa@fc2f.org
-URL:https://spdfraktion.de/termine/2026-07-23-muenchner-runde-betriebsverfassung
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Metin Hakverdi\, Svenja Stadler\nhttps://spdfraktion.de/termine/2026-05-23-buergergespraech-neugraben
 DTEND:20260523T100000Z
 LOCATION:  Vor-Ort | Marktpassage\, Neugrabener Markt\, 21149 Harburg
@@ -585,15 +576,6 @@ DTSTART:20241209T173000Z
 SUMMARY:Chancen und Hürden - Wie fair ist die Studienfinanzierung in Deutschland?
 UID:6bd4062d-3618-4120-b7a2-90c47116e9b3@6bd4.org
 URL:https://spdfraktion.de/termine/2024-12-09-chancen-huerden-fair-studienfinanzierung-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Nancy Faeser\, Dagmar Schmidt (Wetzlar)\nhttps://spdfraktion.de/termine/2026-08-14-sozialstaatsreform
-DTEND:20260814T180000Z
-LOCATION:  Vor-Ort | Apfelweinhaus Schwarzer Adler\, Marktplatz 5\, 64720 Michelstadt
-DTSTART:20260814T163000Z
-SUMMARY:Die Sozialstaatsreform
-UID:17a9f84a-e066-425b-9cbd-c2eeea7b5eb4@17a9.org
-URL:https://spdfraktion.de/termine/2026-08-14-sozialstaatsreform
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Heike Engelhardt\, Martin Gerster\nhttps://spdfraktion.de/termine/2024-11-23-politischer-martini
@@ -650,15 +632,6 @@ UID:5e1b319f-e39c-4e8b-8107-bb9ef6c255c8@5e1b.org
 URL:https://spdfraktion.de/termine/2026-07-02-bau-stadtentwicklung
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Sebastian Roloff\, Jan Dieren\nhttps://spdfraktion.de/termine/2026-07-23-muenchner-runde-betriebsverfassung
-DTEND:20260723T160000Z
-LOCATION:  Vor-Ort | Harlachinger Gartenstadt\, Naupliastr. 2\, 81547 München
-DTSTART:20260723T143000Z
-SUMMARY: „Münchner Runde zur Betriebsverfassung“
-UID:ee5ac7f8-6ee9-4d8e-beae-4ff992f8b2d0@ee5a.org
-URL:https://spdfraktion.de/termine/2026-07-23-muenchner-runde-betriebsverfassung
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Sebastian Hartmann\, Dr. Christos Pantazis\nhttps://spdfraktion.de/termine/2026-05-13-gesundheitsversorgung-praevention-laendlichen-raum
 DTEND:20260513T173000Z
 LOCATION:  Vor-Ort | AOK-Haus\, Kaiserstr. 35-37\, 53721 Siegburg
@@ -677,6 +650,15 @@ UID:c8cc6f2e-a914-41d8-aea3-f9e1833a15dd@c8cc.org
 URL:https://spdfraktion.de/termine/2024-12-15-sichern-wir-rente
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Svenja Stadler\, Claudia Moll\nhttps://spdfraktion.de/termine/2026-06-02-absage-pflegefreundliche-kommune-gute-pflege-rechnet
+DTEND:20260602T181500Z
+LOCATION:  Vor-Ort | Hotel und Restaurant Zum Lindenhof\, Bremer Str. 55\, 21224 Rosengarten
+DTSTART:20260602T163000Z
+SUMMARY:Absage! Pflegefreundliche Kommune - Gute Pflege rechnet sich
+UID:13801f4b-77a6-46b2-85dc-55ed1cd8f590@1380.org
+URL:https://spdfraktion.de/termine/2026-06-02-absage-pflegefreundliche-kommune-gute-pflege-rechnet
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Dr. Ralf Stegner\, Jürgen Coße\nhttps://spdfraktion.de/termine/2025-12-08-termin-absage-wir-starten-investitionsoffensive
 DTEND:20251208T190000Z
 LOCATION:  Vor-Ort | Haus 13\, Adolfstr. 13\, 25335 Elmshorn
@@ -684,6 +666,15 @@ DTSTART:20251208T170000Z
 SUMMARY:Termin absage: Wir starten die Investitionsoffensive
 UID:05fe813f-a6d1-49f4-809e-9999b6b038c6@05fe.org
 URL:https://spdfraktion.de/termine/2025-12-08-termin-absage-wir-starten-investitionsoffensive
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Martin Kröber\, Helmut Kleebank\nhttps://spdfraktion.de/termine/2026-07-16-energiewende-waermewende
+DTEND:20260716T163000Z
+LOCATION:  Vor-Ort | Hotel Schützenhaus Jessen\, Annaburger Straße 6\, 06917 Jessen (Elster)
+DTSTART:20260716T150000Z
+SUMMARY:Energiewende/ Wärmewende
+UID:b5a95071-f1a4-4562-9a1c-258129389be0@b5a9.org
+URL:https://spdfraktion.de/termine/2026-07-16-energiewende-waermewende
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Martin Kröber\, Dr. Rolf Mützenich\nhttps://spdfraktion.de/termine/2024-12-11-sichern-wir-frieden
@@ -713,24 +704,6 @@ UID:9db0469f-2efb-495f-948f-b444390501bc@9db0.org
 URL:https://spdfraktion.de/termine/2026-07-21-sichere-renten
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Franziska Kersten\, Michael Thews\, Bernd Rützel\nhttps://spdfraktion.de/termine/2026-07-21-sichere-renten
-DTEND:20260721T180000Z
-LOCATION:  Vor-Ort | Landkreis Stendal\, Hospitalstr. 1-2\, 39576 Hansestadt Stendal
-DTSTART:20260721T160000Z
-SUMMARY:Sichere Renten
-UID:53efe3e8-4438-4967-aca2-f5d959ae1aec@53ef.org
-URL:https://spdfraktion.de/termine/2026-07-21-sichere-renten
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Lina Seitzl\, Isabel Cademartori\nhttps://spdfraktion.de/termine/2025-11-16-politischer-martini-wir-starten-investitionsoffensive
-DTEND:20251116T180000Z
-LOCATION:  Vor-Ort | Arlener Gems\, Arlener Str. 32\, 78239 Rielsingen-Worblingen
-DTSTART:20251116T160000Z
-SUMMARY:Politischer Martini – Wir starten die Investitionsoffensive
-UID:761fc9ed-f699-4e79-8c02-44be038b5fe2@761f.org
-URL:https://spdfraktion.de/termine/2025-11-16-politischer-martini-wir-starten-investitionsoffensive
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal
 DTEND:20241209T201500Z
 LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
@@ -747,15 +720,6 @@ DTSTART:20251022T150000Z
 SUMMARY:Anpacken! Was muss die Politik jetzt tun?
 UID:bc67f812-fae7-4d58-89c3-a06feaf1fd06@bc67.org
 URL:https://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-tun
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2026-07-24-sicherheit-tun-wir-genug-sicherheit
-DTEND:20260724T170000Z
-LOCATION:  Vor-Ort | im Ernst-Reuter-Haus\, Bürgelstraße 1\, 39104 Magdeburg
-DTSTART:20260724T150000Z
-SUMMARY:Sicherheit – Tun wir genug für unsere Sicherheit?
-UID:c106799f-064f-4078-8a45-bfcd60e97b1d@c106.org
-URL:https://spdfraktion.de/termine/2026-07-24-sicherheit-tun-wir-genug-sicherheit
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Lars Klingbeil\, Prof. Dr. Lars Castellucci\nhttps://spdfraktion.de/demokratie
@@ -803,15 +767,6 @@ UID:674952d5-9b04-4928-a477-bcd58e0f4b4f@6749.org
 URL:https://spdfraktion.de/termine/2024-11-18-demokratie-stresstest
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Jan Plobner\, Dirk Wiese
-DTEND:20241119T203000Z
-LOCATION:  Vor-Ort | Gaststätte Altes Rathaus\, Marktplatz 1\, 91207 Lauf a. d. Pegnitz
-DTSTART:20241119T190000Z
-SUMMARY:Wie schaffen wir Sicherheit für alle?
-UID:353d3efd-e2fa-49b0-9bad-52aac1c29803@353d.org
-URL:https://spdfraktion.de/termine/2024-11-19-schaffen-wir-sicherheit-alle
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
 DTEND:20241122T143000Z
 LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
@@ -821,13 +776,13 @@ UID:c4b886c4-8dd2-489d-a13c-0e5395d7ffde@c4b8.org
 URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Kerstin Griese\, Siemtje Möller\, Adis Ahmetović\, Sanae Abdi\, Dr. Matthias Miersch\nhttps://spdfraktion.de/30jahrewbz
-DTEND:20260612T153000Z
-LOCATION:  Vor-Ort | Deutscher Bundestag\, Platz der Republik 1\, 11011 Berlin
-DTSTART:20260612T100000Z
-SUMMARY:Ohne Frieden ist alles nichts
-UID:218a80e6-84a9-4efe-bc33-399110afc556@218a.org
-URL:https://spdfraktion.de/30jahrewbz
+DESCRIPTION:Mit: Jan Plobner\, Dirk Wiese
+DTEND:20241119T203000Z
+LOCATION:  Vor-Ort | Gaststätte Altes Rathaus\, Marktplatz 1\, 91207 Lauf a. d. Pegnitz
+DTSTART:20241119T190000Z
+SUMMARY:Wie schaffen wir Sicherheit für alle?
+UID:353d3efd-e2fa-49b0-9bad-52aac1c29803@353d.org
+URL:https://spdfraktion.de/termine/2024-11-19-schaffen-wir-sicherheit-alle
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Martin Gerster\, Leni Breymaier
@@ -857,6 +812,15 @@ UID:2631b58b-fcd0-4e0d-a3c4-9fc1683ca81f@2631.org
 URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Heike Heubach\, Bärbel Bas\nhttps://spdfraktion.de/Inklusionskonferenz
+DTEND:20260518T140000Z
+LOCATION:  Vor-Ort | Paul-Löbe-Haus\, Konrad-Adenauer-Str. 1\, 10557 Berlin
+DTSTART:20260518T073000Z
+SUMMARY:Radikal inklusiv
+UID:5abee439-e022-4879-a154-9c8983705b16@5abe.org
+URL:https://spdfraktion.de/Inklusionskonferenz
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Carmen Wegge\, Dr. Johannes Fechner\nhttps://spdfraktion.de/anwaltstag2026
 DTEND:20260612T150000Z
 LOCATION:  Vor-Ort | Messe Freiburg\, Halle 4\, Neuer Messplatz 1\, 79108 Freiburg im Breisgau
@@ -864,15 +828,6 @@ DTSTART:20260612T133000Z
 SUMMARY:Rechtsstaat stärken – Demokratie resilient machen
 UID:46de93c2-888c-423d-bd9a-97d6b1c3bd1b@46de.org
 URL:https://spdfraktion.de/anwaltstag2026
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Christoph Schmid\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
-DTEND:20241209T191500Z
-LOCATION:  Vor-Ort | Alte Brauerei Mertingen\, Hilaria-Lechner-Straße 21\, 86690 Mertingen
-DTSTART:20241209T180000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:6613f9c1-a122-4ff4-a051-8aa0ab0d16c5@6613.org
-URL:https://spdfraktion.de/termine/2024-12-09-sichern-wir-jobs-wachstum
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Frauke Heiligenstadt\, Dr. Tanja Machalet\, Dr. Christos Pantazis\nhttps://spdfraktion.de/termine/2026-03-12-gesundheitsversorgung-laendlichen-raum
@@ -891,15 +846,6 @@ DTSTART:20260226T173000Z
 SUMMARY:black voices
 UID:c7a838b3-7580-463d-91b8-04bcd43613d4@c7a8.org
 URL:https://spdfraktion.de/blackvoices
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Helmut Kleebank\nhttps://spdfraktion.de/termine/2026-07-16-energiewende-waermewende
-DTEND:20260716T163000Z
-LOCATION:  Vor-Ort | Hotel Schützenhaus Jessen\, Annaburger Straße 6\, 06917 Jessen (Elster)
-DTSTART:20260716T150000Z
-SUMMARY:Energiewende/ Wärmewende
-UID:7dffe232-df06-45e7-862e-8b7767cdf067@7dff.org
-URL:https://spdfraktion.de/termine/2026-07-16-energiewende-waermewende
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Dagmar Schmidt (Wetzlar)\, Dennis Rohde\nhttps://spdfraktion.de/termine/2025-11-18-wir-zuenden-bau-turbo
@@ -938,13 +884,13 @@ UID:d5728428-e2d4-4132-8a51-76947deeafe8@d572.org
 URL:https://spdfraktion.de/termine/2026-03-17-kiew-groenland
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Rabanus\, Dr. Philipp Rottwilm\nhttps://spdfraktion.de/termine/2025-12-09-wir-zuenden-bau-turbo
-DTEND:20251209T193000Z
-LOCATION:  Vor-Ort | Café im Hilde-Müller-Haus\, Wallufer Straße 2\, 65197 Wiesbaden
-DTSTART:20251209T180000Z
-SUMMARY:Wir zünden den Bau-Turbo
-UID:9fcbcdbd-4dda-4121-9545-33e949150c8f@9fcb.org
-URL:https://spdfraktion.de/termine/2025-12-09-wir-zuenden-bau-turbo
+DESCRIPTION:Mit: Sebastian Roloff\, Jan Dieren\nhttps://spdfraktion.de/termine/2026-07-23-muenchner-runde-betriebsverfassung
+DTEND:20260723T160000Z
+LOCATION:  Vor-Ort | Harlachinger Gartenstadt\, Naupliastr. 2\, 81547 München
+DTSTART:20260723T143000Z
+SUMMARY: „Münchner Runde zur Betriebsverfassung“
+UID:5bb49f93-2a56-404f-a764-9f0a92d4e338@5bb4.org
+URL:https://spdfraktion.de/termine/2026-07-23-muenchner-runde-betriebsverfassung
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Aydan Özoğuz\, Falko Droßmann\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
@@ -956,6 +902,15 @@ UID:8945c7cf-2021-47ce-ab1c-d5a9ab5364c2@8945.org
 URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden-0
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Martin Kröber\, Dr. Christos Pantazis\nhttps://spdfraktion.de/termine/2026-07-14-krankenhausreform
+DTEND:20260714T180000Z
+LOCATION:  Vor-Ort | Stadthalle Zerbst/Anhalt\, Gartenstraße 21\, 39261 Zerbst/Anhalt
+DTSTART:20260714T160000Z
+SUMMARY:Krankenhausreform
+UID:a4175179-6647-463e-afdc-1b9361d4f6a8@a417.org
+URL:https://spdfraktion.de/termine/2026-07-14-krankenhausreform
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Brian Nickholz\, Frank Schwabe\nhttps://spdfraktion.de/termine/2024-12-11-hausnummer-null
 DTEND:20241211T200000Z
 LOCATION:  Vor-Ort | Grimme-Institut\, Eduard-Weitsch-Weg 25\, 45768 Marl
@@ -963,6 +918,24 @@ DTSTART:20241211T170000Z
 SUMMARY:Hausnummer Null
 UID:c8961ddb-4a9c-4126-9a4e-f4b4debc341b@c896.org
 URL:https://spdfraktion.de/termine/2024-12-11-hausnummer-null
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Martin Kröber\, Bärbel Bas\nhttps://spdfraktion.de/termine/2026-07-22-rente
+DTEND:20260722T180000Z
+LOCATION:  Vor-Ort | im Pik ASZ\, Leipziger Straße 43\, 39120 Magdeburg
+DTSTART:20260722T160000Z
+SUMMARY:RENTE
+UID:58bba497-cd6a-4824-b73f-52abfa9efe61@58bb.org
+URL:https://spdfraktion.de/termine/2026-07-22-rente
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Nancy Faeser\, Dagmar Schmidt (Wetzlar)\nhttps://spdfraktion.de/termine/2026-08-14-sozialstaatsreform
+DTEND:20260814T180000Z
+LOCATION:  Vor-Ort | Apfelweinhaus Schwarzer Adler\, Marktplatz 5\, 64720 Michelstadt
+DTSTART:20260814T163000Z
+SUMMARY:Die Sozialstaatsreform
+UID:ee8d0786-36b5-4d16-845b-c6efef2d1866@ee8d.org
+URL:https://spdfraktion.de/termine/2026-08-14-sozialstaatsreform
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Martin Kröber\, Dr. Christos Pantazis\nhttps://spdfraktion.de/termine/2026-07-14-krankenhausreform
@@ -974,6 +947,15 @@ UID:111b44d1-ae8d-494a-9994-fcbc63163147@111b.org
 URL:https://spdfraktion.de/termine/2026-07-14-krankenhausreform
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:Mit: Dr. Matthias Miersch\, Adis Ahmetovic\nhttps://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
+DTEND:20241220T180000Z
+LOCATION:  Vor-Ort | Kurt-Schumacher-Haus\, KurtS\,\, Odeonstraße 15/16\, 30159 Hannover
+DTSTART:20241220T160000Z
+SUMMARY:Wie sichern wir Frieden?
+UID:21ab0357-2327-471f-9369-78ef28041ef6@21ab.org
+URL:https://spdfraktion.de/termine/2024-12-20-sichern-wir-frieden
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Mit: Metin Hakverdi\, Dorothee Martin\nhttps://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
 DTEND:20241214T170000Z
 LOCATION:  Vor-Ort | Herbert-Wehner-Haus\, Julius-Ludowieg-Straße 9\, 21073 Hamburg
@@ -981,15 +963,6 @@ DTSTART:20241214T140000Z
 SUMMARY:Innere\, äußere und soziale Sicherheit – Welche Politik braucht Deutschland?
 UID:a6483b4b-3089-4f94-bcdb-69aa48238f23@a648.org
 URL:https://spdfraktion.de/termine/2024-12-14-innere-aeussere-soziale-sicherheit-welche-politik-braucht-deutschland
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Dr. Christos Pantazis\nhttps://spdfraktion.de/termine/2026-07-14-krankenhausreform
-DTEND:20260714T180000Z
-LOCATION:  Vor-Ort | Stadthalle Zerbst/Anhalt\, Gartenstraße 21\, 39261 Zerbst/Anhalt
-DTSTART:20260714T160000Z
-SUMMARY:Krankenhausreform
-UID:0154d1e0-0f2d-46fb-9f1c-ce3947d928b3@0154.org
-URL:https://spdfraktion.de/termine/2026-07-14-krankenhausreform
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Parsa Marvi\nhttps://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-jobs-wachstum-tun-0
@@ -1010,22 +983,13 @@ UID:8e0ada9e-0889-438e-b0d4-ce874b54eddb@8e0a.org
 URL:https://spdfraktion.de/termine/2026-06-02-pflegefreundliche-kommune-gute-pflege-rechnet
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dagmar Schmidt (Wetzlar)\, Dennis Rohde\nhttps://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive-1
-DTEND:20251118T170000Z
-LOCATION:  Vor-Ort | SIBRE-Sportzentrum Haarwasen\, Sportplatzstraße 22\, 35708 Haiger
-DTSTART:20251118T150000Z
-SUMMARY:Wir starten die  Investitionsoffensive
-UID:6add64ec-a8db-4ee5-a68f-ce6e3b2ca70f@6add.org
-URL:https://spdfraktion.de/termine/2025-11-18-wir-starten-investitionsoffensive-1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Helmut Kleebank\, Dr. Carolin Wagner\nhttps://spdfraktion.de/termine/2026-06-09-ki-kollegin-konkurrenz
-DTEND:20260609T183000Z
-LOCATION:  Vor-Ort | Josua-Gemeinde\, Bismarckstraße 20\, 13585 Berlin
-DTSTART:20260609T170000Z
-SUMMARY:KI – Kolleg:in oder Konkurrenz?
-UID:d43a4515-fa28-4ae0-8fec-5983bbf3720b@d43a.org
-URL:https://spdfraktion.de/termine/2026-06-09-ki-kollegin-konkurrenz
+DESCRIPTION:Mit: Martin Kröber\, Dr. Nils Schmid\nhttps://spdfraktion.de/termine/2026-07-07-bundeswehr-arbeitgeber
+DTEND:20260707T193000Z
+LOCATION:  Vor-Ort | Bootshaus Weißenfels\, Beuditz-Vorstadt 23\, 06667 Weißenfels
+DTSTART:20260707T180000Z
+SUMMARY:Bundeswehr als Arbeitgeber
+UID:9aba5a8d-f80e-488a-837e-07e3a09d847b@9aba.org
+URL:https://spdfraktion.de/termine/2026-07-07-bundeswehr-arbeitgeber
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Martin Kröber\, Bärbel Bas\nhttps://spdfraktion.de/termine/2026-07-22-rente
@@ -1037,13 +1001,22 @@ UID:0f9ddca1-3fb0-49c4-a8c4-a2662d68a157@0f9d.org
 URL:https://spdfraktion.de/termine/2026-07-22-rente
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Holger Mann\, Nadja Sthamer\nhttps://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
-DTEND:20241213T180000Z
-LOCATION:  Vor-Ort | JEDERMANNS\, Georg-Schumann-Straße 133\, 04155 Leipzig
-DTSTART:20241213T160000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:37a56f5f-2b56-4805-b0ce-464072d68b19@37a5.org
-URL:https://spdfraktion.de/termine/2024-12-13-sichern-wir-frieden
+DESCRIPTION:Mit: Nancy Faeser\, Daniel Baldy\nhttps://spdfraktion.de/termine/2025-12-11-demokratie-verteidigen
+DTEND:20251211T190000Z
+LOCATION:  Vor-Ort | Südringtreff e.V.\, Südring 16\, 65795 Hattersheim
+DTSTART:20251211T173000Z
+SUMMARY:Demokratie verteidigen
+UID:ecf11884-654c-42d4-b0f1-b73378342492@ecf1.org
+URL:https://spdfraktion.de/termine/2025-12-11-demokratie-verteidigen
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Dr. Franziska Kersten\, Jens Peick\nhttps://spdfraktion.de/termine/2026-07-21-sichere-renten-wir-alterssicherungssystem-fit-zukunft
+DTEND:20260721T180000Z
+LOCATION:  Vor-Ort | Kulturstiftung Bernburg\, Friedrichstraße 27\, 06406 Bernburg (Saale)
+DTSTART:20260721T160000Z
+SUMMARY:Sichere Renten - Wie machen wir unser Alterssicherungssystem fit für die Zukunft? 
+UID:4d8ea9cc-b39a-4e5e-ac5e-9090e0ef420a@4d8e.org
+URL:https://spdfraktion.de/termine/2026-07-21-sichere-renten-wir-alterssicherungssystem-fit-zukunft
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Natalie Pawlik\, Hannes Walter
@@ -1091,22 +1064,49 @@ UID:7daa7d98-979a-4a25-b714-2c3f8749e6d7@7daa.org
 URL:https://spdfraktion.de/termine/2024-12-11-hausnummer-null
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Matthias Mieves\, Dr. Christos Pantazis\, Sebastian Roloff\, Bärbel Bas\nhttps://spdfraktion.de/fachforumgesundheitswirtschaft
-DTEND:20251126T133000Z
-LOCATION:  Vor-Ort | Deutscher Bundestag\, Paltz der Republik 1\, 11011 Berlin
-DTSTART:20251126T120000Z
-SUMMARY:Fachforum industrielle Gesundheitswirtschaft
-UID:484e5336-7ac5-45f2-8e2c-edd8699c8c75@484e.org
-URL:https://spdfraktion.de/fachforumgesundheitswirtschaft
+DESCRIPTION:Mit: Frank Junge\, Nancy Faeser\nhttps://spdfraktion.de/termine/2025-11-03-schuetzen-wir-demokratie
+DTEND:20251103T193000Z
+LOCATION:  Vor-Ort | TGZ Wismar Technologie- und Gewerbezentrum e.V.\, Alter Holzhafen 19\, 23966 Wismar
+DTSTART:20251103T170000Z
+SUMMARY:Wie schützen wir die Demokratie?
+UID:666f4b04-6f0d-406e-a4bd-f68b865c431b@666f.org
+URL:https://spdfraktion.de/termine/2025-11-03-schuetzen-wir-demokratie
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Sören Bartol\, Dr. Philipp Rottwilm\nhttps://spdfraktion.de/termine/2025-10-31-wir-zuenden-bau-turbo
-DTEND:20251031T200000Z
-LOCATION:  Vor-Ort | Stadthalle Stadtallendorf\, Bahnhofstraße 2\, 35260 Stadtallendorf
-DTSTART:20251031T180000Z
-SUMMARY:Wir zünden den Bau-Turbo
-UID:090f37ad-7382-4e5e-a7f7-f98eb5569c89@090f.org
-URL:https://spdfraktion.de/termine/2025-10-31-wir-zuenden-bau-turbo
+DESCRIPTION:Mit: Martin Kröber\, Sebastian Fiedler\nhttps://spdfraktion.de/termine/2026-07-24-sicherheit-tun-wir-genug-sicherheit
+DTEND:20260724T170000Z
+LOCATION:  Vor-Ort | im Ernst-Reuter-Haus\, Bürgelstraße 1\, 39104 Magdeburg
+DTSTART:20260724T150000Z
+SUMMARY:Sicherheit – Tun wir genug für unsere Sicherheit?
+UID:2d12a101-a3f8-4f7e-88d5-2d34ba090825@2d12.org
+URL:https://spdfraktion.de/termine/2026-07-24-sicherheit-tun-wir-genug-sicherheit
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Dr. Franziska Kersten\, Michael Thews\, Bernd Rützel\nhttps://spdfraktion.de/termine/2026-07-21-sichere-renten
+DTEND:20260721T180000Z
+LOCATION:  Vor-Ort | Landkreis Stendal\, Hospitalstr. 1-2\, 39576 Hansestadt Stendal
+DTSTART:20260721T160000Z
+SUMMARY:Sichere Renten
+UID:884c55bd-2058-4a9f-b953-0b177c63c75d@884c.org
+URL:https://spdfraktion.de/termine/2026-07-21-sichere-renten
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Dr. Nina Scheer\, Dr. Matthias Miersch\, Armand Zorn\, Helmut Kleebank\, Mahmut Özdemir (Duisburg)\, Daniel Bettermann\, Dunja Kreiser\, Martin Kröber\nhttps://spdfraktion.de/energiewende-jetzt-erst-recht
+DTEND:20260519T190000Z
+LOCATION:  Vor-Ort | Paul-Löbe-Haus\, Konrad-Adenauer-Str. 1\, 10557 Berlin
+DTSTART:20260519T163000Z
+SUMMARY:Energiewende: Jetzt erst recht!
+UID:0310b17a-c3c0-4f8f-9d67-456cdc9c8e78@0310.org
+URL:https://spdfraktion.de/energiewende-jetzt-erst-recht
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Sanae Abdi\, Hendrik Bollmann\nhttps://spdfraktion.de/termine/2026-07-15-bau-turbo-ort
+DTEND:20260715T173000Z
+LOCATION:  Vor-Ort | Haus der Architektur Köln HdAK\, Josef-Haubrich-Hof\, 50676 Köln
+DTSTART:20260715T160000Z
+SUMMARY:„Bau-Turbo“ vor Ort
+UID:fd674ad1-207a-40c1-b2f4-3c8ab1cfb960@fd67.org
+URL:https://spdfraktion.de/termine/2026-07-15-bau-turbo-ort
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Jakob Blankenburg\, Frauke Heiligenstadt\nhttps://spdfraktion.de/termine/2025-10-24-wir-starten-investitionsoffensive
@@ -1118,15 +1118,6 @@ UID:afdc5ae7-4c8a-448b-8831-092a15cfbba6@afdc.org
 URL:https://spdfraktion.de/termine/2025-10-24-wir-starten-investitionsoffensive
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Martin Kröber\, Dr. Rolf Mützenich\nhttps://spdfraktion.de/termine/2026-04-22-sichern-wir-frieden
-DTEND:20260422T153000Z
-LOCATION:  Vor-Ort | Soziokulturelles Zentrum\, Wilhelm-Hellge-Straße 3\, 39218 Schönebeck
-DTSTART:20260422T140000Z
-SUMMARY:Wie sichern wir Frieden?
-UID:00f40dbe-b456-488a-ab6c-a398f63062b4@00f4.org
-URL:https://spdfraktion.de/termine/2026-04-22-sichern-wir-frieden
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
 DTEND:20241121T204500Z
 LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
@@ -1134,6 +1125,15 @@ DTSTART:20241121T190000Z
 SUMMARY:Demokratie retten. Jetzt erst recht!
 UID:5aeec2e8-3626-4e45-8e83-b1e5429c5eba@5aee.org
 URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Heike Heubach\, Christoph Schmid\nhttps://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
+DTEND:20241123T191500Z
+LOCATION:  Vor-Ort | Gaststätte Hillenbrand\, Bauernstraße 13\, 86368 Gersthofen
+DTSTART:20241123T173000Z
+SUMMARY:Wie sichern wir Frieden?
+UID:e42f1ad1-2544-44a7-ac44-f4b7ee449534@e42f.org
+URL:https://spdfraktion.de/termine/2024-11-23-sichern-wir-frieden
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Sebastian Roloff\nhttps://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-tun
@@ -1145,15 +1145,6 @@ UID:9175ef13-a320-4141-ba4e-204b7b0629b4@9175.org
 URL:https://spdfraktion.de/termine/2025-10-22-anpacken-muss-politik-tun
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Sören Bartol\nhttps://spdfraktion.de/termine/2025-10-11-anpacken-muss-politik-tun
-DTEND:20251011T133000Z
-LOCATION:  Vor-Ort | Sören Bartol\, MdB\, Biegenstraße 33\, 35037 Marburg
-DTSTART:20251011T123000Z
-SUMMARY:Anpacken! Was muss die Politik jetzt tun?
-UID:96c0e78f-2f38-494a-affd-8aec7b1245b1@96c0.org
-URL:https://spdfraktion.de/termine/2025-10-11-anpacken-muss-politik-tun
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Johannes Schätzl\, Sebastian Roloff
 DTEND:20241121T183000Z
 LOCATION:  Vor-Ort | Gasthof Auer\, Heininger Str. 26\, 94036 Passau
@@ -1161,6 +1152,15 @@ DTSTART:20241121T173000Z
 SUMMARY:Wie sichern wir Jobs und Wachstum?
 UID:4e72af61-3584-4cbe-afbf-48516aeb85b2@4e72.org
 URL:https://spdfraktion.de/termine/2024-11-21-sichern-wir-jobs-wachstum
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Sören Bartol\nhttps://spdfraktion.de/termine/2025-10-11-anpacken-muss-politik-tun
+DTEND:20251011T133000Z
+LOCATION:  Vor-Ort | Sören Bartol\, MdB\, Biegenstraße 33\, 35037 Marburg
+DTSTART:20251011T123000Z
+SUMMARY:Anpacken! Was muss die Politik jetzt tun?
+UID:96c0e78f-2f38-494a-affd-8aec7b1245b1@96c0.org
+URL:https://spdfraktion.de/termine/2025-10-11-anpacken-muss-politik-tun
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Carmen Wegge\nhttps://spdfraktion.de/termine/2025-10-21-anpacken-muss-bund-tun-damit-ort-besser-laeuft
@@ -1181,13 +1181,31 @@ UID:0c111f2d-1962-428a-aae2-815174a8cd34@0c11.org
 URL:https://spdfraktion.de/anwaltstag2025
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Franziska Kersten\, Jens Peick\nhttps://spdfraktion.de/termine/2026-07-21-sichere-renten-wir-alterssicherungssystem-fit-zukunft
-DTEND:20260721T180000Z
-LOCATION:  Vor-Ort | Kulturstiftung Bernburg\, Friedrichstraße 27\, 06406 Bernburg (Saale)
-DTSTART:20260721T160000Z
-SUMMARY:Sichere Renten - Wie machen wir unser Alterssicherungssystem fit für die Zukunft? 
-UID:e969db80-b19a-467c-b87b-76f4b8bf7b75@e969.org
-URL:https://spdfraktion.de/termine/2026-07-21-sichere-renten-wir-alterssicherungssystem-fit-zukunft
+DESCRIPTION:Mit: Oliver Kaczmarek\, Sebastian Hartmann\nhttps://spdfraktion.de/termine/2025-11-18-wehrdienst-freiwillig
+DTEND:20251118T120000Z
+LOCATION:  Vor-Ort | Bürgerforum Königsborn\, Döbelner Str. 7\, 59425 Unna
+DTSTART:20251118T103000Z
+SUMMARY:Wehrdienst – aber freiwillig!
+UID:8230d0bf-c3d0-459c-b04e-6334eb64ad4a@8230.org
+URL:https://spdfraktion.de/termine/2025-11-18-wehrdienst-freiwillig
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Sebastian Roloff\, Bernd Rützel\nhttps://spdfraktion.de/termine/2025-12-10-sicherheit-alter
+DTEND:20251210T200000Z
+LOCATION:  Vor-Ort | Spöckmeier (Festzeltbox)\, Rosenstr. 9\, 80331 München
+DTSTART:20251210T183000Z
+SUMMARY:Sicherheit auch im Alter
+UID:0355b438-cc33-4987-b5fd-f144ea35906e@0355.org
+URL:https://spdfraktion.de/termine/2025-12-10-sicherheit-alter
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Helmut Kleebank\, Carmen Wegge\nhttps://spdfraktion.de/termine/2026-04-14-gewaltschutz
+DTEND:20260414T184500Z
+LOCATION:  Vor-Ort | Gemeindesaal der Josua-Gemeinde\, Bismarckstraße 20\, 13585 Berlin
+DTSTART:20260414T170000Z
+SUMMARY:Gewaltschutz 
+UID:cb0f6590-7f0e-4800-8c6e-763bf3fde3b3@cb0f.org
+URL:https://spdfraktion.de/termine/2026-04-14-gewaltschutz
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Carsten Schneider (Erfurt)\, Elisabeth Kaiser
@@ -1199,15 +1217,6 @@ UID:f75414d9-538f-45fb-b8c8-6a34c61e5748@f754.org
 URL:https://spdfraktion.de/termine/2024-11-20-sichern-wir-jobs-wachstum
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Hannes Walter\, Bernd Westphal\nhttps://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-DTEND:20241217T171500Z
-LOCATION:  Vor-Ort | Verein zur Förderung des Landlebens Massen-NL\, Dorfstraße 29a\, 03238 Massen
-DTSTART:20241217T160000Z
-SUMMARY:Wie sichern wir Jobs und Wachstum?
-UID:07117bdf-8cd8-48ca-9ff5-10670116037d@0711.org
-URL:https://spdfraktion.de/termine/2024-12-17-sichern-wir-jobs-wachstum
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Mit: Josephine Ortleb\, Emily Vontz
 DTEND:20241120T184500Z
 LOCATION:  Vor-Ort | Halle4\, Halbergstraße 4\, 66121 Saarbrücken
@@ -1215,6 +1224,15 @@ DTSTART:20241120T170000Z
 SUMMARY:Familien nach vorne bringen
 UID:015a1ac1-231b-44bb-bc6d-c69876ff8879@015a.org
 URL:https://spdfraktion.de/termine/2024-11-20-familien-vorne-bringen
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mit: Daniel Bettermann\, Sören Bartol\nhttps://spdfraktion.de/termine/2025-12-10-wir-zuenden-bau-turbo
+DTEND:20251210T200000Z
+LOCATION:  Vor-Ort | Neue Denkerei\, Friedrichsstraße 28\, Kassel 34117
+DTSTART:20251210T180000Z
+SUMMARY:Wir zünden den Bau-Turbo
+UID:93bf605f-6a28-434c-ae8e-1d65a72eca3d@93bf.org
+URL:https://spdfraktion.de/termine/2025-12-10-wir-zuenden-bau-turbo
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Carsten Träger\, Sabine Dittmar
@@ -1235,22 +1253,13 @@ UID:c513b69b-f1f6-42a0-a6c1-9041ef8af53b@c513.org
 URL:https://spdfraktion.de/termine/2024-11-20-turbo-erneuerbare-energien
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Dr. Franziska Kersten\, Michael Thews\, Bernd Rützel\nhttps://spdfraktion.de/termine/2026-07-10-sichere-renten
-DTEND:20260710T180000Z
-LOCATION:  Vor-Ort | Landkreis Stendal\, Hospitalstr. 1-2\, 39576 Hansestadt Stendal
-DTSTART:20260710T160000Z
-SUMMARY:Sichere Renten
-UID:354616c9-bb8a-4cdc-983b-9ec197e31fa5@3546.org
-URL:https://spdfraktion.de/termine/2026-07-10-sichere-renten
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
-DTEND:20241121T194500Z
-LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
-DTSTART:20241121T180000Z
-SUMMARY:Demokratie retten. Jetzt erst recht!
-UID:4636887d-1a06-4348-a186-5ca51883e734@4636.org
-URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
+DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
+DTEND:20241122T153000Z
+LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
+DTSTART:20241122T140000Z
+SUMMARY:Was tun\, damit alle im Alter gut abgesichert leben können?
+UID:9860c1f2-ff82-45cf-ad1e-59d81e978e74@9860.org
+URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Svenja Stadler\, Leni Breymaier
@@ -1262,22 +1271,13 @@ UID:644be4ce-969e-4219-a21c-33b25981a740@644b.org
 URL:https://spdfraktion.de/termine/2024-11-15-kein-tabu-wir-reden-drueber-haeusliche-gewalt
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Mit: Claudia Tausend\, Sebastian Roloff
-DTEND:20241122T153000Z
-LOCATION:  Vor-Ort | Café Scheidplatz\, Belgradstraße 104\, 80804 München
-DTSTART:20241122T140000Z
-SUMMARY:Was tun\, damit alle im Alter gut abgesichert leben können?
-UID:9860c1f2-ff82-45cf-ad1e-59d81e978e74@9860.org
-URL:https://spdfraktion.de/termine/2024-11-22-tun-damit-alle-alter-gut-abgesichert-leben-koennen
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Mit: Sanae Abdi\, Hendrik Bollmann\nhttps://spdfraktion.de/termine/2026-07-15-bau-turbo-ort
-DTEND:20260715T173000Z
-LOCATION:  Vor-Ort | Haus der Architektur Köln HdAK\, Josef-Haubrich-Hof\, 50676 Köln
-DTSTART:20260715T160000Z
-SUMMARY:„Bau-Turbo“ vor Ort
-UID:d14cdf95-caf1-4e34-af21-f82332572e57@d14c.org
-URL:https://spdfraktion.de/termine/2026-07-15-bau-turbo-ort
+DESCRIPTION:Mit: Manuel Gava\, Anna Kassautzki
+DTEND:20241121T194500Z
+LOCATION:  Vor-Ort | Balou\, Seminarstraße 32\, 49074 Osnabrück
+DTSTART:20241121T180000Z
+SUMMARY:Demokratie retten. Jetzt erst recht!
+UID:4636887d-1a06-4348-a186-5ca51883e734@4636.org
+URL:https://spdfraktion.de/termine/2024-11-21-demokratie-retten-erst-recht
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Mit: Sanae Abdi\, Reem Alabali-Radovan\nhttps://spdfraktion.de/termine/2024-11-29-steuern-wir-migration
