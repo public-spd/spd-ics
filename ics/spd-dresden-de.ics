@@ -57,15 +57,6 @@ UID:1c371d03-84c4-41ea-aca2-b4f90725b75b@1c37.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20260717T110000Z
-LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
-DTSTART:20260717T090000Z
-SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
-UID:6847b0e1-5d21-4f9e-8930-68ed8f6ae32d@6847.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20260817T203000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
