@@ -49,15 +49,6 @@ URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20260720T203000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20260720T190000Z
-SUMMARY:SPD OV Elbhang/Hochland
-UID:1c371d03-84c4-41ea-aca2-b4f90725b75b@1c37.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20260817T203000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
 DTSTART:20260817T190000Z
