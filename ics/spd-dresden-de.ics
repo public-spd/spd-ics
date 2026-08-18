@@ -47,13 +47,4 @@ SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
 UID:23aef945-40a9-4346-b713-21e545daf8b2@23ae.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Link: https://www.spd-dresden.de/termine/
-DTEND:20260817T203000Z
-LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
-DTSTART:20260817T190000Z
-SUMMARY:SPD OV Elbhang/Hochland
-UID:aac0103d-c557-4887-9e08-364384b0a4c8@aac0.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
 END:VCALENDAR
