@@ -12,21 +12,21 @@ UID:23aef945-40a9-4346-b713-21e545daf8b2@23ae.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
-DTEND:20261113T110000Z
-LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
-DTSTART:20261113T090000Z
-SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
-UID:3143ec88-95c9-4c92-b1dd-62b1b56d1a41@3143.org
-URL:https://www.spd-dresden.de/termine/
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Link: https://www.spd-dresden.de/termine/
 DTEND:20260921T203000Z
 LOCATION:Bautzner Landstraße 17 A\, 01324 Dresden
 DTSTART:20260921T190000Z
 SUMMARY:SPD OV Elbhang/Hochland
 UID:5b6b0a4c-41ea-47b0-b536-4f185b1f2645@5b6b.org
+URL:https://www.spd-dresden.de/termine/
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Die SPD- Dresden vor Ort: ansprechbar und gesprächsbereitfür Ihre Anliegen und Fragen.\nLink: https://www.spd-dresden.de/termine/
+DTEND:20261113T110000Z
+LOCATION:Lingnermarkt\, nahe Haltestelle Georg-Arnhold-Bad
+DTSTART:20261113T090000Z
+SUMMARY:SPD-Dresden vor Ort: Infostand am Lingnermarkt
+UID:3143ec88-95c9-4c92-b1dd-62b1b56d1a41@3143.org
 URL:https://www.spd-dresden.de/termine/
 END:VEVENT
 BEGIN:VEVENT
